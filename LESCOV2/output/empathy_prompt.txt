@@ -1,0 +1,33 @@
+
+Crea un mapa de empatía profesional estilo UX Research y Human-Centered Design basado EXCLUSIVAMENTE en comentarios reales de YouTube sobre aprendizaje de LESCO en Costa Rica.
+
+PATRONES DETECTADOS:
+
+{'frustracion': 17, 'motivacion': 396, 'inclusion': 45}
+
+PALABRAS MÁS FRECUENTES:
+
+[('de', 763), ('y', 660), ('que', 558), ('el', 496), ('es', 470), ('a', 441), ('la', 407), ('en', 367), ('nombre', 322), ('dios', 317), ('por', 297), ('mi', 266), ('no', 258), ('su', 252), ('me', 249), ('los', 225), ('gracias', 213), ('te', 206), ('para', 185), ('se', 176)]
+
+REQUISITOS:
+
+- detectar frustraciones,
+- emociones,
+- motivaciones,
+- necesidades,
+- barreras de aprendizaje,
+- inclusión,
+- accesibilidad,
+- aprendizaje autodidacta.
+
+Generar:
+
+- ¿Qué piensa y siente?
+- ¿Qué oye?
+- ¿Qué ve?
+- ¿Qué dice y hace?
+- Esfuerzos / frustraciones
+- Resultados / necesidades
+
+NO INVENTAR INFORMACIÓN.
+Usar únicamente patrones reales.

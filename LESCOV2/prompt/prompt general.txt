@@ -1,0 +1,347 @@
+Actúa como un Senior Python Engineer + UX Research Engineer + Data Engineer especializado en:
+
+* extracción de datos desde YouTube,
+* NLP,
+* Human-Centered Design (HCD),
+* UX Research,
+* automatización académica,
+* generación de mapas de empatía mediante IA.
+
+Tu objetivo es GENERAR TODO EL CÓDIGO COMPLETO DEL PROYECTO siguiendo EXACTAMENTE todos los requerimientos indicados.
+
+# IMPORTANTE
+
+NO resumir.
+NO explicar de forma superficial.
+NO omitir archivos.
+NO usar pseudocódigo.
+NO dejar funciones incompletas.
+NO inventar rutas distintas.
+NO simplificar arquitectura.
+
+Debes generar:
+
+* código completo,
+* archivos completos,
+* estructura completa,
+* README,
+* requirements,
+* manejo de errores,
+* logging,
+* validaciones,
+* procesamiento de texto,
+* scripts funcionales.
+
+Todo debe ser funcional y listo para ejecutar.
+
+# OBJETIVO GENERAL
+
+Construir un sistema automatizado en Python que:
+
+1. Lea playlists de YouTube almacenadas en TXT.
+2. Extraiga URLs de videos.
+3. Ignore playlists.
+4. Valide disponibilidad de videos.
+5. Descargue comentarios de YouTube.
+6. Genere logs y reportes.
+7. Prepare datos para IA y UX Research.
+8. Permita posteriormente generar mapas de empatía automáticos.
+
+# ESTRUCTURA OBLIGATORIA DEL PROYECTO
+
+lesco-empathy-ai/
+│
+├── playlist/
+│   ├── playlist1.txt
+│   ├── playlist2.txt
+│   └── ...
+│
+├── output/
+│   ├── video_urls.txt
+│   ├── videos_validos.txt
+│   ├── videos_no_analizados.txt
+│   ├── reporte_errores.txt
+│   ├── out.txt
+│   └── logs.txt
+│
+├── scripts/
+│   ├── extract_video_urls.py
+│   ├── validate_videos.py
+│   ├── download_comments.py
+│   ├── clean_comments.py
+│   ├── generate_empathy_prompt.py
+│   └── utils.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+# REQUERIMIENTOS TÉCNICOS
+
+Usar:
+
+* Python 3.10+
+* pathlib
+* re
+* pandas
+* tqdm
+* yt-dlp
+* youtube-comment-downloader
+* time
+* random
+* logging
+* emoji
+* nltk
+* langdetect
+
+# IMPORTANTE SOBRE IMPORTS
+
+El import correcto es:
+
+from youtube_comment_downloader import YoutubeCommentDownloader
+
+NO usar:
+import YoutubeCommentDownloader
+
+# ENTORNO VIRTUAL
+
+El README debe incluir:
+
+Windows:
+python -m venv venv
+venv\Scripts\activate
+
+Mac/Linux:
+python -m venv venv
+source venv/bin/activate
+
+Instalación:
+pip install -r requirements.txt
+
+# OBJETIVO 1 — EXTRAER URLs
+
+Los TXT dentro de /playlist contienen listas así:
+
+Playlist: LESCO COSTA RICA: Clases
+URL: [https://www.youtube.com/watch?v=tB51TQeqhMo&list=PLB0l2sRa1n4oymxzaQoJiqothlP_GLtT3](https://www.youtube.com/watch?v=tB51TQeqhMo&list=PLB0l2sRa1n4oymxzaQoJiqothlP_GLtT3)
+
+1. Clase
+   [https://www.youtube.com/watch?v=tB51TQeqhMo](https://www.youtube.com/watch?v=tB51TQeqhMo)
+
+2. Clase
+   [https://www.youtube.com/watch?v=x2uEtuazglQ](https://www.youtube.com/watch?v=x2uEtuazglQ)
+
+REQUERIMIENTOS:
+
+* leer TODOS los TXT,
+* detectar URLs,
+* ignorar URLs con "&list=",
+* eliminar duplicados,
+* guardar:
+  output/video_urls.txt
+
+# OBJETIVO 2 — VALIDAR VIDEOS
+
+Usar yt-dlp para:
+
+* verificar disponibilidad,
+* detectar videos privados,
+* detectar bloqueos,
+* detectar videos eliminados,
+* detectar errores.
+
+Guardar:
+
+videos_validos.txt
+videos_no_analizados.txt
+
+Formato:
+ID_VIDEO | URL | ERROR | CATEGORIA
+
+Categorías:
+
+* PRIVADO
+* NO DISPONIBLE
+* RESTRINGIDO
+* OTRO
+
+# OBJETIVO 3 — REPORTE DE ERRORES
+
+Generar:
+output/reporte_errores.txt
+
+Debe incluir:
+
+* estadísticas,
+* total analizados,
+* total válidos,
+* total inválidos,
+* detalle por video,
+* clasificación de errores.
+
+# OBJETIVO 4 — DESCARGAR COMENTARIOS
+
+Usar:
+YoutubeCommentDownloader
+
+Requerimientos:
+
+* leer videos_validos.txt,
+* descargar comentarios,
+* manejar excepciones,
+* continuar aunque falle un video,
+* agregar delays aleatorios,
+* registrar errores.
+
+Formato de salida:
+output/out.txt
+
+TABULADO:
+
+Video_Origen	ID_Video	Usuario	Comentario	Likes	Hace cuanto tiempo
+
+# OBJETIVO 5 — LIMPIEZA DE DATOS
+
+Crear clean_comments.py
+
+Debe:
+
+* eliminar emojis excesivos,
+* eliminar saltos de línea,
+* eliminar comentarios vacíos,
+* limpiar caracteres raros,
+* normalizar espacios,
+* detectar idioma,
+* conservar UTF-8.
+
+Generar:
+output/out_clean.txt
+
+# OBJETIVO 6 — LOGGING
+
+Usar logging.
+
+Generar:
+output/logs.txt
+
+Registrar:
+
+* inicio de scripts,
+* cantidad de videos,
+* cantidad de comentarios,
+* errores,
+* timestamps,
+* videos procesados,
+* videos omitidos.
+
+# REQUERIMIENTOS DE CALIDAD
+
+TODO el código debe:
+
+* estar modularizado,
+* tener funciones reutilizables,
+* incluir comentarios,
+* manejar excepciones,
+* usar pathlib,
+* usar UTF-8,
+* usar tqdm,
+* ser escalable,
+* ser profesional,
+* seguir buenas prácticas.
+
+# README
+
+Generar README.md COMPLETO.
+
+Debe incluir:
+
+* descripción del proyecto,
+* arquitectura,
+* instalación,
+* dependencias,
+* estructura de carpetas,
+* ejemplos,
+* troubleshooting,
+* cómo ejecutar cada script,
+* explicación del pipeline,
+* posibles errores comunes.
+
+# .GITIGNORE
+
+Debe ignorar:
+
+venv/
+**pycache**/
+*.pyc
+output/
+.idea/
+.vscode/
+
+# IMPORTANTE
+
+Cuando generes el proyecto:
+
+1. Muestra PRIMERO la estructura completa.
+2. Luego genera cada archivo COMPLETO.
+3. Separar claramente cada archivo.
+4. NO truncar código.
+5. NO resumir.
+6. NO usar placeholders.
+7. TODO debe ser ejecutable.
+
+# REQUERIMIENTO EXTRA IMPORTANTE
+
+Crear un script:
+generate_empathy_prompt.py
+
+Que:
+
+* lea out_clean.txt,
+* detecte patrones,
+* genere automáticamente un prompt optimizado para IA generativa,
+* prepare contexto para mapas de empatía.
+
+# OBJETIVO FINAL
+
+Los comentarios serán utilizados para:
+
+* UX Research,
+* Human-Centered Design,
+* análisis emocional,
+* clustering,
+* empatía digital,
+* generación automática de:
+
+  * empathy maps,
+  * personas,
+  * journey maps,
+  * storyboards.
+
+# CONTEXTO DE INVESTIGACIÓN
+
+El proyecto busca investigar:
+
+“Cómo la Inteligencia Artificial puede aprovechar comentarios de YouTube para automatizar la construcción de mapas de empatía en contextos de aprendizaje de LESCO en Costa Rica.”
+
+# IMPORTANTE SOBRE EL MAPA DE EMPATÍA
+
+Posteriormente se utilizará IA para generar una infografía UX profesional basada EXCLUSIVAMENTE en out_clean.txt.
+
+El sistema debe preparar datos pensando en:
+
+* frustraciones,
+* emociones,
+* necesidades,
+* motivaciones,
+* comportamiento del usuario,
+* inclusión,
+* aprendizaje autodidacta,
+* accesibilidad,
+* retroalimentación,
+* gramática,
+* velocidad de aprendizaje,
+* apoyo a familiares sordos.
+
+# REQUERIMIENTO FINAL
+
+Genera TODO el proyecto completo y funcional siguiendo exactamente estas instrucciones.
