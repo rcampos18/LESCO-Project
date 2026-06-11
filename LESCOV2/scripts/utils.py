@@ -97,18 +97,22 @@ def classify_error(error_message: str) -> str:
     Clasifica errores de YouTube.
     """
 
-    error_message = error_message.lower()
+    error = error_message.lower()
 
-    if "private" in error_message:
+    if "this video is not available" in error:
+        return "VALIDACION_INCONCLUSA"
+
+    if "not a bot" in error:
+        return "AUTENTICACION"
+
+    if "too many requests" in error:
+        return "RATE_LIMIT"
+
+    if "unplayable" in error:
+        return "VALIDACION_INCONCLUSA"
+
+    if "private" in error:
         return "PRIVADO"
 
-    if "unavailable" in error_message:
-        return "NO DISPONIBLE"
-
-    if "restricted" in error_message:
-        return "RESTRINGIDO"
-
-    if "blocked" in error_message:
-        return "RESTRINGIDO"
-
-    return "OTRO"
+    if "deleted" in error:
+        return "ELIMINADO"

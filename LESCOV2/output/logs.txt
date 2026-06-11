@@ -1,367 +1,1902 @@
-2026-05-17 21:07:23,712 | INFO | Iniciando extracción de URLs...
-2026-05-17 21:07:23,712 | INFO | TXT encontrados: 27
-2026-05-17 21:07:23,721 | INFO | URLs extraídas: 266
-2026-05-17 21:07:23,722 | INFO | Archivo generado: /ws/camposr/LESCO Project/LESCOV2/output/video_urls.txt
-2026-05-17 21:07:31,562 | INFO | Iniciando validación de videos...
-2026-05-17 21:07:35,020 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
-2026-05-17 21:07:36,343 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
-2026-05-17 21:07:37,834 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | [0;31mERROR:[0m [youtube] -U-uBtVl7eM: This video is not available | OTRO
-2026-05-17 21:07:39,548 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
-2026-05-17 21:07:41,185 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
-2026-05-17 21:07:42,555 | INFO | VALIDO: https://www.youtube.com/watch?v=-uFy7MPFIKg
-2026-05-17 21:07:44,161 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
-2026-05-17 21:07:45,871 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
-2026-05-17 21:07:47,298 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
-2026-05-17 21:07:49,033 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
-2026-05-17 21:07:50,283 | INFO | VALIDO: https://www.youtube.com/watch?v=0glJRf0gPgk
-2026-05-17 21:07:51,878 | INFO | VALIDO: https://www.youtube.com/watch?v=0kbgGe32VJ8
-2026-05-17 21:07:53,116 | INFO | VALIDO: https://www.youtube.com/watch?v=1LFvEg4rCyk
-2026-05-17 21:07:54,497 | INFO | VALIDO: https://www.youtube.com/watch?v=1XloJUfEbfE
-2026-05-17 21:07:55,846 | INFO | VALIDO: https://www.youtube.com/watch?v=1aIuVPHeIts
-2026-05-17 21:07:57,168 | INFO | VALIDO: https://www.youtube.com/watch?v=1oro-Dbv610
-2026-05-17 21:07:58,771 | INFO | VALIDO: https://www.youtube.com/watch?v=1p0LGIqR_k0
-2026-05-17 21:08:00,311 | INFO | VALIDO: https://www.youtube.com/watch?v=1r_ugCtCgnM
-2026-05-17 21:08:01,954 | INFO | VALIDO: https://www.youtube.com/watch?v=1riA11y67vc
-2026-05-17 21:08:03,468 | INFO | VALIDO: https://www.youtube.com/watch?v=1upUST-r3iw
-2026-05-17 21:08:05,080 | INFO | VALIDO: https://www.youtube.com/watch?v=1wzRCIzmX_o
-2026-05-17 21:08:06,290 | INFO | VALIDO: https://www.youtube.com/watch?v=22ovpK3pZmI
-2026-05-17 21:08:07,777 | INFO | VALIDO: https://www.youtube.com/watch?v=2BZD7yM9aLE
-2026-05-17 21:08:09,370 | INFO | VALIDO: https://www.youtube.com/watch?v=3CcpQFkQ1X8
-2026-05-17 21:08:10,974 | INFO | VALIDO: https://www.youtube.com/watch?v=3FJDrFFu6QI
-2026-05-17 21:08:12,418 | INFO | VALIDO: https://www.youtube.com/watch?v=3WvYkTHM3wc
-2026-05-17 21:08:13,818 | INFO | VALIDO: https://www.youtube.com/watch?v=3jHHuemHwR0
-2026-05-17 21:08:15,457 | INFO | VALIDO: https://www.youtube.com/watch?v=4XUwEGDkGNk
-2026-05-17 21:08:17,154 | INFO | VALIDO: https://www.youtube.com/watch?v=59Hf8BK_qh8
-2026-05-17 21:08:18,761 | INFO | VALIDO: https://www.youtube.com/watch?v=5HQir7vo8Sw
-2026-05-17 21:08:20,034 | INFO | VALIDO: https://www.youtube.com/watch?v=5KawEz-So30
-2026-05-17 21:08:21,224 | INFO | VALIDO: https://www.youtube.com/watch?v=5akqZrtaLG8
-2026-05-17 21:08:22,706 | INFO | VALIDO: https://www.youtube.com/watch?v=6B_SqxLl2aA
-2026-05-17 21:08:24,103 | ERROR | 6O6hjVRFR4o | https://www.youtube.com/watch?v=6O6hjVRFR4o | [0;31mERROR:[0m [youtube] 6O6hjVRFR4o: This video is not available | OTRO
-2026-05-17 21:08:25,595 | INFO | VALIDO: https://www.youtube.com/watch?v=6R77muguBXw
-2026-05-17 21:08:26,929 | INFO | VALIDO: https://www.youtube.com/watch?v=6l5J4N5SY24
-2026-05-17 21:08:28,254 | INFO | VALIDO: https://www.youtube.com/watch?v=7OgAAwjamwM
-2026-05-17 21:08:29,548 | INFO | VALIDO: https://www.youtube.com/watch?v=7RvOAiztpLI
-2026-05-17 21:08:31,415 | INFO | VALIDO: https://www.youtube.com/watch?v=7aMY-MtOuVs
-2026-05-17 21:08:33,198 | INFO | VALIDO: https://www.youtube.com/watch?v=7fymnVkNxkg
-2026-05-17 21:08:34,835 | INFO | VALIDO: https://www.youtube.com/watch?v=84m6vZc7WDc
-2026-05-17 21:08:36,425 | INFO | VALIDO: https://www.youtube.com/watch?v=8Z85LoQxl0A
-2026-05-17 21:08:38,153 | ERROR | 9Bz8FdX3k8g | https://www.youtube.com/watch?v=9Bz8FdX3k8g | [0;31mERROR:[0m [youtube] 9Bz8FdX3k8g: This video is not available | OTRO
-2026-05-17 21:08:39,443 | ERROR | 9EHd-nMFpfY | https://www.youtube.com/watch?v=9EHd-nMFpfY | [0;31mERROR:[0m [youtube] 9EHd-nMFpfY: This video is not available | OTRO
-2026-05-17 21:08:40,811 | INFO | VALIDO: https://www.youtube.com/watch?v=9SdpGOltwyc
-2026-05-17 21:08:42,258 | INFO | VALIDO: https://www.youtube.com/watch?v=9uqr6UvcKzg
-2026-05-17 21:08:43,792 | INFO | VALIDO: https://www.youtube.com/watch?v=AVqtIy6eCb8
-2026-05-17 21:08:45,235 | ERROR | A_WjCglWbz4 | https://www.youtube.com/watch?v=A_WjCglWbz4 | [0;31mERROR:[0m [youtube] A_WjCglWbz4: This video is not available | OTRO
-2026-05-17 21:08:46,537 | INFO | VALIDO: https://www.youtube.com/watch?v=AuKs97cqHuE
-2026-05-17 21:08:48,255 | INFO | VALIDO: https://www.youtube.com/watch?v=B7kqwXxPnf0
-2026-05-17 21:08:49,663 | INFO | VALIDO: https://www.youtube.com/watch?v=BM46L7sFbLQ
-2026-05-17 21:08:51,045 | INFO | VALIDO: https://www.youtube.com/watch?v=BgV-cBRzh90
-2026-05-17 21:08:52,412 | INFO | VALIDO: https://www.youtube.com/watch?v=BjYvrg-6nUw
-2026-05-17 21:08:53,905 | INFO | VALIDO: https://www.youtube.com/watch?v=C-AIJ9QS1YA
-2026-05-17 21:08:55,402 | INFO | VALIDO: https://www.youtube.com/watch?v=C5ebz-xPGo8
-2026-05-17 21:08:56,869 | INFO | VALIDO: https://www.youtube.com/watch?v=C67ZfSeWb6w
-2026-05-17 21:08:58,545 | INFO | VALIDO: https://www.youtube.com/watch?v=C9yV_TFoJ4s
-2026-05-17 21:08:59,914 | INFO | VALIDO: https://www.youtube.com/watch?v=CPfxqLmAnl8
-2026-05-17 21:09:01,238 | INFO | VALIDO: https://www.youtube.com/watch?v=CdtHBPQRVus
-2026-05-17 21:09:02,763 | INFO | VALIDO: https://www.youtube.com/watch?v=CoxXR-mtQbk
-2026-05-17 21:09:04,199 | INFO | VALIDO: https://www.youtube.com/watch?v=CxsOZg6bbOY
-2026-05-17 21:09:05,960 | INFO | VALIDO: https://www.youtube.com/watch?v=D6i1wrd0b-E
-2026-05-17 21:09:07,605 | INFO | VALIDO: https://www.youtube.com/watch?v=DOl4HmeKvxY
-2026-05-17 21:09:10,237 | INFO | VALIDO: https://www.youtube.com/watch?v=E1XNCAXQY0A
-2026-05-17 21:09:11,551 | INFO | VALIDO: https://www.youtube.com/watch?v=E7QaC5gM4zg
-2026-05-17 21:09:12,908 | INFO | VALIDO: https://www.youtube.com/watch?v=EqPegNWaPu4
-2026-05-17 21:09:14,630 | INFO | VALIDO: https://www.youtube.com/watch?v=F6Agm-JWB1U
-2026-05-17 21:09:16,056 | INFO | VALIDO: https://www.youtube.com/watch?v=G0NVuip0Z4I
-2026-05-17 21:09:17,496 | INFO | VALIDO: https://www.youtube.com/watch?v=GaM_fq3VCKg
-2026-05-17 21:09:19,451 | INFO | VALIDO: https://www.youtube.com/watch?v=GcBL3D85qTU
-2026-05-17 21:09:21,111 | INFO | VALIDO: https://www.youtube.com/watch?v=GeXCeoLd92s
-2026-05-17 21:09:22,506 | INFO | VALIDO: https://www.youtube.com/watch?v=GkvdeEatu3g
-2026-05-17 21:09:24,006 | INFO | VALIDO: https://www.youtube.com/watch?v=H51wiM_v8AY
-2026-05-17 21:09:25,909 | INFO | VALIDO: https://www.youtube.com/watch?v=HHmfaLGfx-E
-2026-05-17 21:09:27,711 | INFO | VALIDO: https://www.youtube.com/watch?v=HP__kCuwCtg
-2026-05-17 21:09:29,638 | INFO | VALIDO: https://www.youtube.com/watch?v=Hg3tTOTMWFk
-2026-05-17 21:09:31,221 | INFO | VALIDO: https://www.youtube.com/watch?v=Hggn8BOGkSY
-2026-05-17 21:09:32,755 | INFO | VALIDO: https://www.youtube.com/watch?v=HhnturaQMJQ
-2026-05-17 21:09:34,453 | INFO | VALIDO: https://www.youtube.com/watch?v=Hni6THrR1IE
-2026-05-17 21:09:35,994 | INFO | VALIDO: https://www.youtube.com/watch?v=HwPGfGuP0UI
-2026-05-17 21:09:37,685 | INFO | VALIDO: https://www.youtube.com/watch?v=I2l2MVsR3h4
-2026-05-17 21:09:39,090 | INFO | VALIDO: https://www.youtube.com/watch?v=IX3ivwk_WfQ
-2026-05-17 21:09:40,857 | INFO | VALIDO: https://www.youtube.com/watch?v=Igz1nUWG0wg
-2026-05-17 21:09:43,020 | INFO | VALIDO: https://www.youtube.com/watch?v=J8DUqlPN75c
-2026-05-17 21:09:44,276 | INFO | VALIDO: https://www.youtube.com/watch?v=JP57AHO-Wig
-2026-05-17 21:09:45,805 | INFO | VALIDO: https://www.youtube.com/watch?v=JRk-JdaUWu4
-2026-05-17 21:09:47,072 | ERROR | JRwqLW16VJo | https://www.youtube.com/watch?v=JRwqLW16VJo | [0;31mERROR:[0m [youtube] JRwqLW16VJo: This video is not available | OTRO
-2026-05-17 21:09:48,366 | INFO | VALIDO: https://www.youtube.com/watch?v=JSVMUbrUHOU
-2026-05-17 21:09:49,787 | INFO | VALIDO: https://www.youtube.com/watch?v=JSrcKsbVz98
-2026-05-17 21:09:51,221 | INFO | VALIDO: https://www.youtube.com/watch?v=JV9cee3lE8A
-2026-05-17 21:09:52,781 | INFO | VALIDO: https://www.youtube.com/watch?v=JdMyoyVU68A
-2026-05-17 21:09:53,975 | ERROR | JpHdMLFFPa4 | https://www.youtube.com/watch?v=JpHdMLFFPa4 | [0;31mERROR:[0m [youtube] JpHdMLFFPa4: This video is not available | OTRO
-2026-05-17 21:09:55,446 | INFO | VALIDO: https://www.youtube.com/watch?v=K1_y63sjysA
-2026-05-17 21:09:56,818 | ERROR | KD2l5dQE1YI | https://www.youtube.com/watch?v=KD2l5dQE1YI | [0;31mERROR:[0m [youtube] KD2l5dQE1YI: This video is not available | OTRO
-2026-05-17 21:09:57,937 | INFO | VALIDO: https://www.youtube.com/watch?v=KGFNe5sHwhU
-2026-05-17 21:09:59,488 | INFO | VALIDO: https://www.youtube.com/watch?v=KR8J_0142q8
-2026-05-17 21:10:00,988 | ERROR | L49HQi6HFnQ | https://www.youtube.com/watch?v=L49HQi6HFnQ | [0;31mERROR:[0m [youtube] L49HQi6HFnQ: This video is not available | OTRO
-2026-05-17 21:10:02,758 | INFO | VALIDO: https://www.youtube.com/watch?v=LfV0WdK9jEA
-2026-05-17 21:10:04,448 | ERROR | M3qBgK68wkU | https://www.youtube.com/watch?v=M3qBgK68wkU | [0;31mERROR:[0m [youtube] M3qBgK68wkU: This video is not available | OTRO
-2026-05-17 21:10:05,890 | INFO | VALIDO: https://www.youtube.com/watch?v=M7klZsAX_nk
-2026-05-17 21:10:07,729 | INFO | VALIDO: https://www.youtube.com/watch?v=ME_z-JaXWf0
-2026-05-17 21:10:09,413 | INFO | VALIDO: https://www.youtube.com/watch?v=MMXllWfBo40
-2026-05-17 21:10:11,040 | ERROR | MRY2YPIdoJo | https://www.youtube.com/watch?v=MRY2YPIdoJo | [0;31mERROR:[0m [youtube] MRY2YPIdoJo: This video is not available | OTRO
-2026-05-17 21:10:12,935 | INFO | VALIDO: https://www.youtube.com/watch?v=MWIeYdmgS3o
-2026-05-17 21:10:14,738 | ERROR | NJJkahNeDpc | https://www.youtube.com/watch?v=NJJkahNeDpc | [0;31mERROR:[0m [youtube] NJJkahNeDpc: This video is not available | OTRO
-2026-05-17 21:10:16,128 | INFO | VALIDO: https://www.youtube.com/watch?v=NNGPWK8Ok4o
-2026-05-17 21:10:17,336 | INFO | VALIDO: https://www.youtube.com/watch?v=NYNys_5MtMw
-2026-05-17 21:10:18,667 | INFO | VALIDO: https://www.youtube.com/watch?v=NaKuyEJkv1g
-2026-05-17 21:10:20,127 | INFO | VALIDO: https://www.youtube.com/watch?v=NhjvWBnJc8s
-2026-05-17 21:10:21,414 | INFO | VALIDO: https://www.youtube.com/watch?v=Nk8YK1nDbqg
-2026-05-17 21:10:23,018 | INFO | VALIDO: https://www.youtube.com/watch?v=NoN-bd9mB_o
-2026-05-17 21:10:24,563 | INFO | VALIDO: https://www.youtube.com/watch?v=OL28v9sl7yQ
-2026-05-17 21:10:25,991 | INFO | VALIDO: https://www.youtube.com/watch?v=OT_Rn-8vaoU
-2026-05-17 21:10:27,687 | INFO | VALIDO: https://www.youtube.com/watch?v=Olr3cwtKnH8
-2026-05-17 21:10:29,770 | INFO | VALIDO: https://www.youtube.com/watch?v=Oqzm8bX9Kys
-2026-05-17 21:10:31,157 | ERROR | OvuJO8N4rAU | https://www.youtube.com/watch?v=OvuJO8N4rAU | [0;31mERROR:[0m [youtube] OvuJO8N4rAU: This video is not available | OTRO
-2026-05-17 21:10:32,674 | ERROR | OzthASfhiEA | https://www.youtube.com/watch?v=OzthASfhiEA | [0;31mERROR:[0m [youtube] OzthASfhiEA: This video is not available | OTRO
-2026-05-17 21:10:34,018 | INFO | VALIDO: https://www.youtube.com/watch?v=PHkGaC38z78
-2026-05-17 21:10:35,599 | INFO | VALIDO: https://www.youtube.com/watch?v=PIztKfEYLHw
-2026-05-17 21:10:37,326 | INFO | VALIDO: https://www.youtube.com/watch?v=PJweRnCvcwM
-2026-05-17 21:10:39,497 | INFO | VALIDO: https://www.youtube.com/watch?v=PhF9IUaai9k
-2026-05-17 21:10:41,435 | INFO | VALIDO: https://www.youtube.com/watch?v=PiwsKSUA1QI
-2026-05-17 21:10:42,953 | INFO | VALIDO: https://www.youtube.com/watch?v=PmOTKxbyWjs
-2026-05-17 21:10:44,300 | INFO | VALIDO: https://www.youtube.com/watch?v=Psbx4LXe1VY
-2026-05-17 21:10:46,214 | INFO | VALIDO: https://www.youtube.com/watch?v=PwxVT96Qmn8
-2026-05-17 21:10:47,594 | INFO | VALIDO: https://www.youtube.com/watch?v=Q523rOh66ig
-2026-05-17 21:10:49,153 | INFO | VALIDO: https://www.youtube.com/watch?v=QBP5p1_b1fQ
-2026-05-17 21:10:50,830 | INFO | VALIDO: https://www.youtube.com/watch?v=QYTm4c0DIq4
-2026-05-17 21:10:52,169 | INFO | VALIDO: https://www.youtube.com/watch?v=QmSDhHdN0ac
-2026-05-17 21:10:54,113 | INFO | VALIDO: https://www.youtube.com/watch?v=QmYn3PZnmNM
-2026-05-17 21:10:55,604 | INFO | VALIDO: https://www.youtube.com/watch?v=QrrAujgpfHg
-2026-05-17 21:10:57,178 | ERROR | R-UjAdlku-k | https://www.youtube.com/watch?v=R-UjAdlku-k | [0;31mERROR:[0m [youtube] R-UjAdlku-k: This video is not available | OTRO
-2026-05-17 21:10:58,829 | ERROR | RRjz-Wz5rXU | https://www.youtube.com/watch?v=RRjz-Wz5rXU | [0;31mERROR:[0m [youtube] RRjz-Wz5rXU: This video is not available | OTRO
-2026-05-17 21:11:00,218 | INFO | VALIDO: https://www.youtube.com/watch?v=S8YieJuP-dg
-2026-05-17 21:11:02,127 | INFO | VALIDO: https://www.youtube.com/watch?v=SEi6RCa-t10
-2026-05-17 21:11:03,450 | INFO | VALIDO: https://www.youtube.com/watch?v=SIHIEpPaYGE
-2026-05-17 21:11:04,901 | INFO | VALIDO: https://www.youtube.com/watch?v=SyfrDmAJjCQ
-2026-05-17 21:11:06,653 | ERROR | Ta4T7mlzP4M | https://www.youtube.com/watch?v=Ta4T7mlzP4M | [0;31mERROR:[0m [youtube] Ta4T7mlzP4M: This video is not available | OTRO
-2026-05-17 21:11:08,456 | INFO | VALIDO: https://www.youtube.com/watch?v=TqfZf0KwI4Y
-2026-05-17 21:11:09,826 | INFO | VALIDO: https://www.youtube.com/watch?v=URYWzPVHiAs
-2026-05-17 21:11:11,121 | INFO | VALIDO: https://www.youtube.com/watch?v=VLhgtujGvBM
-2026-05-17 21:11:12,831 | INFO | VALIDO: https://www.youtube.com/watch?v=VYTn5rDxWnE
-2026-05-17 21:11:14,094 | INFO | VALIDO: https://www.youtube.com/watch?v=VZWVG8Pqxtg
-2026-05-17 21:11:15,615 | INFO | VALIDO: https://www.youtube.com/watch?v=VnsD7qAD5II
-2026-05-17 21:11:17,025 | INFO | VALIDO: https://www.youtube.com/watch?v=Vw069dT12wU
-2026-05-17 21:11:18,604 | INFO | VALIDO: https://www.youtube.com/watch?v=W14Ed-y7JvM
-2026-05-17 21:11:19,902 | INFO | VALIDO: https://www.youtube.com/watch?v=W20juAtwfMw
-2026-05-17 21:11:21,253 | INFO | VALIDO: https://www.youtube.com/watch?v=WMjRauxRE_I
-2026-05-17 21:11:22,776 | INFO | VALIDO: https://www.youtube.com/watch?v=WUhYj3qEyZY
-2026-05-17 21:11:24,017 | INFO | VALIDO: https://www.youtube.com/watch?v=XPyeIOqI6qY
-2026-05-17 21:11:25,544 | INFO | VALIDO: https://www.youtube.com/watch?v=XeDsbrESR0o
-2026-05-17 21:11:27,268 | INFO | VALIDO: https://www.youtube.com/watch?v=XjrdiXhgRVQ
-2026-05-17 21:11:28,599 | INFO | VALIDO: https://www.youtube.com/watch?v=XqdsoTNfzec
-2026-05-17 21:11:30,016 | INFO | VALIDO: https://www.youtube.com/watch?v=XyvshGf7OKs
-2026-05-17 21:11:31,766 | INFO | VALIDO: https://www.youtube.com/watch?v=Y3LF4Xgr_uw
-2026-05-17 21:11:33,117 | INFO | VALIDO: https://www.youtube.com/watch?v=YBOLTzGfJqk
-2026-05-17 21:11:35,025 | INFO | VALIDO: https://www.youtube.com/watch?v=YCzxBR6HYfs
-2026-05-17 21:11:36,395 | INFO | VALIDO: https://www.youtube.com/watch?v=Ymka-9FijTI
-2026-05-17 21:11:38,364 | INFO | VALIDO: https://www.youtube.com/watch?v=YvGUVyHwcIE
-2026-05-17 21:11:40,135 | INFO | VALIDO: https://www.youtube.com/watch?v=YvutGY8TgVM
-2026-05-17 21:11:42,189 | INFO | VALIDO: https://www.youtube.com/watch?v=Z3eRzYVka9c
-2026-05-17 21:11:43,804 | ERROR | ZWb1ygjvd0Y | https://www.youtube.com/watch?v=ZWb1ygjvd0Y | [0;31mERROR:[0m [youtube] ZWb1ygjvd0Y: This video is not available | OTRO
-2026-05-17 21:11:45,172 | INFO | VALIDO: https://www.youtube.com/watch?v=ZumsWsbpGeI
-2026-05-17 21:11:46,965 | INFO | VALIDO: https://www.youtube.com/watch?v=_3oi7YTcSSw
-2026-05-17 21:11:48,339 | ERROR | _DeCy7pOW40 | https://www.youtube.com/watch?v=_DeCy7pOW40 | [0;31mERROR:[0m [youtube] _DeCy7pOW40: This video is not available | OTRO
-2026-05-17 21:11:50,027 | INFO | VALIDO: https://www.youtube.com/watch?v=_NOQ5fyqhY0
-2026-05-17 21:11:51,546 | INFO | VALIDO: https://www.youtube.com/watch?v=_jdud6kKZKg
-2026-05-17 21:11:53,233 | INFO | VALIDO: https://www.youtube.com/watch?v=_m7orjmVPWo
-2026-05-17 21:11:56,082 | INFO | VALIDO: https://www.youtube.com/watch?v=_rBMa3I7s1U
-2026-05-17 21:11:57,555 | INFO | VALIDO: https://www.youtube.com/watch?v=a5y9ja6WxWA
-2026-05-17 21:11:58,844 | INFO | VALIDO: https://www.youtube.com/watch?v=ahsZ3M8C4g0
-2026-05-17 21:12:00,217 | INFO | VALIDO: https://www.youtube.com/watch?v=asbHs4A3ykQ
-2026-05-17 21:12:01,848 | ERROR | avWTcLXBp7I | https://www.youtube.com/watch?v=avWTcLXBp7I | [0;31mERROR:[0m [youtube] avWTcLXBp7I: This video is not available | OTRO
-2026-05-17 21:12:03,220 | INFO | VALIDO: https://www.youtube.com/watch?v=axAMaFP_q1g
-2026-05-17 21:12:04,909 | INFO | VALIDO: https://www.youtube.com/watch?v=bPqYUKrU_2A
-2026-05-17 21:12:06,528 | INFO | VALIDO: https://www.youtube.com/watch?v=bWVHc032IPs
-2026-05-17 21:12:08,182 | ERROR | bnsgSZz1uJY | https://www.youtube.com/watch?v=bnsgSZz1uJY | [0;31mERROR:[0m [youtube] bnsgSZz1uJY: This video is not available | OTRO
-2026-05-17 21:12:09,624 | INFO | VALIDO: https://www.youtube.com/watch?v=cBpjMSEuEvU
-2026-05-17 21:12:11,067 | INFO | VALIDO: https://www.youtube.com/watch?v=cuVXBaE7O3o
-2026-05-17 21:12:12,440 | INFO | VALIDO: https://www.youtube.com/watch?v=d5WpSHr0G9k
-2026-05-17 21:12:14,235 | INFO | VALIDO: https://www.youtube.com/watch?v=dhwL6UaKExM
-2026-05-17 21:12:15,906 | INFO | VALIDO: https://www.youtube.com/watch?v=dwC6DCDCMxA
-2026-05-17 21:12:17,234 | INFO | VALIDO: https://www.youtube.com/watch?v=e5roEk60w_k
-2026-05-17 21:12:18,747 | INFO | VALIDO: https://www.youtube.com/watch?v=eO93223c3cU
-2026-05-17 21:12:20,258 | INFO | VALIDO: https://www.youtube.com/watch?v=ef_eT1DWLsA
-2026-05-17 21:12:21,922 | INFO | VALIDO: https://www.youtube.com/watch?v=enFvefj1gkc
-2026-05-17 21:12:23,327 | INFO | VALIDO: https://www.youtube.com/watch?v=ep22ENIdq3U
-2026-05-17 21:12:24,789 | INFO | VALIDO: https://www.youtube.com/watch?v=eqAaMKPzBek
-2026-05-17 21:12:26,377 | ERROR | euGWuQPp1t0 | https://www.youtube.com/watch?v=euGWuQPp1t0 | [0;31mERROR:[0m [youtube] euGWuQPp1t0: This video is not available | OTRO
-2026-05-17 21:12:27,690 | ERROR | fBBFCQ5TULE | https://www.youtube.com/watch?v=fBBFCQ5TULE | [0;31mERROR:[0m [youtube] fBBFCQ5TULE: This video is not available | OTRO
-2026-05-17 21:12:28,993 | ERROR | fhNi4L5xScI | https://www.youtube.com/watch?v=fhNi4L5xScI | [0;31mERROR:[0m [youtube] fhNi4L5xScI: This video is not available | OTRO
-2026-05-17 21:12:30,359 | INFO | VALIDO: https://www.youtube.com/watch?v=fhqAxgxOP1A
-2026-05-17 21:12:31,971 | INFO | VALIDO: https://www.youtube.com/watch?v=gFKGHmUo-f4
-2026-05-17 21:12:33,717 | INFO | VALIDO: https://www.youtube.com/watch?v=g_sn520GhJA
-2026-05-17 21:12:35,244 | INFO | VALIDO: https://www.youtube.com/watch?v=gc_vxBw40OE
-2026-05-17 21:12:36,569 | ERROR | griM-FRhgU8 | https://www.youtube.com/watch?v=griM-FRhgU8 | [0;31mERROR:[0m [youtube] griM-FRhgU8: This video is not available | OTRO
-2026-05-17 21:12:38,296 | INFO | VALIDO: https://www.youtube.com/watch?v=hAp8A4glaRM
-2026-05-17 21:12:39,741 | INFO | VALIDO: https://www.youtube.com/watch?v=hxXc5EZx1zk
-2026-05-17 21:12:41,422 | INFO | VALIDO: https://www.youtube.com/watch?v=iWm5GLoCKaQ
-2026-05-17 21:12:43,104 | INFO | VALIDO: https://www.youtube.com/watch?v=ijeqwN4zQlk
-2026-05-17 21:12:44,492 | INFO | VALIDO: https://www.youtube.com/watch?v=j1f4lmQtq0U
-2026-05-17 21:12:46,247 | INFO | VALIDO: https://www.youtube.com/watch?v=jTzcJll_fv4
-2026-05-17 21:12:47,908 | INFO | VALIDO: https://www.youtube.com/watch?v=jju8p56xyFc
-2026-05-17 21:12:49,438 | INFO | VALIDO: https://www.youtube.com/watch?v=kTrAU5dg0Dg
-2026-05-17 21:12:51,272 | INFO | VALIDO: https://www.youtube.com/watch?v=l3OwzpclmLQ
-2026-05-17 21:12:52,978 | INFO | VALIDO: https://www.youtube.com/watch?v=l7gXXQLl4Zk
-2026-05-17 21:12:54,580 | INFO | VALIDO: https://www.youtube.com/watch?v=l_Ir24ZbJZo
-2026-05-17 21:12:56,282 | INFO | VALIDO: https://www.youtube.com/watch?v=m00c59UT77s
-2026-05-17 21:12:58,121 | INFO | VALIDO: https://www.youtube.com/watch?v=mJZbu4vxeK0
-2026-05-17 21:12:59,642 | INFO | VALIDO: https://www.youtube.com/watch?v=mUIceCtpcpc
-2026-05-17 21:13:01,522 | INFO | VALIDO: https://www.youtube.com/watch?v=mpAyOrFyWWg
-2026-05-17 21:13:03,017 | INFO | VALIDO: https://www.youtube.com/watch?v=nCrMai6HxtI
-2026-05-17 21:13:04,931 | INFO | VALIDO: https://www.youtube.com/watch?v=nGVFe7CXPSI
-2026-05-17 21:13:06,752 | INFO | VALIDO: https://www.youtube.com/watch?v=nUb23841xNY
-2026-05-17 21:13:08,470 | INFO | VALIDO: https://www.youtube.com/watch?v=nZ8sgtFKAuk
-2026-05-17 21:13:10,204 | INFO | VALIDO: https://www.youtube.com/watch?v=nk7NtXMVK4Q
-2026-05-17 21:13:11,717 | INFO | VALIDO: https://www.youtube.com/watch?v=nmoXOQ0_Uxc
-2026-05-17 21:13:13,480 | INFO | VALIDO: https://www.youtube.com/watch?v=nxuJfPJoo4I
-2026-05-17 21:13:15,065 | INFO | VALIDO: https://www.youtube.com/watch?v=o8K_fTVG1EU
-2026-05-17 21:13:16,462 | INFO | VALIDO: https://www.youtube.com/watch?v=oK3rsN8ZhOQ
-2026-05-17 21:13:17,870 | INFO | VALIDO: https://www.youtube.com/watch?v=oSaLibDTBFw
-2026-05-17 21:13:19,265 | ERROR | oYo3eBbW4h8 | https://www.youtube.com/watch?v=oYo3eBbW4h8 | [0;31mERROR:[0m [youtube] oYo3eBbW4h8: This video is not available | OTRO
-2026-05-17 21:13:20,707 | INFO | VALIDO: https://www.youtube.com/watch?v=ohDTAGQDM_Y
-2026-05-17 21:13:22,126 | INFO | VALIDO: https://www.youtube.com/watch?v=okAJfy1cMHE
-2026-05-17 21:13:23,834 | INFO | VALIDO: https://www.youtube.com/watch?v=ozrQRJtZ6eU
-2026-05-17 21:13:25,421 | ERROR | p0OzBcn_yYM | https://www.youtube.com/watch?v=p0OzBcn_yYM | [0;31mERROR:[0m [youtube] p0OzBcn_yYM: This video is not available | OTRO
-2026-05-17 21:13:26,943 | INFO | VALIDO: https://www.youtube.com/watch?v=p5vtQCzhbzI
-2026-05-17 21:13:28,545 | INFO | VALIDO: https://www.youtube.com/watch?v=pJlQPVYTi1U
-2026-05-17 21:13:29,863 | ERROR | pQylCYoDq0k | https://www.youtube.com/watch?v=pQylCYoDq0k | [0;31mERROR:[0m [youtube] pQylCYoDq0k: This video is not available | OTRO
-2026-05-17 21:13:31,683 | INFO | VALIDO: https://www.youtube.com/watch?v=pkwMRzkuyFY
-2026-05-17 21:13:33,237 | INFO | VALIDO: https://www.youtube.com/watch?v=ps9jrUaGpKM
-2026-05-17 21:13:34,632 | INFO | VALIDO: https://www.youtube.com/watch?v=q3OpmJCJjCk
-2026-05-17 21:13:35,992 | INFO | VALIDO: https://www.youtube.com/watch?v=qdVWvQemM9U
-2026-05-17 21:13:37,562 | INFO | VALIDO: https://www.youtube.com/watch?v=qh_JFGknjwM
-2026-05-17 21:13:40,879 | ERROR | qoQSOb5gwqk | https://www.youtube.com/watch?v=qoQSOb5gwqk | [0;31mERROR:[0m [youtube] qoQSOb5gwqk: This video is not available | OTRO
-2026-05-17 21:13:42,087 | ERROR | r-5IaFCqXZs | https://www.youtube.com/watch?v=r-5IaFCqXZs | [0;31mERROR:[0m [youtube] r-5IaFCqXZs: This video is not available | OTRO
-2026-05-17 21:13:43,264 | INFO | VALIDO: https://www.youtube.com/watch?v=rJykN_sWaF4
-2026-05-17 21:13:44,846 | INFO | VALIDO: https://www.youtube.com/watch?v=rN4VRgz3BgE
-2026-05-17 21:13:46,416 | INFO | VALIDO: https://www.youtube.com/watch?v=s-4_1sm3Cvg
-2026-05-17 21:13:47,972 | INFO | VALIDO: https://www.youtube.com/watch?v=s9sXsDKqPoo
-2026-05-17 21:13:49,738 | INFO | VALIDO: https://www.youtube.com/watch?v=sWWqj1ke3ww
-2026-05-17 21:13:51,550 | INFO | VALIDO: https://www.youtube.com/watch?v=snk99C7u590
-2026-05-17 21:13:53,487 | INFO | VALIDO: https://www.youtube.com/watch?v=t9Fe9oDl0-0
-2026-05-17 21:13:54,912 | INFO | VALIDO: https://www.youtube.com/watch?v=tB51TQeqhMo
-2026-05-17 21:13:56,425 | ERROR | tKdPjAwLmzs | https://www.youtube.com/watch?v=tKdPjAwLmzs | [0;31mERROR:[0m [youtube] tKdPjAwLmzs: This video is not available | OTRO
-2026-05-17 21:13:58,028 | ERROR | taahX4z3XNo | https://www.youtube.com/watch?v=taahX4z3XNo | [0;31mERROR:[0m [youtube] taahX4z3XNo: This video is not available | OTRO
-2026-05-17 21:13:59,851 | INFO | VALIDO: https://www.youtube.com/watch?v=u2GBIy51lDc
-2026-05-17 21:14:01,453 | INFO | VALIDO: https://www.youtube.com/watch?v=uOoLH6vUHHw
-2026-05-17 21:14:03,026 | ERROR | ulEpv3Usm5w | https://www.youtube.com/watch?v=ulEpv3Usm5w | [0;31mERROR:[0m [youtube] ulEpv3Usm5w: This video is not available | OTRO
-2026-05-17 21:14:04,650 | INFO | VALIDO: https://www.youtube.com/watch?v=v6-UwC-zCrg
-2026-05-17 21:14:06,113 | INFO | VALIDO: https://www.youtube.com/watch?v=vBC0by0HieI
-2026-05-17 21:14:07,694 | INFO | VALIDO: https://www.youtube.com/watch?v=vjl3YuUHw40
-2026-05-17 21:14:09,445 | INFO | VALIDO: https://www.youtube.com/watch?v=wLXl623zvGQ
-2026-05-17 21:14:10,970 | INFO | VALIDO: https://www.youtube.com/watch?v=woRlKzr29CA
-2026-05-17 21:14:12,516 | INFO | VALIDO: https://www.youtube.com/watch?v=wsqAvb25y1Q
-2026-05-17 21:14:14,205 | INFO | VALIDO: https://www.youtube.com/watch?v=x2uEtuazglQ
-2026-05-17 21:14:16,717 | INFO | VALIDO: https://www.youtube.com/watch?v=xQrwM-2aKgM
-2026-05-17 21:14:18,240 | INFO | VALIDO: https://www.youtube.com/watch?v=xTmcwOkfj4I
-2026-05-17 21:14:19,678 | INFO | VALIDO: https://www.youtube.com/watch?v=y3M3kzBlzUk
-2026-05-17 21:14:21,385 | INFO | VALIDO: https://www.youtube.com/watch?v=yctZZfwyBiY
-2026-05-17 21:14:22,747 | INFO | VALIDO: https://www.youtube.com/watch?v=ymT8F9Zw-Tg
-2026-05-17 21:14:24,488 | INFO | VALIDO: https://www.youtube.com/watch?v=yqvdtuIkacg
-2026-05-17 21:14:25,959 | INFO | VALIDO: https://www.youtube.com/watch?v=zBNi-qfKxl0
-2026-05-17 21:14:27,832 | INFO | VALIDO: https://www.youtube.com/watch?v=zMJHw_rqU7k
-2026-05-17 21:14:29,351 | INFO | VALIDO: https://www.youtube.com/watch?v=zr1RYN7kvAw
-2026-05-17 21:14:30,994 | INFO | VALIDO: https://www.youtube.com/watch?v=zyACDwpl9lU
-2026-05-17 21:14:30,997 | INFO | Validación completada.
-2026-05-17 21:20:50,821 | INFO | Iniciando descarga de comentarios...
-2026-05-17 21:20:52,577 | INFO | -3oQizWTm6g -> 3 comentarios
-2026-05-17 21:20:57,163 | INFO | -LQTFRLGaXU -> 5 comentarios
-2026-05-17 21:21:04,152 | INFO | -jhkvYe3DIE -> 37 comentarios
-2026-05-17 21:21:10,104 | INFO | -n8sDCY06HA -> 4 comentarios
-2026-05-17 21:21:13,536 | INFO | -uFy7MPFIKg -> 2 comentarios
-2026-05-17 21:21:18,454 | INFO | 0-endP9mRys -> 11 comentarios
-2026-05-17 21:21:24,639 | INFO | 0F8NYrFRcvo -> 3 comentarios
-2026-05-17 21:21:29,478 | INFO | 0FNF-06fUf8 -> 0 comentarios
-2026-05-17 21:21:34,148 | INFO | 0f2IeO2D0E8 -> 3 comentarios
-2026-05-17 21:21:40,393 | INFO | 0glJRf0gPgk -> 6 comentarios
-2026-05-17 21:21:46,020 | INFO | 0kbgGe32VJ8 -> 7 comentarios
-2026-05-17 21:21:49,778 | INFO | 1LFvEg4rCyk -> 0 comentarios
-2026-05-17 21:21:52,736 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=1XloJUfEbfE: Failed to set sorting
-2026-05-17 21:21:54,053 | INFO | 1aIuVPHeIts -> 1 comentarios
-2026-05-17 21:21:58,774 | INFO | 1oro-Dbv610 -> 4 comentarios
-2026-05-17 21:22:05,049 | INFO | 1p0LGIqR_k0 -> 4 comentarios
-2026-05-17 21:22:09,688 | INFO | 1r_ugCtCgnM -> 3 comentarios
-2026-05-17 21:22:15,728 | INFO | 1riA11y67vc -> 10 comentarios
-2026-05-17 21:22:21,614 | INFO | 1upUST-r3iw -> 0 comentarios
-2026-05-17 21:22:27,572 | INFO | 1wzRCIzmX_o -> 11 comentarios
-2026-05-17 21:22:34,047 | INFO | 22ovpK3pZmI -> 6 comentarios
-2026-05-17 21:22:39,123 | INFO | 2BZD7yM9aLE -> 1 comentarios
-2026-05-17 21:22:42,539 | INFO | 3CcpQFkQ1X8 -> 3 comentarios
-2026-05-17 21:22:48,360 | INFO | 3FJDrFFu6QI -> 0 comentarios
-2026-05-17 21:22:52,559 | INFO | 3WvYkTHM3wc -> 1 comentarios
-2026-05-17 21:22:57,333 | INFO | 3jHHuemHwR0 -> 4 comentarios
-2026-05-17 21:23:01,433 | INFO | 4XUwEGDkGNk -> 3 comentarios
-2026-05-17 21:23:06,549 | INFO | 59Hf8BK_qh8 -> 7 comentarios
-2026-05-17 21:23:12,582 | INFO | 5HQir7vo8Sw -> 8 comentarios
-2026-05-17 21:23:17,946 | INFO | 5KawEz-So30 -> 0 comentarios
-2026-05-17 21:23:24,039 | INFO | 5akqZrtaLG8 -> 2 comentarios
-2026-05-17 21:23:28,181 | INFO | 6B_SqxLl2aA -> 1 comentarios
-2026-05-17 21:23:41,685 | INFO | 6R77muguBXw -> 87 comentarios
-2026-05-17 21:23:46,919 | INFO | 6l5J4N5SY24 -> 0 comentarios
-2026-05-17 21:23:51,668 | INFO | 7OgAAwjamwM -> 1 comentarios
-2026-05-17 21:23:57,694 | INFO | 7RvOAiztpLI -> 10 comentarios
-2026-05-17 21:24:02,084 | INFO | 7aMY-MtOuVs -> 5 comentarios
-2026-05-17 21:24:09,415 | INFO | 7fymnVkNxkg -> 32 comentarios
-2026-05-17 21:24:14,609 | INFO | 84m6vZc7WDc -> 1 comentarios
-2026-05-17 21:24:19,608 | INFO | 8Z85LoQxl0A -> 1 comentarios
-2026-05-17 21:24:25,088 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=9SdpGOltwyc: Failed to set sorting
-2026-05-17 21:24:25,970 | INFO | 9uqr6UvcKzg -> 0 comentarios
-2026-05-17 21:24:29,964 | INFO | AVqtIy6eCb8 -> 0 comentarios
-2026-05-17 21:24:35,836 | INFO | AuKs97cqHuE -> 3 comentarios
-2026-05-17 21:24:42,608 | INFO | B7kqwXxPnf0 -> 16 comentarios
-2026-05-17 21:24:47,762 | INFO | BM46L7sFbLQ -> 2 comentarios
-2026-05-17 21:24:51,534 | INFO | BgV-cBRzh90 -> 0 comentarios
-2026-05-17 21:24:57,235 | INFO | BjYvrg-6nUw -> 0 comentarios
-2026-05-17 21:25:12,526 | INFO | C-AIJ9QS1YA -> 185 comentarios
-2026-05-17 21:25:18,724 | INFO | C5ebz-xPGo8 -> 0 comentarios
-2026-05-17 21:25:23,938 | INFO | C67ZfSeWb6w -> 4 comentarios
-2026-05-17 21:25:28,461 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=C9yV_TFoJ4s: Failed to set sorting
-2026-05-17 21:25:29,971 | INFO | CPfxqLmAnl8 -> 4 comentarios
-2026-05-17 21:25:35,964 | INFO | CdtHBPQRVus -> 2 comentarios
-2026-05-17 21:25:39,512 | INFO | CoxXR-mtQbk -> 0 comentarios
-2026-05-17 21:25:45,096 | INFO | CxsOZg6bbOY -> 8 comentarios
-2026-05-17 21:25:50,484 | INFO | D6i1wrd0b-E -> 5 comentarios
-2026-05-17 21:25:54,719 | INFO | DOl4HmeKvxY -> 2 comentarios
-2026-05-17 21:25:59,143 | INFO | E1XNCAXQY0A -> 2 comentarios
-2026-05-17 21:26:02,894 | INFO | E7QaC5gM4zg -> 2 comentarios
-2026-05-17 21:26:09,751 | INFO | EqPegNWaPu4 -> 13 comentarios
-2026-05-17 21:26:15,272 | INFO | F6Agm-JWB1U -> 11 comentarios
-2026-05-17 21:26:20,925 | INFO | G0NVuip0Z4I -> 0 comentarios
-2026-05-17 21:26:25,622 | INFO | GaM_fq3VCKg -> 1 comentarios
-2026-05-17 21:26:30,296 | INFO | GcBL3D85qTU -> 2 comentarios
-2026-05-17 21:26:38,124 | INFO | GeXCeoLd92s -> 39 comentarios
-2026-05-17 21:26:42,474 | INFO | GkvdeEatu3g -> 4 comentarios
-2026-05-17 21:26:48,382 | INFO | H51wiM_v8AY -> 2 comentarios
-2026-05-17 21:26:52,347 | INFO | HHmfaLGfx-E -> 5 comentarios
-2026-05-17 21:26:58,280 | INFO | HP__kCuwCtg -> 2 comentarios
-2026-05-17 21:27:04,582 | INFO | Hg3tTOTMWFk -> 4 comentarios
-2026-05-17 21:27:08,386 | INFO | Hggn8BOGkSY -> 1 comentarios
-2026-05-17 21:27:13,737 | INFO | HhnturaQMJQ -> 14 comentarios
-2026-05-17 21:27:18,321 | INFO | Hni6THrR1IE -> 0 comentarios
-2026-05-17 21:27:23,732 | INFO | HwPGfGuP0UI -> 0 comentarios
-2026-05-17 21:27:26,907 | INFO | I2l2MVsR3h4 -> 0 comentarios
-2026-05-17 21:27:31,429 | INFO | IX3ivwk_WfQ -> 2 comentarios
-2026-05-17 21:28:11,759 | INFO | Igz1nUWG0wg -> 1032 comentarios
-2026-05-17 21:28:17,343 | INFO | J8DUqlPN75c -> 3 comentarios
-2026-05-17 21:28:20,653 | INFO | JP57AHO-Wig -> 2 comentarios
-2026-05-17 21:28:26,996 | INFO | JRk-JdaUWu4 -> 2 comentarios
-2026-05-17 21:28:33,344 | INFO | JSVMUbrUHOU -> 16 comentarios
-2026-05-17 21:28:39,370 | INFO | JSrcKsbVz98 -> 2 comentarios
-2026-05-17 21:28:44,224 | INFO | JV9cee3lE8A -> 0 comentarios
-2026-05-17 21:28:49,618 | INFO | JdMyoyVU68A -> 3 comentarios
-2026-05-17 21:28:55,343 | INFO | K1_y63sjysA -> 0 comentarios
-2026-05-17 21:29:00,546 | INFO | KGFNe5sHwhU -> 0 comentarios
-2026-05-17 21:29:04,688 | INFO | KR8J_0142q8 -> 3 comentarios
-2026-05-17 21:29:07,963 | INFO | LfV0WdK9jEA -> 0 comentarios
-2026-05-17 21:48:39,963 | INFO | Iniciando limpieza de comentarios...
-2026-05-17 21:48:50,516 | INFO | Comentarios limpios: 1592
-2026-05-17 21:48:50,517 | INFO | Archivo generado: /ws/camposr/LESCO Project/LESCOV2/output/out_clean.txt
-2026-05-17 21:48:53,739 | INFO | Generando prompt IA...
-2026-05-17 21:48:53,759 | INFO | Prompt generado: /ws/camposr/LESCO Project/LESCOV2/output/empathy_prompt.txt
+2026-06-10 23:26:02,977 | INFO | Iniciando extracción de URLs...
+2026-06-10 23:26:02,978 | INFO | TXT encontrados: 27
+2026-06-10 23:26:03,004 | INFO | URLs extraídas: 266
+2026-06-10 23:26:03,005 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\video_urls.txt
+2026-06-10 23:26:20,354 | INFO | Iniciando validación de videos...
+2026-06-10 23:26:22,180 | ERROR | -3oQizWTm6g | https://www.youtube.com/watch?v=-3oQizWTm6g | [0;31mERROR:[0m [youtube] -3oQizWTm6g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:23,870 | ERROR | -LQTFRLGaXU | https://www.youtube.com/watch?v=-LQTFRLGaXU | [0;31mERROR:[0m [youtube] -LQTFRLGaXU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:25,635 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | [0;31mERROR:[0m [youtube] -U-uBtVl7eM: This video is not available | OTRO
+2026-06-10 23:26:27,543 | ERROR | -jhkvYe3DIE | https://www.youtube.com/watch?v=-jhkvYe3DIE | [0;31mERROR:[0m [youtube] -jhkvYe3DIE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:29,512 | ERROR | -n8sDCY06HA | https://www.youtube.com/watch?v=-n8sDCY06HA | [0;31mERROR:[0m [youtube] -n8sDCY06HA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:31,248 | ERROR | -uFy7MPFIKg | https://www.youtube.com/watch?v=-uFy7MPFIKg | [0;31mERROR:[0m [youtube] -uFy7MPFIKg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:33,091 | ERROR | 0-endP9mRys | https://www.youtube.com/watch?v=0-endP9mRys | [0;31mERROR:[0m [youtube] 0-endP9mRys: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:34,841 | ERROR | 0F8NYrFRcvo | https://www.youtube.com/watch?v=0F8NYrFRcvo | [0;31mERROR:[0m [youtube] 0F8NYrFRcvo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:36,651 | ERROR | 0FNF-06fUf8 | https://www.youtube.com/watch?v=0FNF-06fUf8 | [0;31mERROR:[0m [youtube] 0FNF-06fUf8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:38,400 | ERROR | 0f2IeO2D0E8 | https://www.youtube.com/watch?v=0f2IeO2D0E8 | [0;31mERROR:[0m [youtube] 0f2IeO2D0E8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies | OTRO
+2026-06-10 23:26:38,402 | INFO | Validación completada.
+2026-06-10 23:27:45,440 | INFO | Iniciando validación de videos...
+2026-06-10 23:27:46,427 | ERROR | -3oQizWTm6g | https://www.youtube.com/watch?v=-3oQizWTm6g | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:46,732 | ERROR | -LQTFRLGaXU | https://www.youtube.com/watch?v=-LQTFRLGaXU | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:47,037 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:47,342 | ERROR | -jhkvYe3DIE | https://www.youtube.com/watch?v=-jhkvYe3DIE | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:47,637 | ERROR | -n8sDCY06HA | https://www.youtube.com/watch?v=-n8sDCY06HA | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:47,935 | ERROR | -uFy7MPFIKg | https://www.youtube.com/watch?v=-uFy7MPFIKg | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:48,238 | ERROR | 0-endP9mRys | https://www.youtube.com/watch?v=0-endP9mRys | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:48,535 | ERROR | 0F8NYrFRcvo | https://www.youtube.com/watch?v=0F8NYrFRcvo | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:48,834 | ERROR | 0FNF-06fUf8 | https://www.youtube.com/watch?v=0FNF-06fUf8 | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:49,132 | ERROR | 0f2IeO2D0E8 | https://www.youtube.com/watch?v=0f2IeO2D0E8 | [0;31mERROR:[0m [0;31mERROR:[0m Failed to decrypt with DPAPI. See  https://github.com/yt-dlp/yt-dlp/issues/10927  for more info | OTRO
+2026-06-10 23:27:49,134 | INFO | Validación completada.
+2026-06-10 23:36:54,747 | INFO | Iniciando validación de videos...
+2026-06-10 23:36:56,030 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-10 23:36:57,267 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-10 23:36:58,337 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | [0;31mERROR:[0m [youtube] -U-uBtVl7eM: This video is not available | OTRO
+2026-06-10 23:36:59,650 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-10 23:37:00,860 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-10 23:37:02,027 | INFO | VALIDO: https://www.youtube.com/watch?v=-uFy7MPFIKg
+2026-06-10 23:37:03,226 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-10 23:37:04,329 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
+2026-06-10 23:37:05,458 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
+2026-06-10 23:37:06,713 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
+2026-06-10 23:37:06,715 | INFO | Validación completada.
+2026-06-10 23:49:20,124 | INFO | Iniciando validación de videos...
+2026-06-10 23:49:24,924 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-10 23:49:29,626 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-10 23:49:34,000 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-10 23:49:38,410 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-10 23:49:42,157 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-10 23:49:46,993 | INFO | VALIDO: https://www.youtube.com/watch?v=-uFy7MPFIKg
+2026-06-10 23:49:52,830 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-10 23:49:56,719 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
+2026-06-10 23:50:01,113 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
+2026-06-10 23:50:06,567 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
+2026-06-10 23:50:06,569 | INFO | Validación completada.
+2026-06-10 23:51:35,884 | INFO | Iniciando validación de videos...
+2026-06-10 23:51:41,829 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-10 23:53:31,641 | INFO | Iniciando validación de videos...
+2026-06-10 23:53:36,733 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-10 23:54:06,942 | INFO | Iniciando validación de videos...
+2026-06-10 23:54:11,087 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-10 23:55:23,331 | INFO | Iniciando validación de videos...
+2026-06-10 23:55:27,837 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-10 23:55:58,928 | INFO | Iniciando validación de videos...
+2026-06-10 23:56:04,832 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-10 23:56:04,834 | INFO | Validación completada.
+2026-06-11 00:05:18,214 | INFO | Iniciando validación de videos...
+2026-06-11 00:05:22,418 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-11 00:05:22,420 | INFO | Validación completada.
+2026-06-11 00:06:37,832 | INFO | Iniciando extracción de URLs...
+2026-06-11 00:06:37,833 | INFO | TXT encontrados: 27
+2026-06-11 00:06:37,857 | INFO | URLs extraídas: 266
+2026-06-11 00:06:37,857 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\video_urls.txt
+2026-06-11 00:06:49,893 | INFO | Iniciando validación de videos...
+2026-06-11 00:06:54,838 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-11 00:07:00,297 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-11 00:07:06,089 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-11 00:07:11,316 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-11 00:07:16,538 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-11 00:07:23,003 | INFO | VALIDO: https://www.youtube.com/watch?v=-uFy7MPFIKg
+2026-06-11 00:07:26,594 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-11 00:07:54,819 | INFO | Iniciando validación de videos...
+2026-06-11 00:07:56,231 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-11 00:07:57,417 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-11 00:07:58,551 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-11 00:07:59,889 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-11 00:08:01,121 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-11 00:08:02,432 | INFO | VALIDO: https://www.youtube.com/watch?v=-uFy7MPFIKg
+2026-06-11 00:08:03,660 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-11 00:08:04,960 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
+2026-06-11 00:08:06,055 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
+2026-06-11 00:08:07,263 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
+2026-06-11 00:08:08,489 | INFO | VALIDO: https://www.youtube.com/watch?v=0glJRf0gPgk
+2026-06-11 00:08:09,904 | INFO | VALIDO: https://www.youtube.com/watch?v=0kbgGe32VJ8
+2026-06-11 00:08:11,162 | INFO | VALIDO: https://www.youtube.com/watch?v=1LFvEg4rCyk
+2026-06-11 00:08:12,406 | INFO | VALIDO: https://www.youtube.com/watch?v=1XloJUfEbfE
+2026-06-11 00:08:13,606 | INFO | VALIDO: https://www.youtube.com/watch?v=1aIuVPHeIts
+2026-06-11 00:08:14,860 | INFO | VALIDO: https://www.youtube.com/watch?v=1oro-Dbv610
+2026-06-11 00:08:16,163 | INFO | VALIDO: https://www.youtube.com/watch?v=1p0LGIqR_k0
+2026-06-11 00:08:17,474 | INFO | VALIDO: https://www.youtube.com/watch?v=1r_ugCtCgnM
+2026-06-11 00:08:18,740 | INFO | VALIDO: https://www.youtube.com/watch?v=1riA11y67vc
+2026-06-11 00:08:19,973 | INFO | VALIDO: https://www.youtube.com/watch?v=1upUST-r3iw
+2026-06-11 00:08:21,201 | INFO | VALIDO: https://www.youtube.com/watch?v=1wzRCIzmX_o
+2026-06-11 00:08:22,537 | INFO | VALIDO: https://www.youtube.com/watch?v=22ovpK3pZmI
+2026-06-11 00:08:23,745 | INFO | VALIDO: https://www.youtube.com/watch?v=2BZD7yM9aLE
+2026-06-11 00:08:25,044 | INFO | VALIDO: https://www.youtube.com/watch?v=3CcpQFkQ1X8
+2026-06-11 00:08:26,303 | INFO | VALIDO: https://www.youtube.com/watch?v=3FJDrFFu6QI
+2026-06-11 00:08:27,701 | INFO | VALIDO: https://www.youtube.com/watch?v=3WvYkTHM3wc
+2026-06-11 00:08:28,995 | INFO | VALIDO: https://www.youtube.com/watch?v=3jHHuemHwR0
+2026-06-11 00:08:30,115 | INFO | VALIDO: https://www.youtube.com/watch?v=4XUwEGDkGNk
+2026-06-11 00:08:31,491 | INFO | VALIDO: https://www.youtube.com/watch?v=59Hf8BK_qh8
+2026-06-11 00:08:32,800 | INFO | VALIDO: https://www.youtube.com/watch?v=5HQir7vo8Sw
+2026-06-11 00:08:33,900 | INFO | VALIDO: https://www.youtube.com/watch?v=5KawEz-So30
+2026-06-11 00:08:35,096 | INFO | VALIDO: https://www.youtube.com/watch?v=5akqZrtaLG8
+2026-06-11 00:08:36,323 | INFO | VALIDO: https://www.youtube.com/watch?v=6B_SqxLl2aA
+2026-06-11 00:08:37,385 | ERROR | 6O6hjVRFR4o | https://www.youtube.com/watch?v=6O6hjVRFR4o | ERROR_DESCONOCIDO | None
+2026-06-11 00:08:38,510 | INFO | VALIDO: https://www.youtube.com/watch?v=6R77muguBXw
+2026-06-11 00:08:39,814 | INFO | VALIDO: https://www.youtube.com/watch?v=6l5J4N5SY24
+2026-06-11 00:08:41,072 | INFO | VALIDO: https://www.youtube.com/watch?v=7OgAAwjamwM
+2026-06-11 00:08:42,329 | INFO | VALIDO: https://www.youtube.com/watch?v=7RvOAiztpLI
+2026-06-11 00:08:43,495 | INFO | VALIDO: https://www.youtube.com/watch?v=7aMY-MtOuVs
+2026-06-11 00:08:44,694 | INFO | VALIDO: https://www.youtube.com/watch?v=7fymnVkNxkg
+2026-06-11 00:08:46,024 | INFO | VALIDO: https://www.youtube.com/watch?v=84m6vZc7WDc
+2026-06-11 00:08:47,223 | INFO | VALIDO: https://www.youtube.com/watch?v=8Z85LoQxl0A
+2026-06-11 00:08:48,347 | ERROR | 9Bz8FdX3k8g | https://www.youtube.com/watch?v=9Bz8FdX3k8g | ERROR_DESCONOCIDO | None
+2026-06-11 00:08:49,471 | ERROR | 9EHd-nMFpfY | https://www.youtube.com/watch?v=9EHd-nMFpfY | ERROR_DESCONOCIDO | None
+2026-06-11 00:08:50,612 | INFO | VALIDO: https://www.youtube.com/watch?v=9SdpGOltwyc
+2026-06-11 00:08:51,682 | INFO | VALIDO: https://www.youtube.com/watch?v=9uqr6UvcKzg
+2026-06-11 00:08:53,025 | INFO | VALIDO: https://www.youtube.com/watch?v=AVqtIy6eCb8
+2026-06-11 00:08:54,151 | ERROR | A_WjCglWbz4 | https://www.youtube.com/watch?v=A_WjCglWbz4 | ERROR_DESCONOCIDO | None
+2026-06-11 00:08:55,379 | INFO | VALIDO: https://www.youtube.com/watch?v=AuKs97cqHuE
+2026-06-11 00:08:56,512 | INFO | VALIDO: https://www.youtube.com/watch?v=B7kqwXxPnf0
+2026-06-11 00:08:57,711 | INFO | VALIDO: https://www.youtube.com/watch?v=BM46L7sFbLQ
+2026-06-11 00:08:58,854 | INFO | VALIDO: https://www.youtube.com/watch?v=BgV-cBRzh90
+2026-06-11 00:09:00,144 | INFO | VALIDO: https://www.youtube.com/watch?v=BjYvrg-6nUw
+2026-06-11 00:09:01,450 | INFO | VALIDO: https://www.youtube.com/watch?v=C-AIJ9QS1YA
+2026-06-11 00:09:02,668 | INFO | VALIDO: https://www.youtube.com/watch?v=C5ebz-xPGo8
+2026-06-11 00:09:03,892 | INFO | VALIDO: https://www.youtube.com/watch?v=C67ZfSeWb6w
+2026-06-11 00:09:05,152 | INFO | VALIDO: https://www.youtube.com/watch?v=C9yV_TFoJ4s
+2026-06-11 00:09:06,322 | INFO | VALIDO: https://www.youtube.com/watch?v=CPfxqLmAnl8
+2026-06-11 00:09:07,497 | INFO | VALIDO: https://www.youtube.com/watch?v=CdtHBPQRVus
+2026-06-11 00:09:08,621 | INFO | VALIDO: https://www.youtube.com/watch?v=CoxXR-mtQbk
+2026-06-11 00:09:09,857 | INFO | VALIDO: https://www.youtube.com/watch?v=CxsOZg6bbOY
+2026-06-11 00:09:11,183 | INFO | VALIDO: https://www.youtube.com/watch?v=D6i1wrd0b-E
+2026-06-11 00:09:12,465 | INFO | VALIDO: https://www.youtube.com/watch?v=DOl4HmeKvxY
+2026-06-11 00:09:13,710 | INFO | VALIDO: https://www.youtube.com/watch?v=E1XNCAXQY0A
+2026-06-11 00:09:14,748 | INFO | VALIDO: https://www.youtube.com/watch?v=E7QaC5gM4zg
+2026-06-11 00:09:15,996 | INFO | VALIDO: https://www.youtube.com/watch?v=EqPegNWaPu4
+2026-06-11 00:09:17,199 | INFO | VALIDO: https://www.youtube.com/watch?v=F6Agm-JWB1U
+2026-06-11 00:09:18,432 | INFO | VALIDO: https://www.youtube.com/watch?v=G0NVuip0Z4I
+2026-06-11 00:09:19,664 | INFO | VALIDO: https://www.youtube.com/watch?v=GaM_fq3VCKg
+2026-06-11 00:09:21,019 | INFO | VALIDO: https://www.youtube.com/watch?v=GcBL3D85qTU
+2026-06-11 00:09:22,287 | INFO | VALIDO: https://www.youtube.com/watch?v=GeXCeoLd92s
+2026-06-11 00:09:23,458 | INFO | VALIDO: https://www.youtube.com/watch?v=GkvdeEatu3g
+2026-06-11 00:09:24,712 | INFO | VALIDO: https://www.youtube.com/watch?v=H51wiM_v8AY
+2026-06-11 00:09:25,937 | INFO | VALIDO: https://www.youtube.com/watch?v=HHmfaLGfx-E
+2026-06-11 00:09:27,161 | INFO | VALIDO: https://www.youtube.com/watch?v=HP__kCuwCtg
+2026-06-11 00:09:28,442 | INFO | VALIDO: https://www.youtube.com/watch?v=Hg3tTOTMWFk
+2026-06-11 00:09:29,828 | INFO | VALIDO: https://www.youtube.com/watch?v=Hggn8BOGkSY
+2026-06-11 00:09:31,179 | INFO | VALIDO: https://www.youtube.com/watch?v=HhnturaQMJQ
+2026-06-11 00:09:32,442 | INFO | VALIDO: https://www.youtube.com/watch?v=Hni6THrR1IE
+2026-06-11 00:09:33,587 | ERROR | HwPGfGuP0UI | https://www.youtube.com/watch?v=HwPGfGuP0UI | ERROR_DESCONOCIDO | None
+2026-06-11 00:09:34,688 | INFO | VALIDO: https://www.youtube.com/watch?v=I2l2MVsR3h4
+2026-06-11 00:09:35,889 | INFO | VALIDO: https://www.youtube.com/watch?v=IX3ivwk_WfQ
+2026-06-11 00:09:37,255 | INFO | VALIDO: https://www.youtube.com/watch?v=Igz1nUWG0wg
+2026-06-11 00:09:38,434 | INFO | VALIDO: https://www.youtube.com/watch?v=J8DUqlPN75c
+2026-06-11 00:09:39,732 | INFO | VALIDO: https://www.youtube.com/watch?v=JP57AHO-Wig
+2026-06-11 00:09:40,983 | INFO | VALIDO: https://www.youtube.com/watch?v=JRk-JdaUWu4
+2026-06-11 00:09:42,128 | ERROR | JRwqLW16VJo | https://www.youtube.com/watch?v=JRwqLW16VJo | ERROR_DESCONOCIDO | None
+2026-06-11 00:09:43,288 | INFO | VALIDO: https://www.youtube.com/watch?v=JSVMUbrUHOU
+2026-06-11 00:09:44,375 | INFO | VALIDO: https://www.youtube.com/watch?v=JSrcKsbVz98
+2026-06-11 00:09:45,536 | INFO | VALIDO: https://www.youtube.com/watch?v=JV9cee3lE8A
+2026-06-11 00:09:46,757 | INFO | VALIDO: https://www.youtube.com/watch?v=JdMyoyVU68A
+2026-06-11 00:09:47,952 | ERROR | JpHdMLFFPa4 | https://www.youtube.com/watch?v=JpHdMLFFPa4 | ERROR_DESCONOCIDO | None
+2026-06-11 00:09:49,067 | INFO | VALIDO: https://www.youtube.com/watch?v=K1_y63sjysA
+2026-06-11 00:09:50,193 | ERROR | KD2l5dQE1YI | https://www.youtube.com/watch?v=KD2l5dQE1YI | ERROR_DESCONOCIDO | None
+2026-06-11 00:09:51,617 | INFO | VALIDO: https://www.youtube.com/watch?v=KGFNe5sHwhU
+2026-06-11 00:09:53,088 | INFO | VALIDO: https://www.youtube.com/watch?v=KR8J_0142q8
+2026-06-11 00:09:54,163 | ERROR | L49HQi6HFnQ | https://www.youtube.com/watch?v=L49HQi6HFnQ | ERROR_DESCONOCIDO | None
+2026-06-11 00:09:55,365 | INFO | VALIDO: https://www.youtube.com/watch?v=LfV0WdK9jEA
+2026-06-11 00:09:56,578 | ERROR | M3qBgK68wkU | https://www.youtube.com/watch?v=M3qBgK68wkU | ERROR_DESCONOCIDO | None
+2026-06-11 00:09:57,756 | INFO | VALIDO: https://www.youtube.com/watch?v=M7klZsAX_nk
+2026-06-11 00:09:59,230 | INFO | VALIDO: https://www.youtube.com/watch?v=ME_z-JaXWf0
+2026-06-11 00:10:00,351 | INFO | VALIDO: https://www.youtube.com/watch?v=MMXllWfBo40
+2026-06-11 00:10:01,503 | ERROR | MRY2YPIdoJo | https://www.youtube.com/watch?v=MRY2YPIdoJo | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:02,851 | INFO | VALIDO: https://www.youtube.com/watch?v=MWIeYdmgS3o
+2026-06-11 00:10:03,989 | ERROR | NJJkahNeDpc | https://www.youtube.com/watch?v=NJJkahNeDpc | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:05,301 | INFO | VALIDO: https://www.youtube.com/watch?v=NNGPWK8Ok4o
+2026-06-11 00:10:06,490 | INFO | VALIDO: https://www.youtube.com/watch?v=NYNys_5MtMw
+2026-06-11 00:10:07,787 | INFO | VALIDO: https://www.youtube.com/watch?v=NaKuyEJkv1g
+2026-06-11 00:10:09,055 | INFO | VALIDO: https://www.youtube.com/watch?v=NhjvWBnJc8s
+2026-06-11 00:10:10,351 | INFO | VALIDO: https://www.youtube.com/watch?v=Nk8YK1nDbqg
+2026-06-11 00:10:11,871 | INFO | VALIDO: https://www.youtube.com/watch?v=NoN-bd9mB_o
+2026-06-11 00:10:13,206 | INFO | VALIDO: https://www.youtube.com/watch?v=OL28v9sl7yQ
+2026-06-11 00:10:14,535 | INFO | VALIDO: https://www.youtube.com/watch?v=OT_Rn-8vaoU
+2026-06-11 00:10:15,789 | INFO | VALIDO: https://www.youtube.com/watch?v=Olr3cwtKnH8
+2026-06-11 00:10:17,069 | INFO | VALIDO: https://www.youtube.com/watch?v=Oqzm8bX9Kys
+2026-06-11 00:10:18,208 | ERROR | OvuJO8N4rAU | https://www.youtube.com/watch?v=OvuJO8N4rAU | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:19,339 | ERROR | OzthASfhiEA | https://www.youtube.com/watch?v=OzthASfhiEA | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:20,546 | INFO | VALIDO: https://www.youtube.com/watch?v=PHkGaC38z78
+2026-06-11 00:10:21,967 | INFO | VALIDO: https://www.youtube.com/watch?v=PIztKfEYLHw
+2026-06-11 00:10:23,253 | INFO | VALIDO: https://www.youtube.com/watch?v=PJweRnCvcwM
+2026-06-11 00:10:24,478 | INFO | VALIDO: https://www.youtube.com/watch?v=PhF9IUaai9k
+2026-06-11 00:10:25,902 | INFO | VALIDO: https://www.youtube.com/watch?v=PiwsKSUA1QI
+2026-06-11 00:10:27,056 | INFO | VALIDO: https://www.youtube.com/watch?v=PmOTKxbyWjs
+2026-06-11 00:10:28,227 | INFO | VALIDO: https://www.youtube.com/watch?v=Psbx4LXe1VY
+2026-06-11 00:10:29,413 | INFO | VALIDO: https://www.youtube.com/watch?v=PwxVT96Qmn8
+2026-06-11 00:10:30,600 | INFO | VALIDO: https://www.youtube.com/watch?v=Q523rOh66ig
+2026-06-11 00:10:31,774 | INFO | VALIDO: https://www.youtube.com/watch?v=QBP5p1_b1fQ
+2026-06-11 00:10:32,920 | INFO | VALIDO: https://www.youtube.com/watch?v=QYTm4c0DIq4
+2026-06-11 00:10:34,096 | INFO | VALIDO: https://www.youtube.com/watch?v=QmSDhHdN0ac
+2026-06-11 00:10:35,363 | INFO | VALIDO: https://www.youtube.com/watch?v=QmYn3PZnmNM
+2026-06-11 00:10:36,503 | INFO | VALIDO: https://www.youtube.com/watch?v=QrrAujgpfHg
+2026-06-11 00:10:37,567 | ERROR | R-UjAdlku-k | https://www.youtube.com/watch?v=R-UjAdlku-k | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:38,657 | ERROR | RRjz-Wz5rXU | https://www.youtube.com/watch?v=RRjz-Wz5rXU | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:39,999 | INFO | VALIDO: https://www.youtube.com/watch?v=S8YieJuP-dg
+2026-06-11 00:10:41,211 | INFO | VALIDO: https://www.youtube.com/watch?v=SEi6RCa-t10
+2026-06-11 00:10:42,315 | INFO | VALIDO: https://www.youtube.com/watch?v=SIHIEpPaYGE
+2026-06-11 00:10:43,617 | INFO | VALIDO: https://www.youtube.com/watch?v=SyfrDmAJjCQ
+2026-06-11 00:10:44,714 | ERROR | Ta4T7mlzP4M | https://www.youtube.com/watch?v=Ta4T7mlzP4M | ERROR_DESCONOCIDO | None
+2026-06-11 00:10:45,941 | INFO | VALIDO: https://www.youtube.com/watch?v=TqfZf0KwI4Y
+2026-06-11 00:10:47,077 | INFO | VALIDO: https://www.youtube.com/watch?v=URYWzPVHiAs
+2026-06-11 00:10:48,287 | INFO | VALIDO: https://www.youtube.com/watch?v=VLhgtujGvBM
+2026-06-11 00:10:49,587 | INFO | VALIDO: https://www.youtube.com/watch?v=VYTn5rDxWnE
+2026-06-11 00:10:50,681 | INFO | VALIDO: https://www.youtube.com/watch?v=VZWVG8Pqxtg
+2026-06-11 00:10:51,888 | INFO | VALIDO: https://www.youtube.com/watch?v=VnsD7qAD5II
+2026-06-11 00:10:53,090 | INFO | VALIDO: https://www.youtube.com/watch?v=Vw069dT12wU
+2026-06-11 00:10:54,362 | INFO | VALIDO: https://www.youtube.com/watch?v=W14Ed-y7JvM
+2026-06-11 00:10:55,532 | INFO | VALIDO: https://www.youtube.com/watch?v=W20juAtwfMw
+2026-06-11 00:10:56,696 | INFO | VALIDO: https://www.youtube.com/watch?v=WMjRauxRE_I
+2026-06-11 00:10:57,992 | INFO | VALIDO: https://www.youtube.com/watch?v=WUhYj3qEyZY
+2026-06-11 00:10:59,153 | INFO | VALIDO: https://www.youtube.com/watch?v=XPyeIOqI6qY
+2026-06-11 00:11:00,409 | INFO | VALIDO: https://www.youtube.com/watch?v=XeDsbrESR0o
+2026-06-11 00:11:01,647 | INFO | VALIDO: https://www.youtube.com/watch?v=XjrdiXhgRVQ
+2026-06-11 00:11:02,855 | INFO | VALIDO: https://www.youtube.com/watch?v=XqdsoTNfzec
+2026-06-11 00:11:04,002 | INFO | VALIDO: https://www.youtube.com/watch?v=XyvshGf7OKs
+2026-06-11 00:11:05,222 | INFO | VALIDO: https://www.youtube.com/watch?v=Y3LF4Xgr_uw
+2026-06-11 00:11:06,403 | INFO | VALIDO: https://www.youtube.com/watch?v=YBOLTzGfJqk
+2026-06-11 00:11:07,570 | INFO | VALIDO: https://www.youtube.com/watch?v=YCzxBR6HYfs
+2026-06-11 00:11:08,771 | INFO | VALIDO: https://www.youtube.com/watch?v=Ymka-9FijTI
+2026-06-11 00:11:10,078 | INFO | VALIDO: https://www.youtube.com/watch?v=YvGUVyHwcIE
+2026-06-11 00:11:11,452 | INFO | VALIDO: https://www.youtube.com/watch?v=YvutGY8TgVM
+2026-06-11 00:11:12,733 | INFO | VALIDO: https://www.youtube.com/watch?v=Z3eRzYVka9c
+2026-06-11 00:11:13,833 | ERROR | ZWb1ygjvd0Y | https://www.youtube.com/watch?v=ZWb1ygjvd0Y | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:14,989 | INFO | VALIDO: https://www.youtube.com/watch?v=ZumsWsbpGeI
+2026-06-11 00:11:16,298 | INFO | VALIDO: https://www.youtube.com/watch?v=_3oi7YTcSSw
+2026-06-11 00:11:17,399 | ERROR | _DeCy7pOW40 | https://www.youtube.com/watch?v=_DeCy7pOW40 | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:18,670 | INFO | VALIDO: https://www.youtube.com/watch?v=_NOQ5fyqhY0
+2026-06-11 00:11:19,863 | INFO | VALIDO: https://www.youtube.com/watch?v=_jdud6kKZKg
+2026-06-11 00:11:20,955 | INFO | VALIDO: https://www.youtube.com/watch?v=_m7orjmVPWo
+2026-06-11 00:11:22,174 | INFO | VALIDO: https://www.youtube.com/watch?v=_rBMa3I7s1U
+2026-06-11 00:11:23,309 | INFO | VALIDO: https://www.youtube.com/watch?v=a5y9ja6WxWA
+2026-06-11 00:11:24,420 | INFO | VALIDO: https://www.youtube.com/watch?v=ahsZ3M8C4g0
+2026-06-11 00:11:25,606 | INFO | VALIDO: https://www.youtube.com/watch?v=asbHs4A3ykQ
+2026-06-11 00:11:26,642 | ERROR | avWTcLXBp7I | https://www.youtube.com/watch?v=avWTcLXBp7I | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:27,793 | INFO | VALIDO: https://www.youtube.com/watch?v=axAMaFP_q1g
+2026-06-11 00:11:29,158 | INFO | VALIDO: https://www.youtube.com/watch?v=bPqYUKrU_2A
+2026-06-11 00:11:30,703 | INFO | VALIDO: https://www.youtube.com/watch?v=bWVHc032IPs
+2026-06-11 00:11:31,803 | ERROR | bnsgSZz1uJY | https://www.youtube.com/watch?v=bnsgSZz1uJY | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:32,983 | INFO | VALIDO: https://www.youtube.com/watch?v=cBpjMSEuEvU
+2026-06-11 00:11:34,266 | INFO | VALIDO: https://www.youtube.com/watch?v=cuVXBaE7O3o
+2026-06-11 00:11:35,401 | INFO | VALIDO: https://www.youtube.com/watch?v=d5WpSHr0G9k
+2026-06-11 00:11:36,562 | INFO | VALIDO: https://www.youtube.com/watch?v=dhwL6UaKExM
+2026-06-11 00:11:37,847 | INFO | VALIDO: https://www.youtube.com/watch?v=dwC6DCDCMxA
+2026-06-11 00:11:39,003 | INFO | VALIDO: https://www.youtube.com/watch?v=e5roEk60w_k
+2026-06-11 00:11:40,340 | INFO | VALIDO: https://www.youtube.com/watch?v=eO93223c3cU
+2026-06-11 00:11:41,671 | INFO | VALIDO: https://www.youtube.com/watch?v=ef_eT1DWLsA
+2026-06-11 00:11:42,901 | INFO | VALIDO: https://www.youtube.com/watch?v=enFvefj1gkc
+2026-06-11 00:11:44,197 | INFO | VALIDO: https://www.youtube.com/watch?v=ep22ENIdq3U
+2026-06-11 00:11:45,403 | INFO | VALIDO: https://www.youtube.com/watch?v=eqAaMKPzBek
+2026-06-11 00:11:46,677 | ERROR | euGWuQPp1t0 | https://www.youtube.com/watch?v=euGWuQPp1t0 | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:47,816 | ERROR | fBBFCQ5TULE | https://www.youtube.com/watch?v=fBBFCQ5TULE | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:48,917 | ERROR | fhNi4L5xScI | https://www.youtube.com/watch?v=fhNi4L5xScI | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:50,074 | INFO | VALIDO: https://www.youtube.com/watch?v=fhqAxgxOP1A
+2026-06-11 00:11:51,255 | INFO | VALIDO: https://www.youtube.com/watch?v=gFKGHmUo-f4
+2026-06-11 00:11:52,349 | INFO | VALIDO: https://www.youtube.com/watch?v=g_sn520GhJA
+2026-06-11 00:11:53,521 | INFO | VALIDO: https://www.youtube.com/watch?v=gc_vxBw40OE
+2026-06-11 00:11:54,599 | ERROR | griM-FRhgU8 | https://www.youtube.com/watch?v=griM-FRhgU8 | ERROR_DESCONOCIDO | None
+2026-06-11 00:11:55,910 | INFO | VALIDO: https://www.youtube.com/watch?v=hAp8A4glaRM
+2026-06-11 00:11:57,191 | INFO | VALIDO: https://www.youtube.com/watch?v=hxXc5EZx1zk
+2026-06-11 00:11:58,364 | INFO | VALIDO: https://www.youtube.com/watch?v=iWm5GLoCKaQ
+2026-06-11 00:11:59,565 | INFO | VALIDO: https://www.youtube.com/watch?v=ijeqwN4zQlk
+2026-06-11 00:12:00,642 | INFO | VALIDO: https://www.youtube.com/watch?v=j1f4lmQtq0U
+2026-06-11 00:12:01,729 | INFO | VALIDO: https://www.youtube.com/watch?v=jTzcJll_fv4
+2026-06-11 00:12:03,056 | INFO | VALIDO: https://www.youtube.com/watch?v=jju8p56xyFc
+2026-06-11 00:12:04,324 | INFO | VALIDO: https://www.youtube.com/watch?v=kTrAU5dg0Dg
+2026-06-11 00:12:05,578 | INFO | VALIDO: https://www.youtube.com/watch?v=l3OwzpclmLQ
+2026-06-11 00:12:06,830 | INFO | VALIDO: https://www.youtube.com/watch?v=l7gXXQLl4Zk
+2026-06-11 00:12:07,949 | INFO | VALIDO: https://www.youtube.com/watch?v=l_Ir24ZbJZo
+2026-06-11 00:12:09,261 | INFO | VALIDO: https://www.youtube.com/watch?v=m00c59UT77s
+2026-06-11 00:12:10,534 | INFO | VALIDO: https://www.youtube.com/watch?v=mJZbu4vxeK0
+2026-06-11 00:12:11,770 | INFO | VALIDO: https://www.youtube.com/watch?v=mUIceCtpcpc
+2026-06-11 00:12:13,052 | INFO | VALIDO: https://www.youtube.com/watch?v=mpAyOrFyWWg
+2026-06-11 00:12:14,195 | INFO | VALIDO: https://www.youtube.com/watch?v=nCrMai6HxtI
+2026-06-11 00:12:15,502 | INFO | VALIDO: https://www.youtube.com/watch?v=nGVFe7CXPSI
+2026-06-11 00:12:16,767 | INFO | VALIDO: https://www.youtube.com/watch?v=nUb23841xNY
+2026-06-11 00:12:18,071 | INFO | VALIDO: https://www.youtube.com/watch?v=nZ8sgtFKAuk
+2026-06-11 00:12:19,302 | INFO | VALIDO: https://www.youtube.com/watch?v=nk7NtXMVK4Q
+2026-06-11 00:12:20,501 | INFO | VALIDO: https://www.youtube.com/watch?v=nmoXOQ0_Uxc
+2026-06-11 00:12:21,914 | INFO | VALIDO: https://www.youtube.com/watch?v=nxuJfPJoo4I
+2026-06-11 00:12:23,052 | INFO | VALIDO: https://www.youtube.com/watch?v=o8K_fTVG1EU
+2026-06-11 00:12:24,250 | INFO | VALIDO: https://www.youtube.com/watch?v=oK3rsN8ZhOQ
+2026-06-11 00:12:25,441 | INFO | VALIDO: https://www.youtube.com/watch?v=oSaLibDTBFw
+2026-06-11 00:12:26,563 | ERROR | oYo3eBbW4h8 | https://www.youtube.com/watch?v=oYo3eBbW4h8 | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:27,743 | INFO | VALIDO: https://www.youtube.com/watch?v=ohDTAGQDM_Y
+2026-06-11 00:12:28,936 | INFO | VALIDO: https://www.youtube.com/watch?v=okAJfy1cMHE
+2026-06-11 00:12:30,181 | INFO | VALIDO: https://www.youtube.com/watch?v=ozrQRJtZ6eU
+2026-06-11 00:12:31,300 | ERROR | p0OzBcn_yYM | https://www.youtube.com/watch?v=p0OzBcn_yYM | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:32,542 | INFO | VALIDO: https://www.youtube.com/watch?v=p5vtQCzhbzI
+2026-06-11 00:12:33,708 | INFO | VALIDO: https://www.youtube.com/watch?v=pJlQPVYTi1U
+2026-06-11 00:12:34,777 | ERROR | pQylCYoDq0k | https://www.youtube.com/watch?v=pQylCYoDq0k | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:36,111 | INFO | VALIDO: https://www.youtube.com/watch?v=pkwMRzkuyFY
+2026-06-11 00:12:37,249 | INFO | VALIDO: https://www.youtube.com/watch?v=ps9jrUaGpKM
+2026-06-11 00:12:38,433 | INFO | VALIDO: https://www.youtube.com/watch?v=q3OpmJCJjCk
+2026-06-11 00:12:39,717 | INFO | VALIDO: https://www.youtube.com/watch?v=qdVWvQemM9U
+2026-06-11 00:12:40,982 | INFO | VALIDO: https://www.youtube.com/watch?v=qh_JFGknjwM
+2026-06-11 00:12:42,213 | ERROR | qoQSOb5gwqk | https://www.youtube.com/watch?v=qoQSOb5gwqk | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:43,424 | ERROR | r-5IaFCqXZs | https://www.youtube.com/watch?v=r-5IaFCqXZs | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:44,508 | INFO | VALIDO: https://www.youtube.com/watch?v=rJykN_sWaF4
+2026-06-11 00:12:45,854 | INFO | VALIDO: https://www.youtube.com/watch?v=rN4VRgz3BgE
+2026-06-11 00:12:47,023 | INFO | VALIDO: https://www.youtube.com/watch?v=s-4_1sm3Cvg
+2026-06-11 00:12:48,185 | INFO | VALIDO: https://www.youtube.com/watch?v=s9sXsDKqPoo
+2026-06-11 00:12:49,409 | INFO | VALIDO: https://www.youtube.com/watch?v=sWWqj1ke3ww
+2026-06-11 00:12:50,560 | INFO | VALIDO: https://www.youtube.com/watch?v=snk99C7u590
+2026-06-11 00:12:51,915 | INFO | VALIDO: https://www.youtube.com/watch?v=t9Fe9oDl0-0
+2026-06-11 00:12:53,154 | INFO | VALIDO: https://www.youtube.com/watch?v=tB51TQeqhMo
+2026-06-11 00:12:54,209 | ERROR | tKdPjAwLmzs | https://www.youtube.com/watch?v=tKdPjAwLmzs | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:55,296 | ERROR | taahX4z3XNo | https://www.youtube.com/watch?v=taahX4z3XNo | ERROR_DESCONOCIDO | None
+2026-06-11 00:12:56,609 | INFO | VALIDO: https://www.youtube.com/watch?v=u2GBIy51lDc
+2026-06-11 00:12:58,024 | INFO | VALIDO: https://www.youtube.com/watch?v=uOoLH6vUHHw
+2026-06-11 00:12:59,161 | ERROR | ulEpv3Usm5w | https://www.youtube.com/watch?v=ulEpv3Usm5w | ERROR_DESCONOCIDO | None
+2026-06-11 00:13:00,441 | INFO | VALIDO: https://www.youtube.com/watch?v=v6-UwC-zCrg
+2026-06-11 00:13:01,764 | INFO | VALIDO: https://www.youtube.com/watch?v=vBC0by0HieI
+2026-06-11 00:13:03,000 | INFO | VALIDO: https://www.youtube.com/watch?v=vjl3YuUHw40
+2026-06-11 00:13:04,249 | INFO | VALIDO: https://www.youtube.com/watch?v=wLXl623zvGQ
+2026-06-11 00:13:05,541 | INFO | VALIDO: https://www.youtube.com/watch?v=woRlKzr29CA
+2026-06-11 00:13:06,858 | INFO | VALIDO: https://www.youtube.com/watch?v=wsqAvb25y1Q
+2026-06-11 00:13:08,247 | INFO | VALIDO: https://www.youtube.com/watch?v=x2uEtuazglQ
+2026-06-11 00:13:09,428 | INFO | VALIDO: https://www.youtube.com/watch?v=xQrwM-2aKgM
+2026-06-11 00:13:10,699 | INFO | VALIDO: https://www.youtube.com/watch?v=xTmcwOkfj4I
+2026-06-11 00:13:11,923 | INFO | VALIDO: https://www.youtube.com/watch?v=y3M3kzBlzUk
+2026-06-11 00:13:13,167 | INFO | VALIDO: https://www.youtube.com/watch?v=yctZZfwyBiY
+2026-06-11 00:13:14,273 | INFO | VALIDO: https://www.youtube.com/watch?v=ymT8F9Zw-Tg
+2026-06-11 00:13:15,594 | INFO | VALIDO: https://www.youtube.com/watch?v=yqvdtuIkacg
+2026-06-11 00:13:16,819 | INFO | VALIDO: https://www.youtube.com/watch?v=zBNi-qfKxl0
+2026-06-11 00:13:17,993 | INFO | VALIDO: https://www.youtube.com/watch?v=zMJHw_rqU7k
+2026-06-11 00:13:19,176 | INFO | VALIDO: https://www.youtube.com/watch?v=zr1RYN7kvAw
+2026-06-11 00:13:20,351 | INFO | VALIDO: https://www.youtube.com/watch?v=zyACDwpl9lU
+2026-06-11 00:13:20,353 | INFO | Validación completada.
+2026-06-11 00:29:27,801 | INFO | Iniciando descarga de comentarios...
+2026-06-11 01:53:27,166 | INFO | Iniciando descarga de comentarios...
+2026-06-11 01:53:29,603 | INFO | -3oQizWTm6g -> 3 comentarios
+2026-06-11 01:53:35,818 | INFO | -LQTFRLGaXU -> 5 comentarios
+2026-06-11 01:53:40,825 | INFO | -jhkvYe3DIE -> 37 comentarios
+2026-06-11 01:53:44,957 | INFO | -n8sDCY06HA -> 4 comentarios
+2026-06-11 01:53:49,588 | INFO | -uFy7MPFIKg -> 2 comentarios
+2026-06-11 01:53:54,839 | INFO | 0-endP9mRys -> 11 comentarios
+2026-06-11 01:53:58,569 | INFO | 0F8NYrFRcvo -> 3 comentarios
+2026-06-11 01:54:02,525 | INFO | 0FNF-06fUf8 -> 0 comentarios
+2026-06-11 01:54:08,245 | INFO | 0f2IeO2D0E8 -> 3 comentarios
+2026-06-11 01:54:13,825 | INFO | 0glJRf0gPgk -> 6 comentarios
+2026-06-11 01:54:20,665 | INFO | 0kbgGe32VJ8 -> 7 comentarios
+2026-06-11 01:54:25,371 | INFO | 1LFvEg4rCyk -> 0 comentarios
+2026-06-11 01:54:29,968 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=1XloJUfEbfE: Failed to set sorting
+2026-06-11 01:54:30,921 | INFO | 1aIuVPHeIts -> 1 comentarios
+2026-06-11 01:54:35,479 | INFO | 1oro-Dbv610 -> 4 comentarios
+2026-06-11 01:54:40,357 | INFO | 1p0LGIqR_k0 -> 4 comentarios
+2026-06-11 01:54:45,134 | INFO | 1r_ugCtCgnM -> 3 comentarios
+2026-06-11 01:54:49,421 | INFO | 1riA11y67vc -> 10 comentarios
+2026-06-11 01:54:53,224 | INFO | 1upUST-r3iw -> 0 comentarios
+2026-06-11 01:54:58,075 | INFO | 1wzRCIzmX_o -> 11 comentarios
+2026-06-11 01:55:03,519 | INFO | 22ovpK3pZmI -> 6 comentarios
+2026-06-11 01:55:08,988 | INFO | 2BZD7yM9aLE -> 1 comentarios
+2026-06-11 01:55:14,098 | INFO | 3CcpQFkQ1X8 -> 3 comentarios
+2026-06-11 01:55:17,985 | INFO | 3FJDrFFu6QI -> 0 comentarios
+2026-06-11 01:55:21,929 | INFO | 3WvYkTHM3wc -> 1 comentarios
+2026-06-11 01:55:27,764 | INFO | 3jHHuemHwR0 -> 4 comentarios
+2026-06-11 01:55:31,906 | INFO | 4XUwEGDkGNk -> 3 comentarios
+2026-06-11 01:55:35,602 | INFO | 59Hf8BK_qh8 -> 7 comentarios
+2026-06-11 01:55:42,957 | INFO | 5HQir7vo8Sw -> 9 comentarios
+2026-06-11 01:55:47,173 | INFO | 5KawEz-So30 -> 0 comentarios
+2026-06-11 01:55:51,935 | INFO | 5akqZrtaLG8 -> 2 comentarios
+2026-06-11 01:55:56,777 | INFO | 6B_SqxLl2aA -> 1 comentarios
+2026-06-11 01:56:12,906 | INFO | 6R77muguBXw -> 87 comentarios
+2026-06-11 01:56:18,703 | INFO | 6l5J4N5SY24 -> 0 comentarios
+2026-06-11 01:56:23,871 | INFO | 7OgAAwjamwM -> 1 comentarios
+2026-06-11 01:56:29,974 | INFO | 7RvOAiztpLI -> 10 comentarios
+2026-06-11 01:56:33,508 | INFO | 7aMY-MtOuVs -> 5 comentarios
+2026-06-11 01:56:42,337 | INFO | 7fymnVkNxkg -> 32 comentarios
+2026-06-11 01:56:46,842 | INFO | 84m6vZc7WDc -> 1 comentarios
+2026-06-11 01:56:51,850 | INFO | 8Z85LoQxl0A -> 1 comentarios
+2026-06-11 01:56:55,779 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=9SdpGOltwyc: Failed to set sorting
+2026-06-11 01:56:56,679 | INFO | 9uqr6UvcKzg -> 0 comentarios
+2026-06-11 01:57:00,428 | INFO | AVqtIy6eCb8 -> 0 comentarios
+2026-06-11 01:57:05,860 | INFO | AuKs97cqHuE -> 3 comentarios
+2026-06-11 01:57:11,827 | INFO | B7kqwXxPnf0 -> 16 comentarios
+2026-06-11 01:57:17,295 | INFO | BM46L7sFbLQ -> 2 comentarios
+2026-06-11 01:57:21,209 | INFO | BgV-cBRzh90 -> 0 comentarios
+2026-06-11 01:57:27,036 | INFO | BjYvrg-6nUw -> 0 comentarios
+2026-06-11 01:57:41,983 | INFO | C-AIJ9QS1YA -> 185 comentarios
+2026-06-11 01:57:47,232 | INFO | C5ebz-xPGo8 -> 0 comentarios
+2026-06-11 01:57:50,699 | INFO | C67ZfSeWb6w -> 4 comentarios
+2026-06-11 01:57:53,845 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=C9yV_TFoJ4s: Failed to set sorting
+2026-06-11 01:57:55,190 | INFO | CPfxqLmAnl8 -> 4 comentarios
+2026-06-11 01:57:58,208 | INFO | CdtHBPQRVus -> 2 comentarios
+2026-06-11 01:58:01,715 | INFO | CoxXR-mtQbk -> 0 comentarios
+2026-06-11 01:58:08,296 | INFO | CxsOZg6bbOY -> 8 comentarios
+2026-06-11 01:58:13,097 | INFO | D6i1wrd0b-E -> 5 comentarios
+2026-06-11 01:58:18,066 | INFO | DOl4HmeKvxY -> 2 comentarios
+2026-06-11 01:58:23,754 | INFO | E1XNCAXQY0A -> 2 comentarios
+2026-06-11 01:58:28,077 | INFO | E7QaC5gM4zg -> 2 comentarios
+2026-06-11 01:58:33,366 | INFO | EqPegNWaPu4 -> 13 comentarios
+2026-06-11 01:58:39,562 | INFO | F6Agm-JWB1U -> 11 comentarios
+2026-06-11 01:58:42,810 | INFO | G0NVuip0Z4I -> 0 comentarios
+2026-06-11 01:58:46,141 | INFO | GaM_fq3VCKg -> 1 comentarios
+2026-06-11 01:58:49,743 | INFO | GcBL3D85qTU -> 2 comentarios
+2026-06-11 01:59:09,726 | INFO | GeXCeoLd92s -> 39 comentarios
+2026-06-11 01:59:15,174 | INFO | GkvdeEatu3g -> 4 comentarios
+2026-06-11 01:59:21,070 | INFO | H51wiM_v8AY -> 2 comentarios
+2026-06-11 01:59:25,846 | INFO | HHmfaLGfx-E -> 5 comentarios
+2026-06-11 01:59:29,155 | INFO | HP__kCuwCtg -> 2 comentarios
+2026-06-11 01:59:34,402 | INFO | Hg3tTOTMWFk -> 4 comentarios
+2026-06-11 01:59:39,331 | INFO | Hggn8BOGkSY -> 1 comentarios
+2026-06-11 01:59:46,050 | INFO | HhnturaQMJQ -> 14 comentarios
+2026-06-11 01:59:49,215 | INFO | Hni6THrR1IE -> 0 comentarios
+2026-06-11 01:59:54,064 | INFO | I2l2MVsR3h4 -> 0 comentarios
+2026-06-11 01:59:56,968 | INFO | IX3ivwk_WfQ -> 2 comentarios
+2026-06-11 02:00:37,059 | INFO | Igz1nUWG0wg -> 1034 comentarios
+2026-06-11 02:00:43,566 | INFO | J8DUqlPN75c -> 3 comentarios
+2026-06-11 02:00:47,648 | INFO | JP57AHO-Wig -> 2 comentarios
+2026-06-11 02:00:54,321 | INFO | JRk-JdaUWu4 -> 2 comentarios
+2026-06-11 02:01:03,587 | INFO | JSVMUbrUHOU -> 16 comentarios
+2026-06-11 02:01:08,196 | INFO | JSrcKsbVz98 -> 2 comentarios
+2026-06-11 02:01:11,637 | INFO | JV9cee3lE8A -> 0 comentarios
+2026-06-11 02:01:16,606 | INFO | JdMyoyVU68A -> 3 comentarios
+2026-06-11 02:01:19,478 | INFO | K1_y63sjysA -> 0 comentarios
+2026-06-11 02:01:24,335 | INFO | KGFNe5sHwhU -> 0 comentarios
+2026-06-11 02:01:30,474 | INFO | KR8J_0142q8 -> 3 comentarios
+2026-06-11 02:01:33,831 | INFO | LfV0WdK9jEA -> 0 comentarios
+2026-06-11 02:01:36,701 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=M7klZsAX_nk: Failed to set sorting
+2026-06-11 02:01:51,665 | INFO | ME_z-JaXWf0 -> 401 comentarios
+2026-06-11 02:01:56,459 | INFO | MMXllWfBo40 -> 0 comentarios
+2026-06-11 02:02:01,479 | INFO | MWIeYdmgS3o -> 0 comentarios
+2026-06-11 02:02:07,984 | INFO | NNGPWK8Ok4o -> 9 comentarios
+2026-06-11 02:02:13,959 | INFO | NYNys_5MtMw -> 4 comentarios
+2026-06-11 02:02:17,740 | INFO | NaKuyEJkv1g -> 0 comentarios
+2026-06-11 02:02:23,679 | INFO | NhjvWBnJc8s -> 0 comentarios
+2026-06-11 02:02:29,160 | INFO | Nk8YK1nDbqg -> 4 comentarios
+2026-06-11 02:02:35,621 | INFO | NoN-bd9mB_o -> 5 comentarios
+2026-06-11 02:02:38,657 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=OL28v9sl7yQ: Failed to set sorting
+2026-06-11 02:02:39,524 | INFO | OT_Rn-8vaoU -> 2 comentarios
+2026-06-11 02:02:46,562 | INFO | Olr3cwtKnH8 -> 16 comentarios
+2026-06-11 02:02:49,476 | INFO | Oqzm8bX9Kys -> 0 comentarios
+2026-06-11 02:02:56,365 | INFO | PHkGaC38z78 -> 74 comentarios
+2026-06-11 02:03:01,993 | INFO | PIztKfEYLHw -> 6 comentarios
+2026-06-11 02:03:06,228 | INFO | PJweRnCvcwM -> 7 comentarios
+2026-06-11 02:03:11,536 | INFO | PhF9IUaai9k -> 6 comentarios
+2026-06-11 02:07:52,299 | INFO | PiwsKSUA1QI -> 7751 comentarios
+2026-06-11 02:08:01,026 | INFO | PmOTKxbyWjs -> 67 comentarios
+2026-06-11 02:08:04,239 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=Psbx4LXe1VY: Failed to set sorting
+2026-06-11 02:08:05,353 | INFO | PwxVT96Qmn8 -> 14 comentarios
+2026-06-11 02:08:10,437 | INFO | Q523rOh66ig -> 9 comentarios
+2026-06-11 02:08:16,044 | INFO | QBP5p1_b1fQ -> 26 comentarios
+2026-06-11 02:08:20,650 | INFO | QYTm4c0DIq4 -> 8 comentarios
+2026-06-11 02:08:25,391 | INFO | QmSDhHdN0ac -> 3 comentarios
+2026-06-11 02:08:28,310 | INFO | QmYn3PZnmNM -> 0 comentarios
+2026-06-11 02:08:32,773 | INFO | QrrAujgpfHg -> 0 comentarios
+2026-06-11 02:08:37,455 | INFO | S8YieJuP-dg -> 7 comentarios
+2026-06-11 02:08:43,574 | INFO | SEi6RCa-t10 -> 5 comentarios
+2026-06-11 02:08:46,413 | INFO | SIHIEpPaYGE -> 0 comentarios
+2026-06-11 02:08:51,307 | INFO | SyfrDmAJjCQ -> 0 comentarios
+2026-06-11 02:08:54,994 | INFO | TqfZf0KwI4Y -> 2 comentarios
+2026-06-11 02:08:59,058 | INFO | URYWzPVHiAs -> 1 comentarios
+2026-06-11 02:09:04,005 | INFO | VLhgtujGvBM -> 9 comentarios
+2026-06-11 02:09:07,514 | INFO | VYTn5rDxWnE -> 7 comentarios
+2026-06-11 02:09:11,704 | INFO | VZWVG8Pqxtg -> 0 comentarios
+2026-06-11 02:09:17,906 | INFO | VnsD7qAD5II -> 4 comentarios
+2026-06-11 02:09:22,319 | INFO | Vw069dT12wU -> 20 comentarios
+2026-06-11 02:09:27,069 | INFO | W14Ed-y7JvM -> 6 comentarios
+2026-06-11 02:09:31,393 | INFO | W20juAtwfMw -> 0 comentarios
+2026-06-11 02:09:35,409 | INFO | WMjRauxRE_I -> 6 comentarios
+2026-06-11 02:09:40,631 | INFO | WUhYj3qEyZY -> 5 comentarios
+2026-06-11 02:09:47,119 | INFO | XPyeIOqI6qY -> 8 comentarios
+2026-06-11 02:09:50,898 | INFO | XeDsbrESR0o -> 2 comentarios
+2026-06-11 02:09:54,568 | INFO | XjrdiXhgRVQ -> 1 comentarios
+2026-06-11 02:09:58,363 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=XqdsoTNfzec: Failed to set sorting
+2026-06-11 02:10:02,100 | INFO | XyvshGf7OKs -> 18 comentarios
+2026-06-11 02:10:05,531 | INFO | Y3LF4Xgr_uw -> 7 comentarios
+2026-06-11 02:10:09,475 | INFO | YBOLTzGfJqk -> 2 comentarios
+2026-06-11 02:10:16,431 | INFO | YCzxBR6HYfs -> 10 comentarios
+2026-06-11 02:10:22,203 | INFO | Ymka-9FijTI -> 10 comentarios
+2026-06-11 02:10:25,454 | INFO | YvGUVyHwcIE -> 0 comentarios
+2026-06-11 02:10:29,207 | INFO | YvutGY8TgVM -> 1 comentarios
+2026-06-11 02:10:32,434 | INFO | Z3eRzYVka9c -> 2 comentarios
+2026-06-11 02:10:37,112 | INFO | ZumsWsbpGeI -> 1 comentarios
+2026-06-11 02:10:41,372 | INFO | _3oi7YTcSSw -> 3 comentarios
+2026-06-11 02:10:45,336 | INFO | _NOQ5fyqhY0 -> 4 comentarios
+2026-06-11 02:10:51,110 | INFO | _jdud6kKZKg -> 13 comentarios
+2026-06-11 02:10:56,244 | INFO | _m7orjmVPWo -> 0 comentarios
+2026-06-11 02:11:00,720 | INFO | _rBMa3I7s1U -> 2 comentarios
+2026-06-11 02:11:07,213 | INFO | a5y9ja6WxWA -> 10 comentarios
+2026-06-11 02:11:10,066 | INFO | ahsZ3M8C4g0 -> 1 comentarios
+2026-06-11 02:11:14,782 | INFO | asbHs4A3ykQ -> 2 comentarios
+2026-06-11 02:11:19,524 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=axAMaFP_q1g: Failed to set sorting
+2026-06-11 02:11:21,033 | INFO | bPqYUKrU_2A -> 7 comentarios
+2026-06-11 02:11:24,013 | INFO | bWVHc032IPs -> 2 comentarios
+2026-06-11 02:11:31,204 | INFO | cBpjMSEuEvU -> 26 comentarios
+2026-06-11 02:11:34,592 | INFO | cuVXBaE7O3o -> 0 comentarios
+2026-06-11 02:11:39,299 | INFO | d5WpSHr0G9k -> 0 comentarios
+2026-06-11 02:12:17,397 | INFO | dhwL6UaKExM -> 607 comentarios
+2026-06-11 02:12:22,174 | INFO | dwC6DCDCMxA -> 3 comentarios
+2026-06-11 02:12:25,668 | INFO | e5roEk60w_k -> 2 comentarios
+2026-06-11 02:12:29,427 | INFO | eO93223c3cU -> 0 comentarios
+2026-06-11 02:12:33,409 | INFO | ef_eT1DWLsA -> 9 comentarios
+2026-06-11 02:12:43,095 | INFO | enFvefj1gkc -> 46 comentarios
+2026-06-11 02:12:47,848 | INFO | ep22ENIdq3U -> 0 comentarios
+2026-06-11 02:12:53,854 | INFO | eqAaMKPzBek -> 9 comentarios
+2026-06-11 02:12:59,053 | INFO | fhqAxgxOP1A -> 29 comentarios
+2026-06-11 02:13:02,736 | INFO | gFKGHmUo-f4 -> 9 comentarios
+2026-06-11 02:13:09,432 | INFO | g_sn520GhJA -> 24 comentarios
+2026-06-11 02:13:14,843 | INFO | gc_vxBw40OE -> 0 comentarios
+2026-06-11 02:13:19,486 | INFO | hAp8A4glaRM -> 3 comentarios
+2026-06-11 02:13:25,423 | INFO | hxXc5EZx1zk -> 5 comentarios
+2026-06-11 02:13:29,672 | INFO | iWm5GLoCKaQ -> 3 comentarios
+2026-06-11 02:13:34,972 | INFO | ijeqwN4zQlk -> 2 comentarios
+2026-06-11 02:13:40,495 | INFO | j1f4lmQtq0U -> 2 comentarios
+2026-06-11 02:13:45,262 | INFO | jTzcJll_fv4 -> 4 comentarios
+2026-06-11 02:13:50,988 | INFO | jju8p56xyFc -> 4 comentarios
+2026-06-11 02:13:55,204 | INFO | kTrAU5dg0Dg -> 4 comentarios
+2026-06-11 02:13:59,355 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=l3OwzpclmLQ: Failed to set sorting
+2026-06-11 02:14:03,171 | INFO | l7gXXQLl4Zk -> 38 comentarios
+2026-06-11 02:14:08,937 | INFO | l_Ir24ZbJZo -> 11 comentarios
+2026-06-11 02:14:14,866 | INFO | m00c59UT77s -> 15 comentarios
+2026-06-11 02:14:19,183 | INFO | mJZbu4vxeK0 -> 4 comentarios
+2026-06-11 02:14:24,036 | INFO | mUIceCtpcpc -> 8 comentarios
+2026-06-11 02:14:30,838 | INFO | mpAyOrFyWWg -> 80 comentarios
+2026-06-11 02:14:36,619 | INFO | nCrMai6HxtI -> 8 comentarios
+2026-06-11 02:14:42,991 | INFO | nGVFe7CXPSI -> 9 comentarios
+2026-06-11 02:14:47,297 | INFO | nUb23841xNY -> 3 comentarios
+2026-06-11 02:14:54,193 | INFO | nZ8sgtFKAuk -> 19 comentarios
+2026-06-11 02:14:57,989 | INFO | nk7NtXMVK4Q -> 0 comentarios
+2026-06-11 02:15:03,534 | INFO | nmoXOQ0_Uxc -> 1 comentarios
+2026-06-11 02:15:07,685 | INFO | nxuJfPJoo4I -> 0 comentarios
+2026-06-11 02:15:10,847 | INFO | o8K_fTVG1EU -> 7 comentarios
+2026-06-11 02:15:15,407 | INFO | oK3rsN8ZhOQ -> 0 comentarios
+2026-06-11 02:15:18,987 | INFO | oSaLibDTBFw -> 6 comentarios
+2026-06-11 02:15:24,675 | INFO | ohDTAGQDM_Y -> 15 comentarios
+2026-06-11 02:15:27,941 | INFO | okAJfy1cMHE -> 0 comentarios
+2026-06-11 02:15:33,247 | INFO | ozrQRJtZ6eU -> 0 comentarios
+2026-06-11 02:15:36,788 | INFO | p5vtQCzhbzI -> 2 comentarios
+2026-06-11 02:15:41,930 | INFO | pJlQPVYTi1U -> 1 comentarios
+2026-06-11 02:15:46,495 | INFO | pkwMRzkuyFY -> 2 comentarios
+2026-06-11 02:15:54,323 | INFO | ps9jrUaGpKM -> 23 comentarios
+2026-06-11 02:15:59,159 | INFO | q3OpmJCJjCk -> 9 comentarios
+2026-06-11 02:16:02,437 | INFO | qdVWvQemM9U -> 5 comentarios
+2026-06-11 02:16:06,245 | INFO | qh_JFGknjwM -> 8 comentarios
+2026-06-11 02:16:11,696 | INFO | rJykN_sWaF4 -> 1 comentarios
+2026-06-11 02:16:15,736 | INFO | rN4VRgz3BgE -> 1 comentarios
+2026-06-11 02:16:20,761 | INFO | s-4_1sm3Cvg -> 8 comentarios
+2026-06-11 02:16:31,715 | INFO | s9sXsDKqPoo -> 76 comentarios
+2026-06-11 02:16:36,837 | INFO | sWWqj1ke3ww -> 35 comentarios
+2026-06-11 02:16:40,831 | INFO | snk99C7u590 -> 4 comentarios
+2026-06-11 02:16:44,469 | INFO | t9Fe9oDl0-0 -> 0 comentarios
+2026-06-11 02:16:52,913 | INFO | tB51TQeqhMo -> 56 comentarios
+2026-06-11 02:16:57,230 | INFO | u2GBIy51lDc -> 0 comentarios
+2026-06-11 02:17:01,478 | INFO | uOoLH6vUHHw -> 0 comentarios
+2026-06-11 02:17:05,563 | INFO | v6-UwC-zCrg -> 0 comentarios
+2026-06-11 02:17:09,585 | INFO | vBC0by0HieI -> 0 comentarios
+2026-06-11 02:17:13,530 | INFO | vjl3YuUHw40 -> 1 comentarios
+2026-06-11 02:17:16,127 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=wLXl623zvGQ: Failed to set sorting
+2026-06-11 02:17:16,878 | INFO | woRlKzr29CA -> 0 comentarios
+2026-06-11 02:17:22,994 | INFO | wsqAvb25y1Q -> 3 comentarios
+2026-06-11 02:17:29,232 | INFO | x2uEtuazglQ -> 29 comentarios
+2026-06-11 02:17:32,619 | INFO | xQrwM-2aKgM -> 0 comentarios
+2026-06-11 02:17:36,735 | INFO | xTmcwOkfj4I -> 6 comentarios
+2026-06-11 02:17:41,772 | INFO | y3M3kzBlzUk -> 2 comentarios
+2026-06-11 02:17:46,864 | INFO | yctZZfwyBiY -> 7 comentarios
+2026-06-11 02:17:49,969 | INFO | ymT8F9Zw-Tg -> 2 comentarios
+2026-06-11 02:17:53,459 | INFO | yqvdtuIkacg -> 0 comentarios
+2026-06-11 02:17:57,002 | INFO | zBNi-qfKxl0 -> 0 comentarios
+2026-06-11 02:18:01,636 | INFO | zMJHw_rqU7k -> 5 comentarios
+2026-06-11 02:18:04,444 | INFO | zr1RYN7kvAw -> 0 comentarios
+2026-06-11 02:18:10,976 | INFO | zyACDwpl9lU -> 6 comentarios
+2026-06-11 02:18:15,481 | INFO | Comentarios descargados: 11585
+2026-06-11 02:25:42,232 | INFO | Iniciando extracción de URLs...
+2026-06-11 02:25:42,233 | INFO | TXT encontrados: 27
+2026-06-11 02:25:42,333 | INFO | URLs extraídas: 261
+2026-06-11 02:25:42,334 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\video_urls.txt
+2026-06-11 02:26:11,356 | INFO | Iniciando validación de videos...
+2026-06-11 02:26:12,804 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-11 02:26:14,077 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-11 02:26:15,312 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-11 02:26:16,806 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-11 02:26:18,181 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-11 02:26:19,509 | INFO | VALIDO: https://www.youtube.com/watch?v=-uFy7MPFIKg
+2026-06-11 02:26:20,746 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-11 02:26:22,087 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
+2026-06-11 02:26:23,265 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
+2026-06-11 02:26:24,604 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
+2026-06-11 02:26:27,485 | INFO | VALIDO: https://www.youtube.com/watch?v=0glJRf0gPgk
+2026-06-11 02:26:28,723 | INFO | VALIDO: https://www.youtube.com/watch?v=0kbgGe32VJ8
+2026-06-11 02:26:30,004 | INFO | VALIDO: https://www.youtube.com/watch?v=1LFvEg4rCyk
+2026-06-11 02:26:31,304 | INFO | VALIDO: https://www.youtube.com/watch?v=1XloJUfEbfE
+2026-06-11 02:26:32,534 | INFO | VALIDO: https://www.youtube.com/watch?v=1aIuVPHeIts
+2026-06-11 02:26:33,894 | INFO | VALIDO: https://www.youtube.com/watch?v=1oro-Dbv610
+2026-06-11 02:26:35,220 | INFO | VALIDO: https://www.youtube.com/watch?v=1p0LGIqR_k0
+2026-06-11 02:26:36,488 | INFO | VALIDO: https://www.youtube.com/watch?v=1r_ugCtCgnM
+2026-06-11 02:26:37,813 | INFO | VALIDO: https://www.youtube.com/watch?v=1riA11y67vc
+2026-06-11 02:26:39,063 | INFO | VALIDO: https://www.youtube.com/watch?v=1upUST-r3iw
+2026-06-11 02:26:40,365 | INFO | VALIDO: https://www.youtube.com/watch?v=1wzRCIzmX_o
+2026-06-11 02:26:41,621 | INFO | VALIDO: https://www.youtube.com/watch?v=22ovpK3pZmI
+2026-06-11 02:26:42,891 | INFO | VALIDO: https://www.youtube.com/watch?v=2BZD7yM9aLE
+2026-06-11 02:26:44,353 | INFO | VALIDO: https://www.youtube.com/watch?v=3CcpQFkQ1X8
+2026-06-11 02:26:45,687 | INFO | VALIDO: https://www.youtube.com/watch?v=3FJDrFFu6QI
+2026-06-11 02:26:46,976 | INFO | VALIDO: https://www.youtube.com/watch?v=3WvYkTHM3wc
+2026-06-11 02:26:48,330 | INFO | VALIDO: https://www.youtube.com/watch?v=3jHHuemHwR0
+2026-06-11 02:26:49,641 | INFO | VALIDO: https://www.youtube.com/watch?v=4XUwEGDkGNk
+2026-06-11 02:26:50,914 | INFO | VALIDO: https://www.youtube.com/watch?v=59Hf8BK_qh8
+2026-06-11 02:26:52,202 | INFO | VALIDO: https://www.youtube.com/watch?v=5HQir7vo8Sw
+2026-06-11 02:26:53,314 | INFO | VALIDO: https://www.youtube.com/watch?v=5KawEz-So30
+2026-06-11 02:26:54,641 | INFO | VALIDO: https://www.youtube.com/watch?v=5akqZrtaLG8
+2026-06-11 02:26:56,017 | INFO | VALIDO: https://www.youtube.com/watch?v=6B_SqxLl2aA
+2026-06-11 02:26:57,187 | ERROR | 6O6hjVRFR4o | https://www.youtube.com/watch?v=6O6hjVRFR4o | ERROR_DESCONOCIDO | None
+2026-06-11 02:26:58,352 | INFO | VALIDO: https://www.youtube.com/watch?v=6R77muguBXw
+2026-06-11 02:26:59,633 | INFO | VALIDO: https://www.youtube.com/watch?v=6l5J4N5SY24
+2026-06-11 02:27:00,952 | INFO | VALIDO: https://www.youtube.com/watch?v=7OgAAwjamwM
+2026-06-11 02:27:02,170 | INFO | VALIDO: https://www.youtube.com/watch?v=7RvOAiztpLI
+2026-06-11 02:27:03,315 | INFO | VALIDO: https://www.youtube.com/watch?v=7aMY-MtOuVs
+2026-06-11 02:27:04,653 | INFO | VALIDO: https://www.youtube.com/watch?v=7fymnVkNxkg
+2026-06-11 02:27:05,895 | INFO | VALIDO: https://www.youtube.com/watch?v=84m6vZc7WDc
+2026-06-11 02:27:06,999 | INFO | VALIDO: https://www.youtube.com/watch?v=8Z85LoQxl0A
+2026-06-11 02:27:08,107 | ERROR | 9Bz8FdX3k8g | https://www.youtube.com/watch?v=9Bz8FdX3k8g | ERROR_DESCONOCIDO | None
+2026-06-11 02:27:09,347 | ERROR | 9EHd-nMFpfY | https://www.youtube.com/watch?v=9EHd-nMFpfY | ERROR_DESCONOCIDO | None
+2026-06-11 02:27:10,707 | INFO | VALIDO: https://www.youtube.com/watch?v=9SdpGOltwyc
+2026-06-11 02:27:11,876 | INFO | VALIDO: https://www.youtube.com/watch?v=9uqr6UvcKzg
+2026-06-11 02:27:13,136 | INFO | VALIDO: https://www.youtube.com/watch?v=AVqtIy6eCb8
+2026-06-11 02:27:14,291 | ERROR | A_WjCglWbz4 | https://www.youtube.com/watch?v=A_WjCglWbz4 | ERROR_DESCONOCIDO | None
+2026-06-11 02:27:15,728 | INFO | VALIDO: https://www.youtube.com/watch?v=AuKs97cqHuE
+2026-06-11 02:27:17,058 | INFO | VALIDO: https://www.youtube.com/watch?v=B7kqwXxPnf0
+2026-06-11 02:27:18,224 | INFO | VALIDO: https://www.youtube.com/watch?v=BM46L7sFbLQ
+2026-06-11 02:27:19,372 | INFO | VALIDO: https://www.youtube.com/watch?v=BgV-cBRzh90
+2026-06-11 02:27:20,785 | INFO | VALIDO: https://www.youtube.com/watch?v=BjYvrg-6nUw
+2026-06-11 02:27:22,100 | INFO | VALIDO: https://www.youtube.com/watch?v=C5ebz-xPGo8
+2026-06-11 02:27:23,411 | INFO | VALIDO: https://www.youtube.com/watch?v=C67ZfSeWb6w
+2026-06-11 02:27:24,707 | INFO | VALIDO: https://www.youtube.com/watch?v=C9yV_TFoJ4s
+2026-06-11 02:27:25,875 | INFO | VALIDO: https://www.youtube.com/watch?v=CPfxqLmAnl8
+2026-06-11 02:27:26,986 | INFO | VALIDO: https://www.youtube.com/watch?v=CdtHBPQRVus
+2026-06-11 02:27:28,137 | INFO | VALIDO: https://www.youtube.com/watch?v=CoxXR-mtQbk
+2026-06-11 02:27:29,430 | INFO | VALIDO: https://www.youtube.com/watch?v=CxsOZg6bbOY
+2026-06-11 02:27:30,669 | INFO | VALIDO: https://www.youtube.com/watch?v=D6i1wrd0b-E
+2026-06-11 02:27:31,986 | INFO | VALIDO: https://www.youtube.com/watch?v=DOl4HmeKvxY
+2026-06-11 02:27:33,197 | INFO | VALIDO: https://www.youtube.com/watch?v=E1XNCAXQY0A
+2026-06-11 02:27:34,400 | INFO | VALIDO: https://www.youtube.com/watch?v=E7QaC5gM4zg
+2026-06-11 02:27:35,691 | INFO | VALIDO: https://www.youtube.com/watch?v=EqPegNWaPu4
+2026-06-11 02:27:36,999 | INFO | VALIDO: https://www.youtube.com/watch?v=F6Agm-JWB1U
+2026-06-11 02:27:38,283 | INFO | VALIDO: https://www.youtube.com/watch?v=G0NVuip0Z4I
+2026-06-11 02:27:39,426 | INFO | VALIDO: https://www.youtube.com/watch?v=GaM_fq3VCKg
+2026-06-11 02:27:40,671 | INFO | VALIDO: https://www.youtube.com/watch?v=GcBL3D85qTU
+2026-06-11 02:27:41,882 | INFO | VALIDO: https://www.youtube.com/watch?v=GeXCeoLd92s
+2026-06-11 02:27:43,128 | INFO | VALIDO: https://www.youtube.com/watch?v=GkvdeEatu3g
+2026-06-11 02:27:44,524 | INFO | VALIDO: https://www.youtube.com/watch?v=H51wiM_v8AY
+2026-06-11 02:27:45,727 | INFO | VALIDO: https://www.youtube.com/watch?v=HHmfaLGfx-E
+2026-06-11 02:27:46,923 | INFO | VALIDO: https://www.youtube.com/watch?v=HP__kCuwCtg
+2026-06-11 02:27:48,353 | INFO | VALIDO: https://www.youtube.com/watch?v=Hg3tTOTMWFk
+2026-06-11 02:27:49,601 | INFO | VALIDO: https://www.youtube.com/watch?v=Hggn8BOGkSY
+2026-06-11 02:27:50,881 | INFO | VALIDO: https://www.youtube.com/watch?v=HhnturaQMJQ
+2026-06-11 02:27:52,210 | INFO | VALIDO: https://www.youtube.com/watch?v=Hni6THrR1IE
+2026-06-11 02:27:53,391 | ERROR | HwPGfGuP0UI | https://www.youtube.com/watch?v=HwPGfGuP0UI | ERROR_DESCONOCIDO | None
+2026-06-11 02:27:54,614 | INFO | VALIDO: https://www.youtube.com/watch?v=I2l2MVsR3h4
+2026-06-11 02:27:55,847 | INFO | VALIDO: https://www.youtube.com/watch?v=IX3ivwk_WfQ
+2026-06-11 02:27:57,151 | INFO | VALIDO: https://www.youtube.com/watch?v=J8DUqlPN75c
+2026-06-11 02:27:58,486 | INFO | VALIDO: https://www.youtube.com/watch?v=JRk-JdaUWu4
+2026-06-11 02:27:59,635 | ERROR | JRwqLW16VJo | https://www.youtube.com/watch?v=JRwqLW16VJo | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:00,838 | INFO | VALIDO: https://www.youtube.com/watch?v=JSVMUbrUHOU
+2026-06-11 02:28:02,072 | INFO | VALIDO: https://www.youtube.com/watch?v=JSrcKsbVz98
+2026-06-11 02:28:03,236 | INFO | VALIDO: https://www.youtube.com/watch?v=JV9cee3lE8A
+2026-06-11 02:28:04,509 | INFO | VALIDO: https://www.youtube.com/watch?v=JdMyoyVU68A
+2026-06-11 02:28:05,696 | ERROR | JpHdMLFFPa4 | https://www.youtube.com/watch?v=JpHdMLFFPa4 | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:06,860 | INFO | VALIDO: https://www.youtube.com/watch?v=K1_y63sjysA
+2026-06-11 02:28:08,050 | ERROR | KD2l5dQE1YI | https://www.youtube.com/watch?v=KD2l5dQE1YI | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:09,302 | INFO | VALIDO: https://www.youtube.com/watch?v=KGFNe5sHwhU
+2026-06-11 02:28:10,617 | INFO | VALIDO: https://www.youtube.com/watch?v=KR8J_0142q8
+2026-06-11 02:28:11,920 | ERROR | L49HQi6HFnQ | https://www.youtube.com/watch?v=L49HQi6HFnQ | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:13,210 | INFO | VALIDO: https://www.youtube.com/watch?v=LfV0WdK9jEA
+2026-06-11 02:28:14,351 | ERROR | M3qBgK68wkU | https://www.youtube.com/watch?v=M3qBgK68wkU | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:15,422 | INFO | VALIDO: https://www.youtube.com/watch?v=M7klZsAX_nk
+2026-06-11 02:28:16,669 | INFO | VALIDO: https://www.youtube.com/watch?v=MMXllWfBo40
+2026-06-11 02:28:17,863 | ERROR | MRY2YPIdoJo | https://www.youtube.com/watch?v=MRY2YPIdoJo | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:19,124 | INFO | VALIDO: https://www.youtube.com/watch?v=MWIeYdmgS3o
+2026-06-11 02:28:20,306 | ERROR | NJJkahNeDpc | https://www.youtube.com/watch?v=NJJkahNeDpc | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:21,546 | INFO | VALIDO: https://www.youtube.com/watch?v=NNGPWK8Ok4o
+2026-06-11 02:28:22,715 | INFO | VALIDO: https://www.youtube.com/watch?v=NYNys_5MtMw
+2026-06-11 02:28:24,011 | INFO | VALIDO: https://www.youtube.com/watch?v=NaKuyEJkv1g
+2026-06-11 02:28:25,283 | INFO | VALIDO: https://www.youtube.com/watch?v=NhjvWBnJc8s
+2026-06-11 02:28:26,538 | INFO | VALIDO: https://www.youtube.com/watch?v=Nk8YK1nDbqg
+2026-06-11 02:28:27,809 | INFO | VALIDO: https://www.youtube.com/watch?v=NoN-bd9mB_o
+2026-06-11 02:28:28,980 | INFO | VALIDO: https://www.youtube.com/watch?v=OL28v9sl7yQ
+2026-06-11 02:28:30,221 | INFO | VALIDO: https://www.youtube.com/watch?v=OT_Rn-8vaoU
+2026-06-11 02:28:31,450 | INFO | VALIDO: https://www.youtube.com/watch?v=Olr3cwtKnH8
+2026-06-11 02:28:32,691 | INFO | VALIDO: https://www.youtube.com/watch?v=Oqzm8bX9Kys
+2026-06-11 02:28:33,851 | ERROR | OvuJO8N4rAU | https://www.youtube.com/watch?v=OvuJO8N4rAU | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:34,874 | ERROR | OzthASfhiEA | https://www.youtube.com/watch?v=OzthASfhiEA | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:36,092 | INFO | VALIDO: https://www.youtube.com/watch?v=PHkGaC38z78
+2026-06-11 02:28:37,329 | INFO | VALIDO: https://www.youtube.com/watch?v=PIztKfEYLHw
+2026-06-11 02:28:38,504 | INFO | VALIDO: https://www.youtube.com/watch?v=PJweRnCvcwM
+2026-06-11 02:28:39,724 | INFO | VALIDO: https://www.youtube.com/watch?v=PhF9IUaai9k
+2026-06-11 02:28:40,845 | INFO | VALIDO: https://www.youtube.com/watch?v=PmOTKxbyWjs
+2026-06-11 02:28:41,946 | INFO | VALIDO: https://www.youtube.com/watch?v=Psbx4LXe1VY
+2026-06-11 02:28:43,324 | INFO | VALIDO: https://www.youtube.com/watch?v=PwxVT96Qmn8
+2026-06-11 02:28:44,567 | INFO | VALIDO: https://www.youtube.com/watch?v=Q523rOh66ig
+2026-06-11 02:28:45,888 | INFO | VALIDO: https://www.youtube.com/watch?v=QBP5p1_b1fQ
+2026-06-11 02:28:47,068 | INFO | VALIDO: https://www.youtube.com/watch?v=QYTm4c0DIq4
+2026-06-11 02:28:48,250 | INFO | VALIDO: https://www.youtube.com/watch?v=QmSDhHdN0ac
+2026-06-11 02:28:49,494 | INFO | VALIDO: https://www.youtube.com/watch?v=QmYn3PZnmNM
+2026-06-11 02:28:50,631 | INFO | VALIDO: https://www.youtube.com/watch?v=QrrAujgpfHg
+2026-06-11 02:28:51,757 | ERROR | R-UjAdlku-k | https://www.youtube.com/watch?v=R-UjAdlku-k | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:52,797 | ERROR | RRjz-Wz5rXU | https://www.youtube.com/watch?v=RRjz-Wz5rXU | ERROR_DESCONOCIDO | None
+2026-06-11 02:28:53,958 | INFO | VALIDO: https://www.youtube.com/watch?v=S8YieJuP-dg
+2026-06-11 02:28:55,254 | INFO | VALIDO: https://www.youtube.com/watch?v=SEi6RCa-t10
+2026-06-11 02:28:56,311 | INFO | VALIDO: https://www.youtube.com/watch?v=SIHIEpPaYGE
+2026-06-11 02:28:57,681 | INFO | VALIDO: https://www.youtube.com/watch?v=SyfrDmAJjCQ
+2026-06-11 02:28:58,789 | ERROR | Ta4T7mlzP4M | https://www.youtube.com/watch?v=Ta4T7mlzP4M | ERROR_DESCONOCIDO | None
+2026-06-11 02:29:00,016 | INFO | VALIDO: https://www.youtube.com/watch?v=TqfZf0KwI4Y
+2026-06-11 02:29:01,196 | INFO | VALIDO: https://www.youtube.com/watch?v=URYWzPVHiAs
+2026-06-11 02:29:02,287 | INFO | VALIDO: https://www.youtube.com/watch?v=VLhgtujGvBM
+2026-06-11 02:29:03,557 | INFO | VALIDO: https://www.youtube.com/watch?v=VYTn5rDxWnE
+2026-06-11 02:29:04,738 | INFO | VALIDO: https://www.youtube.com/watch?v=VZWVG8Pqxtg
+2026-06-11 02:29:05,928 | INFO | VALIDO: https://www.youtube.com/watch?v=VnsD7qAD5II
+2026-06-11 02:29:07,224 | INFO | VALIDO: https://www.youtube.com/watch?v=Vw069dT12wU
+2026-06-11 02:29:08,458 | INFO | VALIDO: https://www.youtube.com/watch?v=W14Ed-y7JvM
+2026-06-11 02:29:09,700 | INFO | VALIDO: https://www.youtube.com/watch?v=W20juAtwfMw
+2026-06-11 02:29:10,999 | INFO | VALIDO: https://www.youtube.com/watch?v=WMjRauxRE_I
+2026-06-11 02:29:12,327 | INFO | VALIDO: https://www.youtube.com/watch?v=WUhYj3qEyZY
+2026-06-11 02:29:13,505 | INFO | VALIDO: https://www.youtube.com/watch?v=XPyeIOqI6qY
+2026-06-11 02:29:14,820 | INFO | VALIDO: https://www.youtube.com/watch?v=XeDsbrESR0o
+2026-06-11 02:29:16,052 | INFO | VALIDO: https://www.youtube.com/watch?v=XjrdiXhgRVQ
+2026-06-11 02:29:17,263 | INFO | VALIDO: https://www.youtube.com/watch?v=XqdsoTNfzec
+2026-06-11 02:29:18,487 | INFO | VALIDO: https://www.youtube.com/watch?v=XyvshGf7OKs
+2026-06-11 02:29:19,645 | INFO | VALIDO: https://www.youtube.com/watch?v=Y3LF4Xgr_uw
+2026-06-11 02:29:20,839 | INFO | VALIDO: https://www.youtube.com/watch?v=YBOLTzGfJqk
+2026-06-11 02:29:22,096 | INFO | VALIDO: https://www.youtube.com/watch?v=YCzxBR6HYfs
+2026-06-11 02:29:23,289 | INFO | VALIDO: https://www.youtube.com/watch?v=Ymka-9FijTI
+2026-06-11 02:29:24,542 | INFO | VALIDO: https://www.youtube.com/watch?v=YvGUVyHwcIE
+2026-06-11 02:29:25,853 | INFO | VALIDO: https://www.youtube.com/watch?v=YvutGY8TgVM
+2026-06-11 02:29:27,030 | INFO | VALIDO: https://www.youtube.com/watch?v=Z3eRzYVka9c
+2026-06-11 02:29:28,090 | ERROR | ZWb1ygjvd0Y | https://www.youtube.com/watch?v=ZWb1ygjvd0Y | ERROR_DESCONOCIDO | None
+2026-06-11 02:29:29,207 | INFO | VALIDO: https://www.youtube.com/watch?v=ZumsWsbpGeI
+2026-06-11 02:29:30,424 | INFO | VALIDO: https://www.youtube.com/watch?v=_3oi7YTcSSw
+2026-06-11 02:29:31,537 | ERROR | _DeCy7pOW40 | https://www.youtube.com/watch?v=_DeCy7pOW40 | ERROR_DESCONOCIDO | None
+2026-06-11 02:29:32,829 | INFO | VALIDO: https://www.youtube.com/watch?v=_NOQ5fyqhY0
+2026-06-11 02:29:33,950 | INFO | VALIDO: https://www.youtube.com/watch?v=_jdud6kKZKg
+2026-06-11 02:29:35,050 | INFO | VALIDO: https://www.youtube.com/watch?v=_m7orjmVPWo
+2026-06-11 02:29:36,395 | INFO | VALIDO: https://www.youtube.com/watch?v=_rBMa3I7s1U
+2026-06-11 02:29:37,582 | INFO | VALIDO: https://www.youtube.com/watch?v=a5y9ja6WxWA
+2026-06-11 02:29:38,764 | INFO | VALIDO: https://www.youtube.com/watch?v=ahsZ3M8C4g0
+2026-06-11 02:29:39,996 | INFO | VALIDO: https://www.youtube.com/watch?v=asbHs4A3ykQ
+2026-06-11 02:29:41,114 | ERROR | avWTcLXBp7I | https://www.youtube.com/watch?v=avWTcLXBp7I | ERROR_DESCONOCIDO | None
+2026-06-11 02:29:42,227 | INFO | VALIDO: https://www.youtube.com/watch?v=axAMaFP_q1g
+2026-06-11 02:29:43,319 | INFO | VALIDO: https://www.youtube.com/watch?v=bPqYUKrU_2A
+2026-06-11 02:29:44,553 | INFO | VALIDO: https://www.youtube.com/watch?v=bWVHc032IPs
+2026-06-11 02:29:45,806 | ERROR | bnsgSZz1uJY | https://www.youtube.com/watch?v=bnsgSZz1uJY | ERROR_DESCONOCIDO | None
+2026-06-11 02:29:46,973 | INFO | VALIDO: https://www.youtube.com/watch?v=cBpjMSEuEvU
+2026-06-11 02:29:48,185 | INFO | VALIDO: https://www.youtube.com/watch?v=cuVXBaE7O3o
+2026-06-11 02:29:49,478 | INFO | VALIDO: https://www.youtube.com/watch?v=d5WpSHr0G9k
+2026-06-11 02:29:50,740 | INFO | VALIDO: https://www.youtube.com/watch?v=dhwL6UaKExM
+2026-06-11 02:29:52,103 | INFO | VALIDO: https://www.youtube.com/watch?v=dwC6DCDCMxA
+2026-06-11 02:29:53,224 | INFO | VALIDO: https://www.youtube.com/watch?v=e5roEk60w_k
+2026-06-11 02:29:54,540 | INFO | VALIDO: https://www.youtube.com/watch?v=eO93223c3cU
+2026-06-11 02:29:55,910 | INFO | VALIDO: https://www.youtube.com/watch?v=ef_eT1DWLsA
+2026-06-11 02:29:57,310 | INFO | VALIDO: https://www.youtube.com/watch?v=enFvefj1gkc
+2026-06-11 02:29:58,624 | INFO | VALIDO: https://www.youtube.com/watch?v=ep22ENIdq3U
+2026-06-11 02:29:59,801 | INFO | VALIDO: https://www.youtube.com/watch?v=eqAaMKPzBek
+2026-06-11 02:30:01,088 | ERROR | euGWuQPp1t0 | https://www.youtube.com/watch?v=euGWuQPp1t0 | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:02,327 | ERROR | fBBFCQ5TULE | https://www.youtube.com/watch?v=fBBFCQ5TULE | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:03,446 | ERROR | fhNi4L5xScI | https://www.youtube.com/watch?v=fhNi4L5xScI | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:04,674 | INFO | VALIDO: https://www.youtube.com/watch?v=fhqAxgxOP1A
+2026-06-11 02:30:05,894 | INFO | VALIDO: https://www.youtube.com/watch?v=gFKGHmUo-f4
+2026-06-11 02:30:07,007 | INFO | VALIDO: https://www.youtube.com/watch?v=g_sn520GhJA
+2026-06-11 02:30:08,298 | INFO | VALIDO: https://www.youtube.com/watch?v=gc_vxBw40OE
+2026-06-11 02:30:09,402 | ERROR | griM-FRhgU8 | https://www.youtube.com/watch?v=griM-FRhgU8 | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:10,652 | INFO | VALIDO: https://www.youtube.com/watch?v=hAp8A4glaRM
+2026-06-11 02:30:11,962 | INFO | VALIDO: https://www.youtube.com/watch?v=hxXc5EZx1zk
+2026-06-11 02:30:13,135 | INFO | VALIDO: https://www.youtube.com/watch?v=iWm5GLoCKaQ
+2026-06-11 02:30:14,350 | INFO | VALIDO: https://www.youtube.com/watch?v=ijeqwN4zQlk
+2026-06-11 02:30:15,527 | INFO | VALIDO: https://www.youtube.com/watch?v=j1f4lmQtq0U
+2026-06-11 02:30:16,676 | INFO | VALIDO: https://www.youtube.com/watch?v=jTzcJll_fv4
+2026-06-11 02:30:17,957 | INFO | VALIDO: https://www.youtube.com/watch?v=jju8p56xyFc
+2026-06-11 02:30:19,274 | INFO | VALIDO: https://www.youtube.com/watch?v=kTrAU5dg0Dg
+2026-06-11 02:30:20,489 | INFO | VALIDO: https://www.youtube.com/watch?v=l3OwzpclmLQ
+2026-06-11 02:30:21,664 | INFO | VALIDO: https://www.youtube.com/watch?v=l7gXXQLl4Zk
+2026-06-11 02:30:22,855 | INFO | VALIDO: https://www.youtube.com/watch?v=l_Ir24ZbJZo
+2026-06-11 02:30:24,085 | INFO | VALIDO: https://www.youtube.com/watch?v=m00c59UT77s
+2026-06-11 02:30:25,394 | INFO | VALIDO: https://www.youtube.com/watch?v=mJZbu4vxeK0
+2026-06-11 02:30:26,700 | INFO | VALIDO: https://www.youtube.com/watch?v=mUIceCtpcpc
+2026-06-11 02:30:27,903 | INFO | VALIDO: https://www.youtube.com/watch?v=mpAyOrFyWWg
+2026-06-11 02:30:29,084 | INFO | VALIDO: https://www.youtube.com/watch?v=nCrMai6HxtI
+2026-06-11 02:30:30,465 | INFO | VALIDO: https://www.youtube.com/watch?v=nGVFe7CXPSI
+2026-06-11 02:30:31,890 | INFO | VALIDO: https://www.youtube.com/watch?v=nUb23841xNY
+2026-06-11 02:30:33,121 | INFO | VALIDO: https://www.youtube.com/watch?v=nZ8sgtFKAuk
+2026-06-11 02:30:34,395 | INFO | VALIDO: https://www.youtube.com/watch?v=nk7NtXMVK4Q
+2026-06-11 02:30:35,584 | INFO | VALIDO: https://www.youtube.com/watch?v=nmoXOQ0_Uxc
+2026-06-11 02:30:36,862 | INFO | VALIDO: https://www.youtube.com/watch?v=nxuJfPJoo4I
+2026-06-11 02:30:38,181 | INFO | VALIDO: https://www.youtube.com/watch?v=o8K_fTVG1EU
+2026-06-11 02:30:39,444 | INFO | VALIDO: https://www.youtube.com/watch?v=oK3rsN8ZhOQ
+2026-06-11 02:30:40,588 | INFO | VALIDO: https://www.youtube.com/watch?v=oSaLibDTBFw
+2026-06-11 02:30:41,721 | ERROR | oYo3eBbW4h8 | https://www.youtube.com/watch?v=oYo3eBbW4h8 | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:43,146 | INFO | VALIDO: https://www.youtube.com/watch?v=ohDTAGQDM_Y
+2026-06-11 02:30:44,375 | INFO | VALIDO: https://www.youtube.com/watch?v=okAJfy1cMHE
+2026-06-11 02:30:45,721 | INFO | VALIDO: https://www.youtube.com/watch?v=ozrQRJtZ6eU
+2026-06-11 02:30:46,875 | ERROR | p0OzBcn_yYM | https://www.youtube.com/watch?v=p0OzBcn_yYM | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:48,033 | INFO | VALIDO: https://www.youtube.com/watch?v=p5vtQCzhbzI
+2026-06-11 02:30:49,220 | INFO | VALIDO: https://www.youtube.com/watch?v=pJlQPVYTi1U
+2026-06-11 02:30:50,341 | ERROR | pQylCYoDq0k | https://www.youtube.com/watch?v=pQylCYoDq0k | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:51,734 | INFO | VALIDO: https://www.youtube.com/watch?v=pkwMRzkuyFY
+2026-06-11 02:30:52,881 | INFO | VALIDO: https://www.youtube.com/watch?v=ps9jrUaGpKM
+2026-06-11 02:30:54,162 | INFO | VALIDO: https://www.youtube.com/watch?v=q3OpmJCJjCk
+2026-06-11 02:30:55,361 | INFO | VALIDO: https://www.youtube.com/watch?v=qdVWvQemM9U
+2026-06-11 02:30:56,696 | INFO | VALIDO: https://www.youtube.com/watch?v=qh_JFGknjwM
+2026-06-11 02:30:57,906 | ERROR | qoQSOb5gwqk | https://www.youtube.com/watch?v=qoQSOb5gwqk | ERROR_DESCONOCIDO | None
+2026-06-11 02:30:59,068 | ERROR | r-5IaFCqXZs | https://www.youtube.com/watch?v=r-5IaFCqXZs | ERROR_DESCONOCIDO | None
+2026-06-11 02:31:00,310 | INFO | VALIDO: https://www.youtube.com/watch?v=rJykN_sWaF4
+2026-06-11 02:31:01,641 | INFO | VALIDO: https://www.youtube.com/watch?v=rN4VRgz3BgE
+2026-06-11 02:31:02,915 | INFO | VALIDO: https://www.youtube.com/watch?v=s-4_1sm3Cvg
+2026-06-11 02:31:04,203 | INFO | VALIDO: https://www.youtube.com/watch?v=s9sXsDKqPoo
+2026-06-11 02:31:05,402 | INFO | VALIDO: https://www.youtube.com/watch?v=sWWqj1ke3ww
+2026-06-11 02:31:06,599 | INFO | VALIDO: https://www.youtube.com/watch?v=snk99C7u590
+2026-06-11 02:31:07,930 | INFO | VALIDO: https://www.youtube.com/watch?v=t9Fe9oDl0-0
+2026-06-11 02:31:09,201 | INFO | VALIDO: https://www.youtube.com/watch?v=tB51TQeqhMo
+2026-06-11 02:31:10,250 | ERROR | tKdPjAwLmzs | https://www.youtube.com/watch?v=tKdPjAwLmzs | ERROR_DESCONOCIDO | None
+2026-06-11 02:31:11,470 | ERROR | taahX4z3XNo | https://www.youtube.com/watch?v=taahX4z3XNo | ERROR_DESCONOCIDO | None
+2026-06-11 02:31:12,804 | INFO | VALIDO: https://www.youtube.com/watch?v=u2GBIy51lDc
+2026-06-11 02:31:14,099 | INFO | VALIDO: https://www.youtube.com/watch?v=uOoLH6vUHHw
+2026-06-11 02:31:15,252 | ERROR | ulEpv3Usm5w | https://www.youtube.com/watch?v=ulEpv3Usm5w | ERROR_DESCONOCIDO | None
+2026-06-11 02:31:16,602 | INFO | VALIDO: https://www.youtube.com/watch?v=v6-UwC-zCrg
+2026-06-11 02:31:18,069 | INFO | VALIDO: https://www.youtube.com/watch?v=vBC0by0HieI
+2026-06-11 02:31:19,177 | INFO | VALIDO: https://www.youtube.com/watch?v=vjl3YuUHw40
+2026-06-11 02:31:20,403 | INFO | VALIDO: https://www.youtube.com/watch?v=wLXl623zvGQ
+2026-06-11 02:31:21,643 | INFO | VALIDO: https://www.youtube.com/watch?v=woRlKzr29CA
+2026-06-11 02:31:22,851 | INFO | VALIDO: https://www.youtube.com/watch?v=wsqAvb25y1Q
+2026-06-11 02:31:24,156 | INFO | VALIDO: https://www.youtube.com/watch?v=x2uEtuazglQ
+2026-06-11 02:31:25,558 | INFO | VALIDO: https://www.youtube.com/watch?v=xQrwM-2aKgM
+2026-06-11 02:31:26,888 | INFO | VALIDO: https://www.youtube.com/watch?v=xTmcwOkfj4I
+2026-06-11 02:31:28,166 | INFO | VALIDO: https://www.youtube.com/watch?v=y3M3kzBlzUk
+2026-06-11 02:31:29,535 | INFO | VALIDO: https://www.youtube.com/watch?v=yctZZfwyBiY
+2026-06-11 02:31:30,936 | INFO | VALIDO: https://www.youtube.com/watch?v=ymT8F9Zw-Tg
+2026-06-11 02:31:32,244 | INFO | VALIDO: https://www.youtube.com/watch?v=yqvdtuIkacg
+2026-06-11 02:31:33,941 | INFO | VALIDO: https://www.youtube.com/watch?v=zBNi-qfKxl0
+2026-06-11 02:31:35,188 | INFO | VALIDO: https://www.youtube.com/watch?v=zMJHw_rqU7k
+2026-06-11 02:31:36,343 | INFO | VALIDO: https://www.youtube.com/watch?v=zr1RYN7kvAw
+2026-06-11 02:31:37,600 | INFO | VALIDO: https://www.youtube.com/watch?v=zyACDwpl9lU
+2026-06-11 02:31:37,602 | INFO | Validación completada.
+2026-06-11 02:35:06,043 | INFO | Iniciando extracción de URLs...
+2026-06-11 02:35:06,044 | INFO | TXT encontrados: 27
+2026-06-11 02:35:06,089 | INFO | URLs extraídas: 253
+2026-06-11 02:35:06,089 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\video_urls.txt
+2026-06-11 02:35:38,305 | INFO | Iniciando validación de videos...
+2026-06-11 02:35:39,887 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-11 02:35:41,164 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-11 02:35:42,402 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-11 02:35:43,824 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-11 02:35:45,119 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-11 02:35:46,431 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-11 02:35:47,717 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
+2026-06-11 02:35:48,911 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
+2026-06-11 02:35:50,244 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
+2026-06-11 02:35:51,516 | INFO | VALIDO: https://www.youtube.com/watch?v=0glJRf0gPgk
+2026-06-11 02:35:52,775 | INFO | VALIDO: https://www.youtube.com/watch?v=0kbgGe32VJ8
+2026-06-11 02:35:54,096 | INFO | VALIDO: https://www.youtube.com/watch?v=1LFvEg4rCyk
+2026-06-11 02:35:55,204 | INFO | VALIDO: https://www.youtube.com/watch?v=1XloJUfEbfE
+2026-06-11 02:35:56,463 | INFO | VALIDO: https://www.youtube.com/watch?v=1aIuVPHeIts
+2026-06-11 02:35:57,726 | INFO | VALIDO: https://www.youtube.com/watch?v=1oro-Dbv610
+2026-06-11 02:35:58,909 | INFO | VALIDO: https://www.youtube.com/watch?v=1p0LGIqR_k0
+2026-06-11 02:36:00,251 | INFO | VALIDO: https://www.youtube.com/watch?v=1r_ugCtCgnM
+2026-06-11 02:36:01,515 | INFO | VALIDO: https://www.youtube.com/watch?v=1riA11y67vc
+2026-06-11 02:36:02,825 | INFO | VALIDO: https://www.youtube.com/watch?v=1upUST-r3iw
+2026-06-11 02:36:04,029 | INFO | VALIDO: https://www.youtube.com/watch?v=1wzRCIzmX_o
+2026-06-11 02:36:05,209 | INFO | VALIDO: https://www.youtube.com/watch?v=22ovpK3pZmI
+2026-06-11 02:36:06,504 | INFO | VALIDO: https://www.youtube.com/watch?v=2BZD7yM9aLE
+2026-06-11 02:36:07,864 | INFO | VALIDO: https://www.youtube.com/watch?v=3CcpQFkQ1X8
+2026-06-11 02:36:09,183 | INFO | VALIDO: https://www.youtube.com/watch?v=3FJDrFFu6QI
+2026-06-11 02:36:10,615 | INFO | VALIDO: https://www.youtube.com/watch?v=3WvYkTHM3wc
+2026-06-11 02:36:11,909 | INFO | VALIDO: https://www.youtube.com/watch?v=3jHHuemHwR0
+2026-06-11 02:36:13,061 | INFO | VALIDO: https://www.youtube.com/watch?v=4XUwEGDkGNk
+2026-06-11 02:36:14,304 | INFO | VALIDO: https://www.youtube.com/watch?v=59Hf8BK_qh8
+2026-06-11 02:36:15,623 | INFO | VALIDO: https://www.youtube.com/watch?v=5HQir7vo8Sw
+2026-06-11 02:36:16,801 | INFO | VALIDO: https://www.youtube.com/watch?v=5KawEz-So30
+2026-06-11 02:36:18,009 | INFO | VALIDO: https://www.youtube.com/watch?v=5akqZrtaLG8
+2026-06-11 02:36:19,150 | ERROR | 6O6hjVRFR4o | https://www.youtube.com/watch?v=6O6hjVRFR4o | ERROR_DESCONOCIDO | None
+2026-06-11 02:36:20,322 | INFO | VALIDO: https://www.youtube.com/watch?v=6R77muguBXw
+2026-06-11 02:36:21,629 | INFO | VALIDO: https://www.youtube.com/watch?v=6l5J4N5SY24
+2026-06-11 02:36:22,890 | INFO | VALIDO: https://www.youtube.com/watch?v=7OgAAwjamwM
+2026-06-11 02:36:24,180 | INFO | VALIDO: https://www.youtube.com/watch?v=7RvOAiztpLI
+2026-06-11 02:36:25,315 | INFO | VALIDO: https://www.youtube.com/watch?v=7aMY-MtOuVs
+2026-06-11 02:36:26,695 | INFO | VALIDO: https://www.youtube.com/watch?v=7fymnVkNxkg
+2026-06-11 02:36:28,160 | INFO | VALIDO: https://www.youtube.com/watch?v=84m6vZc7WDc
+2026-06-11 02:36:29,389 | INFO | VALIDO: https://www.youtube.com/watch?v=8Z85LoQxl0A
+2026-06-11 02:36:30,609 | ERROR | 9Bz8FdX3k8g | https://www.youtube.com/watch?v=9Bz8FdX3k8g | ERROR_DESCONOCIDO | None
+2026-06-11 02:36:31,701 | ERROR | 9EHd-nMFpfY | https://www.youtube.com/watch?v=9EHd-nMFpfY | ERROR_DESCONOCIDO | None
+2026-06-11 02:36:32,879 | INFO | VALIDO: https://www.youtube.com/watch?v=9SdpGOltwyc
+2026-06-11 02:36:34,029 | INFO | VALIDO: https://www.youtube.com/watch?v=9uqr6UvcKzg
+2026-06-11 02:36:35,331 | INFO | VALIDO: https://www.youtube.com/watch?v=AVqtIy6eCb8
+2026-06-11 02:36:36,485 | ERROR | A_WjCglWbz4 | https://www.youtube.com/watch?v=A_WjCglWbz4 | ERROR_DESCONOCIDO | None
+2026-06-11 02:36:37,733 | INFO | VALIDO: https://www.youtube.com/watch?v=AuKs97cqHuE
+2026-06-11 02:36:38,989 | INFO | VALIDO: https://www.youtube.com/watch?v=B7kqwXxPnf0
+2026-06-11 02:36:40,195 | INFO | VALIDO: https://www.youtube.com/watch?v=BM46L7sFbLQ
+2026-06-11 02:36:41,347 | INFO | VALIDO: https://www.youtube.com/watch?v=BgV-cBRzh90
+2026-06-11 02:36:42,735 | INFO | VALIDO: https://www.youtube.com/watch?v=BjYvrg-6nUw
+2026-06-11 02:36:44,083 | INFO | VALIDO: https://www.youtube.com/watch?v=C67ZfSeWb6w
+2026-06-11 02:36:45,450 | INFO | VALIDO: https://www.youtube.com/watch?v=C9yV_TFoJ4s
+2026-06-11 02:36:46,588 | INFO | VALIDO: https://www.youtube.com/watch?v=CPfxqLmAnl8
+2026-06-11 02:36:47,678 | INFO | VALIDO: https://www.youtube.com/watch?v=CdtHBPQRVus
+2026-06-11 02:36:48,903 | INFO | VALIDO: https://www.youtube.com/watch?v=CoxXR-mtQbk
+2026-06-11 02:36:50,295 | INFO | VALIDO: https://www.youtube.com/watch?v=CxsOZg6bbOY
+2026-06-11 02:36:51,510 | INFO | VALIDO: https://www.youtube.com/watch?v=D6i1wrd0b-E
+2026-06-11 02:36:52,774 | INFO | VALIDO: https://www.youtube.com/watch?v=E1XNCAXQY0A
+2026-06-11 02:36:53,992 | INFO | VALIDO: https://www.youtube.com/watch?v=E7QaC5gM4zg
+2026-06-11 02:36:55,170 | INFO | VALIDO: https://www.youtube.com/watch?v=EqPegNWaPu4
+2026-06-11 02:36:56,327 | INFO | VALIDO: https://www.youtube.com/watch?v=F6Agm-JWB1U
+2026-06-11 02:36:57,441 | INFO | VALIDO: https://www.youtube.com/watch?v=G0NVuip0Z4I
+2026-06-11 02:36:58,597 | INFO | VALIDO: https://www.youtube.com/watch?v=GaM_fq3VCKg
+2026-06-11 02:36:59,907 | INFO | VALIDO: https://www.youtube.com/watch?v=GcBL3D85qTU
+2026-06-11 02:37:01,262 | INFO | VALIDO: https://www.youtube.com/watch?v=GeXCeoLd92s
+2026-06-11 02:37:02,433 | INFO | VALIDO: https://www.youtube.com/watch?v=GkvdeEatu3g
+2026-06-11 02:37:03,695 | INFO | VALIDO: https://www.youtube.com/watch?v=H51wiM_v8AY
+2026-06-11 02:37:04,888 | INFO | VALIDO: https://www.youtube.com/watch?v=HHmfaLGfx-E
+2026-06-11 02:37:06,066 | INFO | VALIDO: https://www.youtube.com/watch?v=HP__kCuwCtg
+2026-06-11 02:37:07,351 | INFO | VALIDO: https://www.youtube.com/watch?v=Hg3tTOTMWFk
+2026-06-11 02:37:08,650 | INFO | VALIDO: https://www.youtube.com/watch?v=Hggn8BOGkSY
+2026-06-11 02:37:09,924 | INFO | VALIDO: https://www.youtube.com/watch?v=HhnturaQMJQ
+2026-06-11 02:37:11,195 | INFO | VALIDO: https://www.youtube.com/watch?v=Hni6THrR1IE
+2026-06-11 02:37:12,469 | ERROR | HwPGfGuP0UI | https://www.youtube.com/watch?v=HwPGfGuP0UI | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:13,667 | INFO | VALIDO: https://www.youtube.com/watch?v=I2l2MVsR3h4
+2026-06-11 02:37:15,029 | INFO | VALIDO: https://www.youtube.com/watch?v=IX3ivwk_WfQ
+2026-06-11 02:37:16,326 | INFO | VALIDO: https://www.youtube.com/watch?v=J8DUqlPN75c
+2026-06-11 02:37:17,601 | INFO | VALIDO: https://www.youtube.com/watch?v=JRk-JdaUWu4
+2026-06-11 02:37:18,797 | ERROR | JRwqLW16VJo | https://www.youtube.com/watch?v=JRwqLW16VJo | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:19,978 | INFO | VALIDO: https://www.youtube.com/watch?v=JSVMUbrUHOU
+2026-06-11 02:37:21,091 | INFO | VALIDO: https://www.youtube.com/watch?v=JSrcKsbVz98
+2026-06-11 02:37:23,229 | INFO | VALIDO: https://www.youtube.com/watch?v=JV9cee3lE8A
+2026-06-11 02:37:25,060 | INFO | VALIDO: https://www.youtube.com/watch?v=JdMyoyVU68A
+2026-06-11 02:37:26,339 | ERROR | JpHdMLFFPa4 | https://www.youtube.com/watch?v=JpHdMLFFPa4 | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:27,571 | INFO | VALIDO: https://www.youtube.com/watch?v=K1_y63sjysA
+2026-06-11 02:37:28,726 | ERROR | KD2l5dQE1YI | https://www.youtube.com/watch?v=KD2l5dQE1YI | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:29,933 | INFO | VALIDO: https://www.youtube.com/watch?v=KGFNe5sHwhU
+2026-06-11 02:37:31,337 | INFO | VALIDO: https://www.youtube.com/watch?v=KR8J_0142q8
+2026-06-11 02:37:32,476 | ERROR | L49HQi6HFnQ | https://www.youtube.com/watch?v=L49HQi6HFnQ | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:33,663 | ERROR | M3qBgK68wkU | https://www.youtube.com/watch?v=M3qBgK68wkU | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:34,890 | INFO | VALIDO: https://www.youtube.com/watch?v=M7klZsAX_nk
+2026-06-11 02:37:36,095 | INFO | VALIDO: https://www.youtube.com/watch?v=MMXllWfBo40
+2026-06-11 02:37:37,324 | ERROR | MRY2YPIdoJo | https://www.youtube.com/watch?v=MRY2YPIdoJo | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:38,533 | INFO | VALIDO: https://www.youtube.com/watch?v=MWIeYdmgS3o
+2026-06-11 02:37:39,723 | ERROR | NJJkahNeDpc | https://www.youtube.com/watch?v=NJJkahNeDpc | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:40,929 | INFO | VALIDO: https://www.youtube.com/watch?v=NNGPWK8Ok4o
+2026-06-11 02:37:42,214 | INFO | VALIDO: https://www.youtube.com/watch?v=NYNys_5MtMw
+2026-06-11 02:37:43,470 | INFO | VALIDO: https://www.youtube.com/watch?v=NaKuyEJkv1g
+2026-06-11 02:37:44,749 | INFO | VALIDO: https://www.youtube.com/watch?v=NhjvWBnJc8s
+2026-06-11 02:37:45,993 | INFO | VALIDO: https://www.youtube.com/watch?v=Nk8YK1nDbqg
+2026-06-11 02:37:47,259 | INFO | VALIDO: https://www.youtube.com/watch?v=NoN-bd9mB_o
+2026-06-11 02:37:48,492 | INFO | VALIDO: https://www.youtube.com/watch?v=OL28v9sl7yQ
+2026-06-11 02:37:49,739 | INFO | VALIDO: https://www.youtube.com/watch?v=OT_Rn-8vaoU
+2026-06-11 02:37:51,011 | INFO | VALIDO: https://www.youtube.com/watch?v=Olr3cwtKnH8
+2026-06-11 02:37:52,216 | INFO | VALIDO: https://www.youtube.com/watch?v=Oqzm8bX9Kys
+2026-06-11 02:37:53,339 | ERROR | OvuJO8N4rAU | https://www.youtube.com/watch?v=OvuJO8N4rAU | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:54,404 | ERROR | OzthASfhiEA | https://www.youtube.com/watch?v=OzthASfhiEA | ERROR_DESCONOCIDO | None
+2026-06-11 02:37:55,646 | INFO | VALIDO: https://www.youtube.com/watch?v=PHkGaC38z78
+2026-06-11 02:37:56,961 | INFO | VALIDO: https://www.youtube.com/watch?v=PIztKfEYLHw
+2026-06-11 02:37:58,090 | INFO | VALIDO: https://www.youtube.com/watch?v=PJweRnCvcwM
+2026-06-11 02:37:59,409 | INFO | VALIDO: https://www.youtube.com/watch?v=PhF9IUaai9k
+2026-06-11 02:38:00,610 | INFO | VALIDO: https://www.youtube.com/watch?v=PmOTKxbyWjs
+2026-06-11 02:38:01,946 | INFO | VALIDO: https://www.youtube.com/watch?v=Psbx4LXe1VY
+2026-06-11 02:38:03,202 | INFO | VALIDO: https://www.youtube.com/watch?v=PwxVT96Qmn8
+2026-06-11 02:38:04,500 | INFO | VALIDO: https://www.youtube.com/watch?v=Q523rOh66ig
+2026-06-11 02:38:05,882 | INFO | VALIDO: https://www.youtube.com/watch?v=QBP5p1_b1fQ
+2026-06-11 02:38:07,343 | INFO | VALIDO: https://www.youtube.com/watch?v=QYTm4c0DIq4
+2026-06-11 02:38:08,528 | INFO | VALIDO: https://www.youtube.com/watch?v=QmSDhHdN0ac
+2026-06-11 02:38:09,847 | INFO | VALIDO: https://www.youtube.com/watch?v=QmYn3PZnmNM
+2026-06-11 02:38:11,010 | INFO | VALIDO: https://www.youtube.com/watch?v=QrrAujgpfHg
+2026-06-11 02:38:12,183 | ERROR | R-UjAdlku-k | https://www.youtube.com/watch?v=R-UjAdlku-k | ERROR_DESCONOCIDO | None
+2026-06-11 02:38:13,417 | ERROR | RRjz-Wz5rXU | https://www.youtube.com/watch?v=RRjz-Wz5rXU | ERROR_DESCONOCIDO | None
+2026-06-11 02:38:14,696 | INFO | VALIDO: https://www.youtube.com/watch?v=S8YieJuP-dg
+2026-06-11 02:38:16,054 | INFO | VALIDO: https://www.youtube.com/watch?v=SEi6RCa-t10
+2026-06-11 02:38:17,233 | INFO | VALIDO: https://www.youtube.com/watch?v=SIHIEpPaYGE
+2026-06-11 02:38:18,459 | INFO | VALIDO: https://www.youtube.com/watch?v=SyfrDmAJjCQ
+2026-06-11 02:38:19,502 | ERROR | Ta4T7mlzP4M | https://www.youtube.com/watch?v=Ta4T7mlzP4M | ERROR_DESCONOCIDO | None
+2026-06-11 02:38:20,698 | INFO | VALIDO: https://www.youtube.com/watch?v=TqfZf0KwI4Y
+2026-06-11 02:38:21,797 | INFO | VALIDO: https://www.youtube.com/watch?v=URYWzPVHiAs
+2026-06-11 02:38:23,051 | INFO | VALIDO: https://www.youtube.com/watch?v=VLhgtujGvBM
+2026-06-11 02:38:24,246 | INFO | VALIDO: https://www.youtube.com/watch?v=VYTn5rDxWnE
+2026-06-11 02:38:25,495 | INFO | VALIDO: https://www.youtube.com/watch?v=VZWVG8Pqxtg
+2026-06-11 02:38:26,639 | INFO | VALIDO: https://www.youtube.com/watch?v=Vw069dT12wU
+2026-06-11 02:38:27,887 | INFO | VALIDO: https://www.youtube.com/watch?v=W14Ed-y7JvM
+2026-06-11 02:38:28,984 | INFO | VALIDO: https://www.youtube.com/watch?v=W20juAtwfMw
+2026-06-11 02:38:30,139 | INFO | VALIDO: https://www.youtube.com/watch?v=WMjRauxRE_I
+2026-06-11 02:38:31,464 | INFO | VALIDO: https://www.youtube.com/watch?v=WUhYj3qEyZY
+2026-06-11 02:38:32,656 | INFO | VALIDO: https://www.youtube.com/watch?v=XPyeIOqI6qY
+2026-06-11 02:38:33,937 | INFO | VALIDO: https://www.youtube.com/watch?v=XeDsbrESR0o
+2026-06-11 02:38:35,299 | INFO | VALIDO: https://www.youtube.com/watch?v=XjrdiXhgRVQ
+2026-06-11 02:38:36,403 | INFO | VALIDO: https://www.youtube.com/watch?v=XqdsoTNfzec
+2026-06-11 02:38:37,668 | INFO | VALIDO: https://www.youtube.com/watch?v=XyvshGf7OKs
+2026-06-11 02:38:38,873 | INFO | VALIDO: https://www.youtube.com/watch?v=Y3LF4Xgr_uw
+2026-06-11 02:38:40,064 | INFO | VALIDO: https://www.youtube.com/watch?v=YBOLTzGfJqk
+2026-06-11 02:38:41,287 | INFO | VALIDO: https://www.youtube.com/watch?v=YCzxBR6HYfs
+2026-06-11 02:38:42,468 | INFO | VALIDO: https://www.youtube.com/watch?v=Ymka-9FijTI
+2026-06-11 02:38:43,809 | INFO | VALIDO: https://www.youtube.com/watch?v=YvGUVyHwcIE
+2026-06-11 02:38:45,045 | INFO | VALIDO: https://www.youtube.com/watch?v=YvutGY8TgVM
+2026-06-11 02:38:46,218 | INFO | VALIDO: https://www.youtube.com/watch?v=Z3eRzYVka9c
+2026-06-11 02:38:47,327 | ERROR | ZWb1ygjvd0Y | https://www.youtube.com/watch?v=ZWb1ygjvd0Y | ERROR_DESCONOCIDO | None
+2026-06-11 02:38:48,588 | INFO | VALIDO: https://www.youtube.com/watch?v=ZumsWsbpGeI
+2026-06-11 02:38:49,862 | INFO | VALIDO: https://www.youtube.com/watch?v=_3oi7YTcSSw
+2026-06-11 02:38:51,035 | ERROR | _DeCy7pOW40 | https://www.youtube.com/watch?v=_DeCy7pOW40 | ERROR_DESCONOCIDO | None
+2026-06-11 02:38:52,316 | INFO | VALIDO: https://www.youtube.com/watch?v=_NOQ5fyqhY0
+2026-06-11 02:38:53,442 | INFO | VALIDO: https://www.youtube.com/watch?v=_jdud6kKZKg
+2026-06-11 02:38:54,593 | INFO | VALIDO: https://www.youtube.com/watch?v=_m7orjmVPWo
+2026-06-11 02:38:55,863 | INFO | VALIDO: https://www.youtube.com/watch?v=_rBMa3I7s1U
+2026-06-11 02:38:56,990 | INFO | VALIDO: https://www.youtube.com/watch?v=a5y9ja6WxWA
+2026-06-11 02:38:58,089 | INFO | VALIDO: https://www.youtube.com/watch?v=ahsZ3M8C4g0
+2026-06-11 02:38:59,470 | INFO | VALIDO: https://www.youtube.com/watch?v=asbHs4A3ykQ
+2026-06-11 02:39:00,661 | ERROR | avWTcLXBp7I | https://www.youtube.com/watch?v=avWTcLXBp7I | ERROR_DESCONOCIDO | None
+2026-06-11 02:39:01,827 | INFO | VALIDO: https://www.youtube.com/watch?v=axAMaFP_q1g
+2026-06-11 02:39:03,001 | INFO | VALIDO: https://www.youtube.com/watch?v=bPqYUKrU_2A
+2026-06-11 02:39:04,171 | INFO | VALIDO: https://www.youtube.com/watch?v=bWVHc032IPs
+2026-06-11 02:39:05,335 | ERROR | bnsgSZz1uJY | https://www.youtube.com/watch?v=bnsgSZz1uJY | ERROR_DESCONOCIDO | None
+2026-06-11 02:39:06,517 | INFO | VALIDO: https://www.youtube.com/watch?v=cBpjMSEuEvU
+2026-06-11 02:39:07,709 | INFO | VALIDO: https://www.youtube.com/watch?v=cuVXBaE7O3o
+2026-06-11 02:39:08,913 | INFO | VALIDO: https://www.youtube.com/watch?v=d5WpSHr0G9k
+2026-06-11 02:39:10,102 | INFO | VALIDO: https://www.youtube.com/watch?v=dhwL6UaKExM
+2026-06-11 02:39:11,454 | INFO | VALIDO: https://www.youtube.com/watch?v=dwC6DCDCMxA
+2026-06-11 02:39:12,698 | INFO | VALIDO: https://www.youtube.com/watch?v=e5roEk60w_k
+2026-06-11 02:39:13,969 | INFO | VALIDO: https://www.youtube.com/watch?v=eO93223c3cU
+2026-06-11 02:39:15,211 | INFO | VALIDO: https://www.youtube.com/watch?v=ef_eT1DWLsA
+2026-06-11 02:39:16,488 | INFO | VALIDO: https://www.youtube.com/watch?v=enFvefj1gkc
+2026-06-11 02:39:17,746 | INFO | VALIDO: https://www.youtube.com/watch?v=ep22ENIdq3U
+2026-06-11 02:39:18,892 | INFO | VALIDO: https://www.youtube.com/watch?v=eqAaMKPzBek
+2026-06-11 02:39:20,207 | ERROR | euGWuQPp1t0 | https://www.youtube.com/watch?v=euGWuQPp1t0 | ERROR_DESCONOCIDO | None
+2026-06-11 02:39:21,409 | ERROR | fBBFCQ5TULE | https://www.youtube.com/watch?v=fBBFCQ5TULE | ERROR_DESCONOCIDO | None
+2026-06-11 02:39:22,588 | ERROR | fhNi4L5xScI | https://www.youtube.com/watch?v=fhNi4L5xScI | ERROR_DESCONOCIDO | None
+2026-06-11 02:39:23,771 | INFO | VALIDO: https://www.youtube.com/watch?v=fhqAxgxOP1A
+2026-06-11 02:39:25,032 | INFO | VALIDO: https://www.youtube.com/watch?v=gFKGHmUo-f4
+2026-06-11 02:39:26,170 | INFO | VALIDO: https://www.youtube.com/watch?v=g_sn520GhJA
+2026-06-11 02:39:27,284 | INFO | VALIDO: https://www.youtube.com/watch?v=gc_vxBw40OE
+2026-06-11 02:39:28,475 | ERROR | griM-FRhgU8 | https://www.youtube.com/watch?v=griM-FRhgU8 | ERROR_DESCONOCIDO | None
+2026-06-11 02:39:29,773 | INFO | VALIDO: https://www.youtube.com/watch?v=hAp8A4glaRM
+2026-06-11 02:39:31,114 | INFO | VALIDO: https://www.youtube.com/watch?v=hxXc5EZx1zk
+2026-06-11 02:39:32,272 | INFO | VALIDO: https://www.youtube.com/watch?v=iWm5GLoCKaQ
+2026-06-11 02:39:33,468 | INFO | VALIDO: https://www.youtube.com/watch?v=ijeqwN4zQlk
+2026-06-11 02:39:34,884 | INFO | VALIDO: https://www.youtube.com/watch?v=j1f4lmQtq0U
+2026-06-11 02:39:36,118 | INFO | VALIDO: https://www.youtube.com/watch?v=jTzcJll_fv4
+2026-06-11 02:39:37,445 | INFO | VALIDO: https://www.youtube.com/watch?v=jju8p56xyFc
+2026-06-11 02:39:38,781 | INFO | VALIDO: https://www.youtube.com/watch?v=kTrAU5dg0Dg
+2026-06-11 02:39:40,037 | INFO | VALIDO: https://www.youtube.com/watch?v=l3OwzpclmLQ
+2026-06-11 02:39:41,288 | INFO | VALIDO: https://www.youtube.com/watch?v=l7gXXQLl4Zk
+2026-06-11 02:39:42,472 | INFO | VALIDO: https://www.youtube.com/watch?v=l_Ir24ZbJZo
+2026-06-11 02:39:43,700 | INFO | VALIDO: https://www.youtube.com/watch?v=m00c59UT77s
+2026-06-11 02:39:44,933 | INFO | VALIDO: https://www.youtube.com/watch?v=mJZbu4vxeK0
+2026-06-11 02:39:46,151 | INFO | VALIDO: https://www.youtube.com/watch?v=mUIceCtpcpc
+2026-06-11 02:39:47,420 | INFO | VALIDO: https://www.youtube.com/watch?v=mpAyOrFyWWg
+2026-06-11 02:39:48,628 | INFO | VALIDO: https://www.youtube.com/watch?v=nCrMai6HxtI
+2026-06-11 02:39:49,845 | INFO | VALIDO: https://www.youtube.com/watch?v=nGVFe7CXPSI
+2026-06-11 02:39:51,139 | INFO | VALIDO: https://www.youtube.com/watch?v=nUb23841xNY
+2026-06-11 02:39:52,360 | INFO | VALIDO: https://www.youtube.com/watch?v=nZ8sgtFKAuk
+2026-06-11 02:39:53,703 | INFO | VALIDO: https://www.youtube.com/watch?v=nk7NtXMVK4Q
+2026-06-11 02:39:54,840 | INFO | VALIDO: https://www.youtube.com/watch?v=nmoXOQ0_Uxc
+2026-06-11 02:39:56,036 | INFO | VALIDO: https://www.youtube.com/watch?v=nxuJfPJoo4I
+2026-06-11 02:39:57,231 | INFO | VALIDO: https://www.youtube.com/watch?v=o8K_fTVG1EU
+2026-06-11 02:39:58,413 | INFO | VALIDO: https://www.youtube.com/watch?v=oK3rsN8ZhOQ
+2026-06-11 02:39:59,592 | INFO | VALIDO: https://www.youtube.com/watch?v=oSaLibDTBFw
+2026-06-11 02:40:00,743 | ERROR | oYo3eBbW4h8 | https://www.youtube.com/watch?v=oYo3eBbW4h8 | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:01,950 | INFO | VALIDO: https://www.youtube.com/watch?v=ohDTAGQDM_Y
+2026-06-11 02:40:03,187 | INFO | VALIDO: https://www.youtube.com/watch?v=okAJfy1cMHE
+2026-06-11 02:40:04,612 | INFO | VALIDO: https://www.youtube.com/watch?v=ozrQRJtZ6eU
+2026-06-11 02:40:05,852 | ERROR | p0OzBcn_yYM | https://www.youtube.com/watch?v=p0OzBcn_yYM | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:07,247 | INFO | VALIDO: https://www.youtube.com/watch?v=p5vtQCzhbzI
+2026-06-11 02:40:08,545 | INFO | VALIDO: https://www.youtube.com/watch?v=pJlQPVYTi1U
+2026-06-11 02:40:09,737 | ERROR | pQylCYoDq0k | https://www.youtube.com/watch?v=pQylCYoDq0k | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:11,014 | INFO | VALIDO: https://www.youtube.com/watch?v=pkwMRzkuyFY
+2026-06-11 02:40:12,214 | INFO | VALIDO: https://www.youtube.com/watch?v=ps9jrUaGpKM
+2026-06-11 02:40:13,428 | INFO | VALIDO: https://www.youtube.com/watch?v=q3OpmJCJjCk
+2026-06-11 02:40:14,577 | INFO | VALIDO: https://www.youtube.com/watch?v=qdVWvQemM9U
+2026-06-11 02:40:15,922 | INFO | VALIDO: https://www.youtube.com/watch?v=qh_JFGknjwM
+2026-06-11 02:40:17,162 | ERROR | qoQSOb5gwqk | https://www.youtube.com/watch?v=qoQSOb5gwqk | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:18,355 | ERROR | r-5IaFCqXZs | https://www.youtube.com/watch?v=r-5IaFCqXZs | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:19,550 | INFO | VALIDO: https://www.youtube.com/watch?v=rJykN_sWaF4
+2026-06-11 02:40:20,747 | INFO | VALIDO: https://www.youtube.com/watch?v=rN4VRgz3BgE
+2026-06-11 02:40:21,930 | INFO | VALIDO: https://www.youtube.com/watch?v=s-4_1sm3Cvg
+2026-06-11 02:40:23,197 | INFO | VALIDO: https://www.youtube.com/watch?v=s9sXsDKqPoo
+2026-06-11 02:40:24,413 | INFO | VALIDO: https://www.youtube.com/watch?v=sWWqj1ke3ww
+2026-06-11 02:40:25,615 | INFO | VALIDO: https://www.youtube.com/watch?v=snk99C7u590
+2026-06-11 02:40:26,954 | INFO | VALIDO: https://www.youtube.com/watch?v=t9Fe9oDl0-0
+2026-06-11 02:40:28,270 | INFO | VALIDO: https://www.youtube.com/watch?v=tB51TQeqhMo
+2026-06-11 02:40:29,472 | ERROR | tKdPjAwLmzs | https://www.youtube.com/watch?v=tKdPjAwLmzs | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:30,731 | ERROR | taahX4z3XNo | https://www.youtube.com/watch?v=taahX4z3XNo | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:31,949 | INFO | VALIDO: https://www.youtube.com/watch?v=u2GBIy51lDc
+2026-06-11 02:40:33,163 | ERROR | uOoLH6vUHHw | https://www.youtube.com/watch?v=uOoLH6vUHHw | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:34,389 | ERROR | ulEpv3Usm5w | https://www.youtube.com/watch?v=ulEpv3Usm5w | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:35,597 | INFO | VALIDO: https://www.youtube.com/watch?v=vBC0by0HieI
+2026-06-11 02:40:36,753 | ERROR | vjl3YuUHw40 | https://www.youtube.com/watch?v=vjl3YuUHw40 | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:37,978 | ERROR | wLXl623zvGQ | https://www.youtube.com/watch?v=wLXl623zvGQ | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:39,187 | INFO | VALIDO: https://www.youtube.com/watch?v=woRlKzr29CA
+2026-06-11 02:40:40,366 | ERROR | x2uEtuazglQ | https://www.youtube.com/watch?v=x2uEtuazglQ | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:41,659 | ERROR | xQrwM-2aKgM | https://www.youtube.com/watch?v=xQrwM-2aKgM | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:42,922 | ERROR | xTmcwOkfj4I | https://www.youtube.com/watch?v=xTmcwOkfj4I | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:44,127 | ERROR | y3M3kzBlzUk | https://www.youtube.com/watch?v=y3M3kzBlzUk | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:45,375 | ERROR | yctZZfwyBiY | https://www.youtube.com/watch?v=yctZZfwyBiY | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:46,603 | INFO | VALIDO: https://www.youtube.com/watch?v=ymT8F9Zw-Tg
+2026-06-11 02:40:47,891 | INFO | VALIDO: https://www.youtube.com/watch?v=yqvdtuIkacg
+2026-06-11 02:40:49,040 | ERROR | zBNi-qfKxl0 | https://www.youtube.com/watch?v=zBNi-qfKxl0 | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:50,255 | ERROR | zMJHw_rqU7k | https://www.youtube.com/watch?v=zMJHw_rqU7k | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:51,489 | INFO | VALIDO: https://www.youtube.com/watch?v=zr1RYN7kvAw
+2026-06-11 02:40:52,621 | ERROR | zyACDwpl9lU | https://www.youtube.com/watch?v=zyACDwpl9lU | ERROR_DESCONOCIDO | None
+2026-06-11 02:40:52,623 | INFO | Validación completada.
+2026-06-11 02:55:50,721 | INFO | Iniciando validación de videos...
+2026-06-11 02:55:52,675 | ERROR | -3oQizWTm6g | https://www.youtube.com/watch?v=-3oQizWTm6g | ERROR_DESCONOCIDO | None
+2026-06-11 02:56:41,983 | INFO | Iniciando descarga de comentarios...
+2026-06-11 02:56:44,220 | INFO | -3oQizWTm6g -> 3 comentarios
+2026-06-11 02:56:50,385 | INFO | -LQTFRLGaXU -> 5 comentarios
+2026-06-11 02:56:57,364 | INFO | -jhkvYe3DIE -> 37 comentarios
+2026-06-11 02:57:03,695 | INFO | -n8sDCY06HA -> 4 comentarios
+2026-06-11 02:57:11,761 | INFO | 0-endP9mRys -> 11 comentarios
+2026-06-11 02:57:15,710 | INFO | 0F8NYrFRcvo -> 3 comentarios
+2026-06-11 02:57:19,078 | INFO | 0FNF-06fUf8 -> 0 comentarios
+2026-06-11 02:57:23,833 | INFO | 0f2IeO2D0E8 -> 3 comentarios
+2026-06-11 02:57:29,874 | INFO | 0glJRf0gPgk -> 6 comentarios
+2026-06-11 02:57:36,198 | INFO | 0kbgGe32VJ8 -> 7 comentarios
+2026-06-11 02:57:39,911 | INFO | 1LFvEg4rCyk -> 0 comentarios
+2026-06-11 02:57:44,566 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=1XloJUfEbfE: Failed to set sorting
+2026-06-11 02:57:45,546 | INFO | 1aIuVPHeIts -> 1 comentarios
+2026-06-11 02:57:50,890 | INFO | 1oro-Dbv610 -> 4 comentarios
+2026-06-11 02:57:56,566 | INFO | 1p0LGIqR_k0 -> 4 comentarios
+2026-06-11 02:58:02,250 | INFO | 1r_ugCtCgnM -> 3 comentarios
+2026-06-11 02:58:07,515 | INFO | 1riA11y67vc -> 10 comentarios
+2026-06-11 02:58:12,386 | INFO | 1upUST-r3iw -> 0 comentarios
+2026-06-11 02:58:18,619 | INFO | 1wzRCIzmX_o -> 11 comentarios
+2026-06-11 02:58:22,927 | INFO | 22ovpK3pZmI -> 6 comentarios
+2026-06-11 02:58:28,651 | INFO | 2BZD7yM9aLE -> 1 comentarios
+2026-06-11 02:58:32,950 | INFO | 3CcpQFkQ1X8 -> 3 comentarios
+2026-06-11 02:58:35,949 | INFO | 3FJDrFFu6QI -> 0 comentarios
+2026-06-11 02:58:39,332 | INFO | 3WvYkTHM3wc -> 1 comentarios
+2026-06-11 02:58:44,368 | INFO | 3jHHuemHwR0 -> 4 comentarios
+2026-06-11 02:58:48,085 | INFO | 4XUwEGDkGNk -> 3 comentarios
+2026-06-11 02:58:54,175 | INFO | 59Hf8BK_qh8 -> 7 comentarios
+2026-06-11 02:59:11,745 | INFO | 5HQir7vo8Sw -> 9 comentarios
+2026-06-11 02:59:14,734 | INFO | 5KawEz-So30 -> 0 comentarios
+2026-06-11 02:59:18,323 | INFO | 5akqZrtaLG8 -> 2 comentarios
+2026-06-11 02:59:30,776 | INFO | 6R77muguBXw -> 87 comentarios
+2026-06-11 02:59:35,549 | INFO | 6l5J4N5SY24 -> 0 comentarios
+2026-06-11 02:59:40,513 | INFO | 7OgAAwjamwM -> 1 comentarios
+2026-06-11 02:59:46,874 | INFO | 7RvOAiztpLI -> 10 comentarios
+2026-06-11 02:59:52,462 | INFO | 7aMY-MtOuVs -> 5 comentarios
+2026-06-11 03:00:00,057 | INFO | 7fymnVkNxkg -> 32 comentarios
+2026-06-11 03:00:05,298 | INFO | 84m6vZc7WDc -> 1 comentarios
+2026-06-11 03:00:08,332 | INFO | 8Z85LoQxl0A -> 1 comentarios
+2026-06-11 03:00:11,679 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=9SdpGOltwyc: Failed to set sorting
+2026-06-11 03:00:12,397 | INFO | 9uqr6UvcKzg -> 0 comentarios
+2026-06-11 03:00:15,117 | INFO | AVqtIy6eCb8 -> 0 comentarios
+2026-06-11 03:00:20,785 | INFO | AuKs97cqHuE -> 3 comentarios
+2026-06-11 03:00:25,584 | INFO | B7kqwXxPnf0 -> 16 comentarios
+2026-06-11 03:00:29,597 | INFO | BM46L7sFbLQ -> 2 comentarios
+2026-06-11 03:00:34,731 | INFO | BgV-cBRzh90 -> 0 comentarios
+2026-06-11 03:00:37,823 | INFO | BjYvrg-6nUw -> 0 comentarios
+2026-06-11 03:00:42,534 | INFO | C67ZfSeWb6w -> 4 comentarios
+2026-06-11 03:00:47,867 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=C9yV_TFoJ4s: Failed to set sorting
+2026-06-11 03:00:48,897 | INFO | CPfxqLmAnl8 -> 4 comentarios
+2026-06-11 03:00:54,344 | INFO | CdtHBPQRVus -> 2 comentarios
+2026-06-11 03:00:59,627 | INFO | CoxXR-mtQbk -> 0 comentarios
+2026-06-11 03:01:03,961 | INFO | CxsOZg6bbOY -> 8 comentarios
+2026-06-11 03:01:09,531 | INFO | D6i1wrd0b-E -> 5 comentarios
+2026-06-11 03:01:15,558 | INFO | E1XNCAXQY0A -> 2 comentarios
+2026-06-11 03:01:18,766 | INFO | E7QaC5gM4zg -> 2 comentarios
+2026-06-11 03:01:25,135 | INFO | EqPegNWaPu4 -> 13 comentarios
+2026-06-11 03:01:28,764 | INFO | F6Agm-JWB1U -> 11 comentarios
+2026-06-11 03:01:31,721 | INFO | G0NVuip0Z4I -> 0 comentarios
+2026-06-11 03:01:35,315 | INFO | GaM_fq3VCKg -> 1 comentarios
+2026-06-11 03:01:41,410 | INFO | GcBL3D85qTU -> 2 comentarios
+2026-06-11 03:01:50,382 | INFO | GeXCeoLd92s -> 39 comentarios
+2026-06-11 03:01:54,709 | INFO | GkvdeEatu3g -> 4 comentarios
+2026-06-11 03:02:00,573 | INFO | H51wiM_v8AY -> 2 comentarios
+2026-06-11 03:02:05,626 | INFO | HHmfaLGfx-E -> 5 comentarios
+2026-06-11 03:02:09,562 | INFO | HP__kCuwCtg -> 2 comentarios
+2026-06-11 03:02:14,423 | INFO | Hg3tTOTMWFk -> 4 comentarios
+2026-06-11 03:02:18,633 | INFO | Hggn8BOGkSY -> 1 comentarios
+2026-06-11 03:02:24,960 | INFO | HhnturaQMJQ -> 14 comentarios
+2026-06-11 03:02:28,541 | INFO | Hni6THrR1IE -> 0 comentarios
+2026-06-11 03:02:33,390 | INFO | I2l2MVsR3h4 -> 0 comentarios
+2026-06-11 03:02:38,653 | INFO | IX3ivwk_WfQ -> 2 comentarios
+2026-06-11 03:02:44,892 | INFO | J8DUqlPN75c -> 3 comentarios
+2026-06-11 03:02:48,865 | INFO | JRk-JdaUWu4 -> 2 comentarios
+2026-06-11 03:02:53,606 | INFO | JSVMUbrUHOU -> 16 comentarios
+2026-06-11 03:02:58,791 | INFO | JSrcKsbVz98 -> 2 comentarios
+2026-06-11 03:03:03,582 | INFO | JV9cee3lE8A -> 0 comentarios
+2026-06-11 03:03:07,937 | INFO | JdMyoyVU68A -> 3 comentarios
+2026-06-11 03:03:10,738 | INFO | K1_y63sjysA -> 0 comentarios
+2026-06-11 03:03:14,316 | INFO | KGFNe5sHwhU -> 0 comentarios
+2026-06-11 03:03:20,097 | INFO | KR8J_0142q8 -> 3 comentarios
+2026-06-11 03:03:23,165 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=M7klZsAX_nk: Failed to set sorting
+2026-06-11 03:03:23,898 | INFO | MMXllWfBo40 -> 0 comentarios
+2026-06-11 03:03:27,143 | INFO | MWIeYdmgS3o -> 0 comentarios
+2026-06-11 03:03:32,803 | INFO | NNGPWK8Ok4o -> 9 comentarios
+2026-06-11 03:03:38,636 | INFO | NYNys_5MtMw -> 4 comentarios
+2026-06-11 03:03:41,367 | INFO | NaKuyEJkv1g -> 0 comentarios
+2026-06-11 03:03:46,030 | INFO | NhjvWBnJc8s -> 0 comentarios
+2026-06-11 03:03:51,759 | INFO | Nk8YK1nDbqg -> 4 comentarios
+2026-06-11 03:03:56,445 | INFO | NoN-bd9mB_o -> 5 comentarios
+2026-06-11 03:04:01,256 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=OL28v9sl7yQ: Failed to set sorting
+2026-06-11 03:04:02,043 | INFO | OT_Rn-8vaoU -> 2 comentarios
+2026-06-11 03:04:06,932 | INFO | Olr3cwtKnH8 -> 16 comentarios
+2026-06-11 03:04:11,341 | INFO | Oqzm8bX9Kys -> 0 comentarios
+2026-06-11 03:04:16,541 | INFO | PHkGaC38z78 -> 74 comentarios
+2026-06-11 03:04:20,676 | INFO | PIztKfEYLHw -> 6 comentarios
+2026-06-11 03:04:26,893 | INFO | PJweRnCvcwM -> 7 comentarios
+2026-06-11 03:04:31,705 | INFO | PhF9IUaai9k -> 6 comentarios
+2026-06-11 03:04:38,129 | INFO | PmOTKxbyWjs -> 67 comentarios
+2026-06-11 03:04:42,191 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=Psbx4LXe1VY: Failed to set sorting
+2026-06-11 03:04:43,280 | INFO | PwxVT96Qmn8 -> 14 comentarios
+2026-06-11 03:04:48,920 | INFO | Q523rOh66ig -> 9 comentarios
+2026-06-11 03:04:54,067 | INFO | QBP5p1_b1fQ -> 26 comentarios
+2026-06-11 03:04:57,518 | INFO | QYTm4c0DIq4 -> 8 comentarios
+2026-06-11 03:05:02,635 | INFO | QmSDhHdN0ac -> 3 comentarios
+2026-06-11 03:05:05,911 | INFO | QmYn3PZnmNM -> 0 comentarios
+2026-06-11 03:05:10,720 | INFO | QrrAujgpfHg -> 0 comentarios
+2026-06-11 03:05:16,790 | INFO | S8YieJuP-dg -> 7 comentarios
+2026-06-11 03:05:22,767 | INFO | SEi6RCa-t10 -> 5 comentarios
+2026-06-11 03:05:26,486 | INFO | SIHIEpPaYGE -> 0 comentarios
+2026-06-11 03:05:30,010 | INFO | SyfrDmAJjCQ -> 0 comentarios
+2026-06-11 03:05:34,599 | INFO | TqfZf0KwI4Y -> 2 comentarios
+2026-06-11 03:05:40,102 | INFO | URYWzPVHiAs -> 1 comentarios
+2026-06-11 03:05:45,563 | INFO | VLhgtujGvBM -> 9 comentarios
+2026-06-11 03:05:48,821 | INFO | VYTn5rDxWnE -> 7 comentarios
+2026-06-11 03:05:53,483 | INFO | VZWVG8Pqxtg -> 0 comentarios
+2026-06-11 03:05:58,044 | INFO | Vw069dT12wU -> 20 comentarios
+2026-06-11 03:06:03,634 | INFO | W14Ed-y7JvM -> 6 comentarios
+2026-06-11 03:06:07,240 | INFO | W20juAtwfMw -> 0 comentarios
+2026-06-11 03:06:10,746 | INFO | WMjRauxRE_I -> 6 comentarios
+2026-06-11 03:06:13,927 | INFO | WUhYj3qEyZY -> 5 comentarios
+2026-06-11 03:06:18,664 | INFO | XPyeIOqI6qY -> 8 comentarios
+2026-06-11 03:06:23,496 | INFO | XeDsbrESR0o -> 2 comentarios
+2026-06-11 03:06:28,990 | INFO | XjrdiXhgRVQ -> 1 comentarios
+2026-06-11 03:06:33,556 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=XqdsoTNfzec: Failed to set sorting
+2026-06-11 03:06:35,664 | INFO | XyvshGf7OKs -> 18 comentarios
+2026-06-11 03:06:41,506 | INFO | Y3LF4Xgr_uw -> 7 comentarios
+2026-06-11 03:06:44,822 | INFO | YBOLTzGfJqk -> 2 comentarios
+2026-06-11 03:06:49,622 | INFO | YCzxBR6HYfs -> 10 comentarios
+2026-06-11 03:06:54,828 | INFO | Ymka-9FijTI -> 10 comentarios
+2026-06-11 03:06:58,003 | INFO | YvGUVyHwcIE -> 0 comentarios
+2026-06-11 03:07:01,894 | INFO | YvutGY8TgVM -> 1 comentarios
+2026-06-11 03:07:05,828 | INFO | Z3eRzYVka9c -> 2 comentarios
+2026-06-11 03:07:08,697 | INFO | ZumsWsbpGeI -> 1 comentarios
+2026-06-11 03:07:13,283 | INFO | _3oi7YTcSSw -> 3 comentarios
+2026-06-11 03:07:17,041 | INFO | _NOQ5fyqhY0 -> 4 comentarios
+2026-06-11 03:07:20,772 | INFO | _jdud6kKZKg -> 13 comentarios
+2026-06-11 03:07:26,028 | INFO | _m7orjmVPWo -> 0 comentarios
+2026-06-11 03:07:30,625 | INFO | _rBMa3I7s1U -> 2 comentarios
+2026-06-11 03:07:37,666 | INFO | a5y9ja6WxWA -> 10 comentarios
+2026-06-11 03:07:41,762 | INFO | ahsZ3M8C4g0 -> 1 comentarios
+2026-06-11 03:07:44,459 | INFO | asbHs4A3ykQ -> 2 comentarios
+2026-06-11 03:07:50,017 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=axAMaFP_q1g: Failed to set sorting
+2026-06-11 03:07:51,551 | INFO | bPqYUKrU_2A -> 7 comentarios
+2026-06-11 03:07:55,912 | INFO | bWVHc032IPs -> 2 comentarios
+2026-06-11 03:08:01,944 | INFO | cBpjMSEuEvU -> 26 comentarios
+2026-06-11 03:08:05,314 | INFO | cuVXBaE7O3o -> 0 comentarios
+2026-06-11 03:08:10,870 | INFO | d5WpSHr0G9k -> 0 comentarios
+2026-06-11 03:08:45,259 | INFO | dhwL6UaKExM -> 607 comentarios
+2026-06-11 03:08:48,422 | INFO | dwC6DCDCMxA -> 3 comentarios
+2026-06-11 03:08:52,727 | INFO | e5roEk60w_k -> 2 comentarios
+2026-06-11 03:08:57,896 | INFO | eO93223c3cU -> 0 comentarios
+2026-06-11 03:09:03,144 | INFO | ef_eT1DWLsA -> 9 comentarios
+2026-06-11 03:09:12,015 | INFO | enFvefj1gkc -> 46 comentarios
+2026-06-11 03:09:16,598 | INFO | ep22ENIdq3U -> 0 comentarios
+2026-06-11 03:09:21,885 | INFO | eqAaMKPzBek -> 9 comentarios
+2026-06-11 03:09:28,138 | INFO | fhqAxgxOP1A -> 29 comentarios
+2026-06-11 03:09:33,278 | INFO | gFKGHmUo-f4 -> 9 comentarios
+2026-06-11 03:09:39,690 | INFO | g_sn520GhJA -> 24 comentarios
+2026-06-11 03:09:43,430 | INFO | gc_vxBw40OE -> 0 comentarios
+2026-06-11 03:09:47,816 | INFO | hAp8A4glaRM -> 3 comentarios
+2026-06-11 03:09:51,539 | INFO | hxXc5EZx1zk -> 5 comentarios
+2026-06-11 03:09:56,660 | INFO | iWm5GLoCKaQ -> 3 comentarios
+2026-06-11 03:10:01,370 | INFO | ijeqwN4zQlk -> 2 comentarios
+2026-06-11 03:10:06,649 | INFO | j1f4lmQtq0U -> 2 comentarios
+2026-06-11 03:10:09,877 | INFO | jTzcJll_fv4 -> 4 comentarios
+2026-06-11 03:10:14,832 | INFO | jju8p56xyFc -> 4 comentarios
+2026-06-11 03:10:19,318 | INFO | kTrAU5dg0Dg -> 4 comentarios
+2026-06-11 03:10:22,413 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=l3OwzpclmLQ: Failed to set sorting
+2026-06-11 03:10:27,125 | INFO | l7gXXQLl4Zk -> 38 comentarios
+2026-06-11 03:10:31,588 | INFO | l_Ir24ZbJZo -> 11 comentarios
+2026-06-11 03:10:37,372 | INFO | m00c59UT77s -> 15 comentarios
+2026-06-11 03:10:43,276 | INFO | mJZbu4vxeK0 -> 4 comentarios
+2026-06-11 03:10:47,469 | INFO | mUIceCtpcpc -> 8 comentarios
+2026-06-11 03:10:57,318 | INFO | mpAyOrFyWWg -> 80 comentarios
+2026-06-11 03:11:01,923 | INFO | nCrMai6HxtI -> 8 comentarios
+2026-06-11 03:11:07,133 | INFO | nGVFe7CXPSI -> 9 comentarios
+2026-06-11 03:11:12,143 | INFO | nUb23841xNY -> 3 comentarios
+2026-06-11 03:11:18,417 | INFO | nZ8sgtFKAuk -> 19 comentarios
+2026-06-11 03:11:23,907 | INFO | nk7NtXMVK4Q -> 0 comentarios
+2026-06-11 03:11:27,361 | INFO | nmoXOQ0_Uxc -> 1 comentarios
+2026-06-11 03:11:33,179 | INFO | nxuJfPJoo4I -> 0 comentarios
+2026-06-11 03:11:38,062 | INFO | o8K_fTVG1EU -> 7 comentarios
+2026-06-11 03:11:42,380 | INFO | oK3rsN8ZhOQ -> 0 comentarios
+2026-06-11 03:11:46,702 | INFO | oSaLibDTBFw -> 6 comentarios
+2026-06-11 03:11:53,919 | INFO | ohDTAGQDM_Y -> 15 comentarios
+2026-06-11 03:11:57,140 | INFO | okAJfy1cMHE -> 0 comentarios
+2026-06-11 03:12:00,193 | INFO | ozrQRJtZ6eU -> 0 comentarios
+2026-06-11 03:12:04,911 | INFO | p5vtQCzhbzI -> 2 comentarios
+2026-06-11 03:12:08,240 | INFO | pJlQPVYTi1U -> 1 comentarios
+2026-06-11 03:12:12,116 | INFO | pkwMRzkuyFY -> 2 comentarios
+2026-06-11 03:12:18,755 | INFO | ps9jrUaGpKM -> 23 comentarios
+2026-06-11 03:12:22,978 | INFO | q3OpmJCJjCk -> 9 comentarios
+2026-06-11 03:12:29,088 | INFO | qdVWvQemM9U -> 5 comentarios
+2026-06-11 03:12:35,271 | INFO | qh_JFGknjwM -> 8 comentarios
+2026-06-11 03:12:40,849 | INFO | rJykN_sWaF4 -> 1 comentarios
+2026-06-11 03:12:44,356 | INFO | rN4VRgz3BgE -> 1 comentarios
+2026-06-11 03:12:49,591 | INFO | s-4_1sm3Cvg -> 8 comentarios
+2026-06-11 03:13:01,147 | INFO | s9sXsDKqPoo -> 76 comentarios
+2026-06-11 03:13:08,623 | INFO | sWWqj1ke3ww -> 35 comentarios
+2026-06-11 03:13:13,343 | INFO | snk99C7u590 -> 4 comentarios
+2026-06-11 03:13:17,277 | INFO | t9Fe9oDl0-0 -> 0 comentarios
+2026-06-11 03:13:26,625 | INFO | tB51TQeqhMo -> 56 comentarios
+2026-06-11 03:13:32,171 | INFO | u2GBIy51lDc -> 0 comentarios
+2026-06-11 03:13:36,013 | INFO | vBC0by0HieI -> 0 comentarios
+2026-06-11 03:13:40,346 | INFO | woRlKzr29CA -> 0 comentarios
+2026-06-11 03:13:46,371 | INFO | ymT8F9Zw-Tg -> 2 comentarios
+2026-06-11 03:13:50,478 | INFO | yqvdtuIkacg -> 0 comentarios
+2026-06-11 03:13:56,068 | INFO | zr1RYN7kvAw -> 0 comentarios
+2026-06-11 03:13:58,181 | INFO | Comentarios descargados: 2144
+2026-06-11 03:44:00,871 | INFO | Iniciando extracción de URLs...
+2026-06-11 03:44:00,872 | INFO | TXT encontrados: 29
+2026-06-11 03:44:00,931 | INFO | URLs extraídas: 302
+2026-06-11 03:44:00,932 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\video_urls.txt
+2026-06-11 03:44:11,869 | INFO | Iniciando validación de videos...
+2026-06-11 03:44:14,032 | INFO | VALIDO: https://www.youtube.com/watch?v=-3oQizWTm6g
+2026-06-11 03:44:15,867 | INFO | VALIDO: https://www.youtube.com/watch?v=-LQTFRLGaXU
+2026-06-11 03:44:17,637 | ERROR | -U-uBtVl7eM | https://www.youtube.com/watch?v=-U-uBtVl7eM | ERROR_DESCONOCIDO | None
+2026-06-11 03:44:19,415 | INFO | VALIDO: https://www.youtube.com/watch?v=-hljuZOSQRY
+2026-06-11 03:44:21,702 | INFO | VALIDO: https://www.youtube.com/watch?v=-jhkvYe3DIE
+2026-06-11 03:44:23,861 | INFO | VALIDO: https://www.youtube.com/watch?v=-n8sDCY06HA
+2026-06-11 03:44:25,530 | INFO | VALIDO: https://www.youtube.com/watch?v=0-endP9mRys
+2026-06-11 03:44:27,472 | INFO | VALIDO: https://www.youtube.com/watch?v=04AZYn3MTsg
+2026-06-11 03:44:29,616 | INFO | VALIDO: https://www.youtube.com/watch?v=0F8NYrFRcvo
+2026-06-11 03:44:31,498 | INFO | VALIDO: https://www.youtube.com/watch?v=0FNF-06fUf8
+2026-06-11 03:44:33,535 | INFO | VALIDO: https://www.youtube.com/watch?v=0f2IeO2D0E8
+2026-06-11 03:44:35,558 | INFO | VALIDO: https://www.youtube.com/watch?v=0glJRf0gPgk
+2026-06-11 03:44:37,616 | INFO | VALIDO: https://www.youtube.com/watch?v=0kbgGe32VJ8
+2026-06-11 03:44:39,793 | INFO | VALIDO: https://www.youtube.com/watch?v=1LFvEg4rCyk
+2026-06-11 03:44:41,716 | INFO | VALIDO: https://www.youtube.com/watch?v=1XloJUfEbfE
+2026-06-11 03:44:44,105 | INFO | VALIDO: https://www.youtube.com/watch?v=1aIuVPHeIts
+2026-06-11 03:44:45,994 | INFO | VALIDO: https://www.youtube.com/watch?v=1oro-Dbv610
+2026-06-11 03:44:48,259 | INFO | VALIDO: https://www.youtube.com/watch?v=1p0LGIqR_k0
+2026-06-11 03:44:50,191 | INFO | VALIDO: https://www.youtube.com/watch?v=1r_ugCtCgnM
+2026-06-11 03:44:52,553 | INFO | VALIDO: https://www.youtube.com/watch?v=1riA11y67vc
+2026-06-11 03:44:54,566 | INFO | VALIDO: https://www.youtube.com/watch?v=1upUST-r3iw
+2026-06-11 03:44:56,267 | INFO | VALIDO: https://www.youtube.com/watch?v=1wzRCIzmX_o
+2026-06-11 03:44:58,507 | INFO | VALIDO: https://www.youtube.com/watch?v=22ovpK3pZmI
+2026-06-11 03:45:00,669 | INFO | VALIDO: https://www.youtube.com/watch?v=2BZD7yM9aLE
+2026-06-11 03:45:02,884 | INFO | VALIDO: https://www.youtube.com/watch?v=3CcpQFkQ1X8
+2026-06-11 03:45:04,902 | INFO | VALIDO: https://www.youtube.com/watch?v=3FJDrFFu6QI
+2026-06-11 03:45:06,819 | INFO | VALIDO: https://www.youtube.com/watch?v=3MI4P2GRTYc
+2026-06-11 03:45:09,005 | INFO | VALIDO: https://www.youtube.com/watch?v=3WvYkTHM3wc
+2026-06-11 03:45:11,036 | INFO | VALIDO: https://www.youtube.com/watch?v=3hOAt-vrX1Q
+2026-06-11 03:45:13,142 | INFO | VALIDO: https://www.youtube.com/watch?v=3jHHuemHwR0
+2026-06-11 03:45:15,324 | INFO | VALIDO: https://www.youtube.com/watch?v=4XUwEGDkGNk
+2026-06-11 03:45:17,285 | INFO | VALIDO: https://www.youtube.com/watch?v=59Hf8BK_qh8
+2026-06-11 03:45:19,654 | INFO | VALIDO: https://www.youtube.com/watch?v=5HQir7vo8Sw
+2026-06-11 03:45:21,482 | INFO | VALIDO: https://www.youtube.com/watch?v=5KawEz-So30
+2026-06-11 03:45:23,427 | INFO | VALIDO: https://www.youtube.com/watch?v=5akqZrtaLG8
+2026-06-11 03:45:25,697 | INFO | VALIDO: https://www.youtube.com/watch?v=5gmLu_TJNyY
+2026-06-11 03:45:27,804 | INFO | VALIDO: https://www.youtube.com/watch?v=5zLDT2-ju9Y
+2026-06-11 03:45:29,831 | ERROR | 6O6hjVRFR4o | https://www.youtube.com/watch?v=6O6hjVRFR4o | ERROR_DESCONOCIDO | None
+2026-06-11 03:45:31,580 | INFO | VALIDO: https://www.youtube.com/watch?v=6R77muguBXw
+2026-06-11 03:45:33,533 | INFO | VALIDO: https://www.youtube.com/watch?v=6cQ-SXLZ2AE
+2026-06-11 03:45:35,846 | INFO | VALIDO: https://www.youtube.com/watch?v=6l5J4N5SY24
+2026-06-11 03:45:37,957 | INFO | VALIDO: https://www.youtube.com/watch?v=7OgAAwjamwM
+2026-06-11 03:45:39,849 | INFO | VALIDO: https://www.youtube.com/watch?v=7RvOAiztpLI
+2026-06-11 03:45:41,771 | INFO | VALIDO: https://www.youtube.com/watch?v=7aMY-MtOuVs
+2026-06-11 03:45:43,923 | INFO | VALIDO: https://www.youtube.com/watch?v=7fymnVkNxkg
+2026-06-11 03:45:46,239 | INFO | VALIDO: https://www.youtube.com/watch?v=84m6vZc7WDc
+2026-06-11 03:45:48,712 | INFO | VALIDO: https://www.youtube.com/watch?v=8Yx8sInm5FI
+2026-06-11 03:45:50,123 | INFO | VALIDO: https://www.youtube.com/watch?v=8Z85LoQxl0A
+2026-06-11 03:45:51,946 | ERROR | 9Bz8FdX3k8g | https://www.youtube.com/watch?v=9Bz8FdX3k8g | ERROR_DESCONOCIDO | None
+2026-06-11 03:45:53,855 | INFO | VALIDO: https://www.youtube.com/watch?v=9C_jmgzHngo
+2026-06-11 03:45:55,647 | ERROR | 9EHd-nMFpfY | https://www.youtube.com/watch?v=9EHd-nMFpfY | ERROR_DESCONOCIDO | None
+2026-06-11 03:45:57,470 | INFO | VALIDO: https://www.youtube.com/watch?v=9SdpGOltwyc
+2026-06-11 03:45:59,161 | INFO | VALIDO: https://www.youtube.com/watch?v=9uqr6UvcKzg
+2026-06-11 03:46:00,888 | INFO | VALIDO: https://www.youtube.com/watch?v=AMX9ncLJK9A
+2026-06-11 03:46:02,896 | INFO | VALIDO: https://www.youtube.com/watch?v=AVqtIy6eCb8
+2026-06-11 03:46:04,510 | ERROR | A_WjCglWbz4 | https://www.youtube.com/watch?v=A_WjCglWbz4 | ERROR_DESCONOCIDO | None
+2026-06-11 03:46:06,341 | INFO | VALIDO: https://www.youtube.com/watch?v=AuKs97cqHuE
+2026-06-11 03:46:08,136 | INFO | VALIDO: https://www.youtube.com/watch?v=B7kqwXxPnf0
+2026-06-11 03:46:09,962 | INFO | VALIDO: https://www.youtube.com/watch?v=BM46L7sFbLQ
+2026-06-11 03:46:11,999 | INFO | VALIDO: https://www.youtube.com/watch?v=BQJu4EuZIFI
+2026-06-11 03:46:14,067 | INFO | VALIDO: https://www.youtube.com/watch?v=BgV-cBRzh90
+2026-06-11 03:46:15,991 | INFO | VALIDO: https://www.youtube.com/watch?v=BjYvrg-6nUw
+2026-06-11 03:46:18,024 | INFO | VALIDO: https://www.youtube.com/watch?v=C67ZfSeWb6w
+2026-06-11 03:46:20,074 | INFO | VALIDO: https://www.youtube.com/watch?v=C9yV_TFoJ4s
+2026-06-11 03:46:21,615 | INFO | VALIDO: https://www.youtube.com/watch?v=CNysSlPeKII
+2026-06-11 03:46:23,818 | INFO | VALIDO: https://www.youtube.com/watch?v=CNz0mgrtQik
+2026-06-11 03:46:25,808 | INFO | VALIDO: https://www.youtube.com/watch?v=CPfxqLmAnl8
+2026-06-11 03:46:27,750 | INFO | VALIDO: https://www.youtube.com/watch?v=CdtHBPQRVus
+2026-06-11 03:46:29,756 | INFO | VALIDO: https://www.youtube.com/watch?v=CoxXR-mtQbk
+2026-06-11 03:46:31,586 | INFO | VALIDO: https://www.youtube.com/watch?v=CxsOZg6bbOY
+2026-06-11 03:46:33,572 | INFO | VALIDO: https://www.youtube.com/watch?v=D6i1wrd0b-E
+2026-06-11 03:46:35,462 | INFO | VALIDO: https://www.youtube.com/watch?v=E1XNCAXQY0A
+2026-06-11 03:46:37,155 | INFO | VALIDO: https://www.youtube.com/watch?v=E7QaC5gM4zg
+2026-06-11 03:46:39,201 | INFO | VALIDO: https://www.youtube.com/watch?v=E7QooRLFmXU
+2026-06-11 03:46:41,148 | INFO | VALIDO: https://www.youtube.com/watch?v=EqPegNWaPu4
+2026-06-11 03:46:42,636 | INFO | VALIDO: https://www.youtube.com/watch?v=F6Agm-JWB1U
+2026-06-11 03:46:44,402 | INFO | VALIDO: https://www.youtube.com/watch?v=F7BkyQJVBXE
+2026-06-11 03:46:46,373 | INFO | VALIDO: https://www.youtube.com/watch?v=FooZJ9xaaCk
+2026-06-11 03:46:48,227 | INFO | VALIDO: https://www.youtube.com/watch?v=G0NVuip0Z4I
+2026-06-11 03:46:50,301 | INFO | VALIDO: https://www.youtube.com/watch?v=G3rJGyYui04
+2026-06-11 03:46:51,897 | INFO | VALIDO: https://www.youtube.com/watch?v=GaM_fq3VCKg
+2026-06-11 03:46:53,893 | INFO | VALIDO: https://www.youtube.com/watch?v=GcBL3D85qTU
+2026-06-11 03:46:55,624 | INFO | VALIDO: https://www.youtube.com/watch?v=GeXCeoLd92s
+2026-06-11 03:46:57,703 | INFO | VALIDO: https://www.youtube.com/watch?v=GkvdeEatu3g
+2026-06-11 03:46:59,886 | INFO | VALIDO: https://www.youtube.com/watch?v=GqF9BoFoS8E
+2026-06-11 03:47:01,715 | INFO | VALIDO: https://www.youtube.com/watch?v=H51wiM_v8AY
+2026-06-11 03:47:03,358 | INFO | VALIDO: https://www.youtube.com/watch?v=HHmfaLGfx-E
+2026-06-11 03:47:05,362 | INFO | VALIDO: https://www.youtube.com/watch?v=HP__kCuwCtg
+2026-06-11 03:47:07,770 | INFO | VALIDO: https://www.youtube.com/watch?v=Hg3tTOTMWFk
+2026-06-11 03:47:09,625 | INFO | VALIDO: https://www.youtube.com/watch?v=Hggn8BOGkSY
+2026-06-11 03:47:11,702 | INFO | VALIDO: https://www.youtube.com/watch?v=HhnturaQMJQ
+2026-06-11 03:47:13,428 | INFO | VALIDO: https://www.youtube.com/watch?v=Hni6THrR1IE
+2026-06-11 03:47:15,215 | ERROR | HwPGfGuP0UI | https://www.youtube.com/watch?v=HwPGfGuP0UI | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:16,957 | INFO | VALIDO: https://www.youtube.com/watch?v=I2l2MVsR3h4
+2026-06-11 03:47:18,832 | INFO | VALIDO: https://www.youtube.com/watch?v=IVjjFq2X8ZE
+2026-06-11 03:47:20,744 | INFO | VALIDO: https://www.youtube.com/watch?v=IX3ivwk_WfQ
+2026-06-11 03:47:22,627 | INFO | VALIDO: https://www.youtube.com/watch?v=J8DUqlPN75c
+2026-06-11 03:47:24,146 | INFO | VALIDO: https://www.youtube.com/watch?v=JRk-JdaUWu4
+2026-06-11 03:47:25,774 | ERROR | JRwqLW16VJo | https://www.youtube.com/watch?v=JRwqLW16VJo | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:27,474 | INFO | VALIDO: https://www.youtube.com/watch?v=JSVMUbrUHOU
+2026-06-11 03:47:29,277 | INFO | VALIDO: https://www.youtube.com/watch?v=JSrcKsbVz98
+2026-06-11 03:47:31,107 | INFO | VALIDO: https://www.youtube.com/watch?v=JV9cee3lE8A
+2026-06-11 03:47:32,983 | INFO | VALIDO: https://www.youtube.com/watch?v=JdMyoyVU68A
+2026-06-11 03:47:34,332 | ERROR | JpHdMLFFPa4 | https://www.youtube.com/watch?v=JpHdMLFFPa4 | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:36,130 | INFO | VALIDO: https://www.youtube.com/watch?v=K1_y63sjysA
+2026-06-11 03:47:40,945 | ERROR | KD2l5dQE1YI | https://www.youtube.com/watch?v=KD2l5dQE1YI | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:42,912 | INFO | VALIDO: https://www.youtube.com/watch?v=KGFNe5sHwhU
+2026-06-11 03:47:44,794 | INFO | VALIDO: https://www.youtube.com/watch?v=KR8J_0142q8
+2026-06-11 03:47:46,502 | ERROR | L49HQi6HFnQ | https://www.youtube.com/watch?v=L49HQi6HFnQ | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:48,404 | INFO | VALIDO: https://www.youtube.com/watch?v=LflXQeFIQZE
+2026-06-11 03:47:50,414 | ERROR | M3qBgK68wkU | https://www.youtube.com/watch?v=M3qBgK68wkU | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:52,318 | INFO | VALIDO: https://www.youtube.com/watch?v=M4NG31TOx_U
+2026-06-11 03:47:54,389 | INFO | VALIDO: https://www.youtube.com/watch?v=M7klZsAX_nk
+2026-06-11 03:47:55,871 | INFO | VALIDO: https://www.youtube.com/watch?v=MMXllWfBo40
+2026-06-11 03:47:57,690 | ERROR | MRY2YPIdoJo | https://www.youtube.com/watch?v=MRY2YPIdoJo | ERROR_DESCONOCIDO | None
+2026-06-11 03:47:59,654 | INFO | VALIDO: https://www.youtube.com/watch?v=MWIeYdmgS3o
+2026-06-11 03:48:01,396 | ERROR | NJJkahNeDpc | https://www.youtube.com/watch?v=NJJkahNeDpc | ERROR_DESCONOCIDO | None
+2026-06-11 03:48:03,313 | INFO | VALIDO: https://www.youtube.com/watch?v=NNGPWK8Ok4o
+2026-06-11 03:48:05,183 | INFO | VALIDO: https://www.youtube.com/watch?v=NYNys_5MtMw
+2026-06-11 03:48:07,010 | INFO | VALIDO: https://www.youtube.com/watch?v=NaKuyEJkv1g
+2026-06-11 03:48:08,795 | INFO | VALIDO: https://www.youtube.com/watch?v=NhjvWBnJc8s
+2026-06-11 03:48:10,813 | INFO | VALIDO: https://www.youtube.com/watch?v=Nk8YK1nDbqg
+2026-06-11 03:48:12,601 | INFO | VALIDO: https://www.youtube.com/watch?v=NoN-bd9mB_o
+2026-06-11 03:48:14,792 | INFO | VALIDO: https://www.youtube.com/watch?v=OL28v9sl7yQ
+2026-06-11 03:48:16,547 | INFO | VALIDO: https://www.youtube.com/watch?v=OT_Rn-8vaoU
+2026-06-11 03:48:18,511 | INFO | VALIDO: https://www.youtube.com/watch?v=Olr3cwtKnH8
+2026-06-11 03:48:20,448 | INFO | VALIDO: https://www.youtube.com/watch?v=Oqzm8bX9Kys
+2026-06-11 03:48:22,404 | ERROR | OvuJO8N4rAU | https://www.youtube.com/watch?v=OvuJO8N4rAU | ERROR_DESCONOCIDO | None
+2026-06-11 03:48:24,297 | ERROR | OzthASfhiEA | https://www.youtube.com/watch?v=OzthASfhiEA | ERROR_DESCONOCIDO | None
+2026-06-11 03:48:26,423 | INFO | VALIDO: https://www.youtube.com/watch?v=PHkGaC38z78
+2026-06-11 03:48:27,935 | INFO | VALIDO: https://www.youtube.com/watch?v=PIztKfEYLHw
+2026-06-11 03:48:29,673 | INFO | VALIDO: https://www.youtube.com/watch?v=PJweRnCvcwM
+2026-06-11 03:48:31,412 | INFO | VALIDO: https://www.youtube.com/watch?v=PLGNTmb0gAk
+2026-06-11 03:48:33,417 | INFO | VALIDO: https://www.youtube.com/watch?v=PMM0rT7BMtA
+2026-06-11 03:48:35,609 | INFO | VALIDO: https://www.youtube.com/watch?v=PhF9IUaai9k
+2026-06-11 03:48:37,786 | INFO | VALIDO: https://www.youtube.com/watch?v=PmOTKxbyWjs
+2026-06-11 03:48:40,017 | INFO | VALIDO: https://www.youtube.com/watch?v=Psbx4LXe1VY
+2026-06-11 03:48:42,132 | INFO | VALIDO: https://www.youtube.com/watch?v=PwxVT96Qmn8
+2026-06-11 03:48:44,203 | INFO | VALIDO: https://www.youtube.com/watch?v=Q523rOh66ig
+2026-06-11 03:48:46,540 | INFO | VALIDO: https://www.youtube.com/watch?v=QBP5p1_b1fQ
+2026-06-11 03:48:48,195 | INFO | VALIDO: https://www.youtube.com/watch?v=QYTm4c0DIq4
+2026-06-11 03:48:50,015 | INFO | VALIDO: https://www.youtube.com/watch?v=Qh948YgYYS0
+2026-06-11 03:48:51,907 | INFO | VALIDO: https://www.youtube.com/watch?v=QmSDhHdN0ac
+2026-06-11 03:48:53,852 | INFO | VALIDO: https://www.youtube.com/watch?v=QmYn3PZnmNM
+2026-06-11 03:48:55,637 | INFO | VALIDO: https://www.youtube.com/watch?v=QrrAujgpfHg
+2026-06-11 03:48:57,333 | ERROR | R-UjAdlku-k | https://www.youtube.com/watch?v=R-UjAdlku-k | ERROR_DESCONOCIDO | None
+2026-06-11 03:48:58,768 | ERROR | RRjz-Wz5rXU | https://www.youtube.com/watch?v=RRjz-Wz5rXU | ERROR_DESCONOCIDO | None
+2026-06-11 03:49:00,587 | INFO | VALIDO: https://www.youtube.com/watch?v=Rh0cHqQMo8A
+2026-06-11 03:49:02,552 | INFO | VALIDO: https://www.youtube.com/watch?v=RvmxHQmEl0g
+2026-06-11 03:49:04,660 | INFO | VALIDO: https://www.youtube.com/watch?v=S8YieJuP-dg
+2026-06-11 03:49:06,756 | INFO | VALIDO: https://www.youtube.com/watch?v=SEi6RCa-t10
+2026-06-11 03:49:08,593 | INFO | VALIDO: https://www.youtube.com/watch?v=SIHIEpPaYGE
+2026-06-11 03:49:10,459 | INFO | VALIDO: https://www.youtube.com/watch?v=SyfrDmAJjCQ
+2026-06-11 03:49:12,463 | ERROR | TUDNNwWIUJY | https://www.youtube.com/watch?v=TUDNNwWIUJY | ERROR_DESCONOCIDO | None
+2026-06-11 03:49:14,234 | ERROR | Ta4T7mlzP4M | https://www.youtube.com/watch?v=Ta4T7mlzP4M | ERROR_DESCONOCIDO | None
+2026-06-11 03:49:16,232 | INFO | VALIDO: https://www.youtube.com/watch?v=TqfZf0KwI4Y
+2026-06-11 03:49:17,967 | INFO | VALIDO: https://www.youtube.com/watch?v=Twllhnx7G6c
+2026-06-11 03:49:19,704 | INFO | VALIDO: https://www.youtube.com/watch?v=URYWzPVHiAs
+2026-06-11 03:49:21,515 | INFO | VALIDO: https://www.youtube.com/watch?v=V2gM0K_h5Es
+2026-06-11 03:49:23,479 | INFO | VALIDO: https://www.youtube.com/watch?v=VLhgtujGvBM
+2026-06-11 03:49:25,286 | INFO | VALIDO: https://www.youtube.com/watch?v=VS-L0uqa-sQ
+2026-06-11 03:49:27,597 | INFO | VALIDO: https://www.youtube.com/watch?v=VYTn5rDxWnE
+2026-06-11 03:49:29,656 | INFO | VALIDO: https://www.youtube.com/watch?v=VZWVG8Pqxtg
+2026-06-11 03:49:31,160 | INFO | VALIDO: https://www.youtube.com/watch?v=Vw069dT12wU
+2026-06-11 03:49:32,994 | INFO | VALIDO: https://www.youtube.com/watch?v=W14Ed-y7JvM
+2026-06-11 03:49:34,687 | INFO | VALIDO: https://www.youtube.com/watch?v=W20juAtwfMw
+2026-06-11 03:49:36,673 | INFO | VALIDO: https://www.youtube.com/watch?v=WMjRauxRE_I
+2026-06-11 03:49:38,560 | INFO | VALIDO: https://www.youtube.com/watch?v=WObX-w_w22M
+2026-06-11 03:49:40,583 | INFO | VALIDO: https://www.youtube.com/watch?v=WUhYj3qEyZY
+2026-06-11 03:49:42,127 | INFO | VALIDO: https://www.youtube.com/watch?v=XPyeIOqI6qY
+2026-06-11 03:49:44,108 | INFO | VALIDO: https://www.youtube.com/watch?v=XeDsbrESR0o
+2026-06-11 03:49:46,138 | INFO | VALIDO: https://www.youtube.com/watch?v=XjrdiXhgRVQ
+2026-06-11 03:49:47,843 | INFO | VALIDO: https://www.youtube.com/watch?v=XqdsoTNfzec
+2026-06-11 03:49:49,588 | INFO | VALIDO: https://www.youtube.com/watch?v=XyvshGf7OKs
+2026-06-11 03:49:51,311 | INFO | VALIDO: https://www.youtube.com/watch?v=Y3LF4Xgr_uw
+2026-06-11 03:49:53,244 | INFO | VALIDO: https://www.youtube.com/watch?v=YBOLTzGfJqk
+2026-06-11 03:49:55,239 | INFO | VALIDO: https://www.youtube.com/watch?v=YCzxBR6HYfs
+2026-06-11 03:49:57,042 | INFO | VALIDO: https://www.youtube.com/watch?v=YY1qYw_DX4U
+2026-06-11 03:49:58,700 | INFO | VALIDO: https://www.youtube.com/watch?v=Ymka-9FijTI
+2026-06-11 03:50:00,538 | INFO | VALIDO: https://www.youtube.com/watch?v=YvGUVyHwcIE
+2026-06-11 03:50:02,199 | INFO | VALIDO: https://www.youtube.com/watch?v=YvutGY8TgVM
+2026-06-11 03:50:03,993 | INFO | VALIDO: https://www.youtube.com/watch?v=Z3eRzYVka9c
+2026-06-11 03:50:05,782 | INFO | VALIDO: https://www.youtube.com/watch?v=ZSSlYjiGrVs
+2026-06-11 03:50:07,741 | ERROR | ZWb1ygjvd0Y | https://www.youtube.com/watch?v=ZWb1ygjvd0Y | ERROR_DESCONOCIDO | None
+2026-06-11 03:50:09,618 | INFO | VALIDO: https://www.youtube.com/watch?v=ZumsWsbpGeI
+2026-06-11 03:50:11,453 | INFO | VALIDO: https://www.youtube.com/watch?v=_3oi7YTcSSw
+2026-06-11 03:50:12,918 | ERROR | _DeCy7pOW40 | https://www.youtube.com/watch?v=_DeCy7pOW40 | ERROR_DESCONOCIDO | None
+2026-06-11 03:50:14,682 | INFO | VALIDO: https://www.youtube.com/watch?v=_NOQ5fyqhY0
+2026-06-11 03:50:16,646 | INFO | VALIDO: https://www.youtube.com/watch?v=_jdud6kKZKg
+2026-06-11 03:50:18,571 | INFO | VALIDO: https://www.youtube.com/watch?v=_m7orjmVPWo
+2026-06-11 03:50:20,634 | INFO | VALIDO: https://www.youtube.com/watch?v=_rBMa3I7s1U
+2026-06-11 03:50:22,400 | INFO | VALIDO: https://www.youtube.com/watch?v=a-xufr8Lfgg
+2026-06-11 03:50:24,008 | INFO | VALIDO: https://www.youtube.com/watch?v=a5y9ja6WxWA
+2026-06-11 03:50:26,003 | INFO | VALIDO: https://www.youtube.com/watch?v=abSCEhqOzEY
+2026-06-11 03:50:27,894 | INFO | VALIDO: https://www.youtube.com/watch?v=ahsZ3M8C4g0
+2026-06-11 03:50:29,848 | INFO | VALIDO: https://www.youtube.com/watch?v=asbHs4A3ykQ
+2026-06-11 03:50:31,656 | ERROR | avWTcLXBp7I | https://www.youtube.com/watch?v=avWTcLXBp7I | ERROR_DESCONOCIDO | None
+2026-06-11 03:50:33,217 | INFO | VALIDO: https://www.youtube.com/watch?v=axAMaFP_q1g
+2026-06-11 03:50:34,940 | INFO | VALIDO: https://www.youtube.com/watch?v=bPqYUKrU_2A
+2026-06-11 03:50:36,747 | INFO | VALIDO: https://www.youtube.com/watch?v=bWVHc032IPs
+2026-06-11 03:50:38,553 | ERROR | bnsgSZz1uJY | https://www.youtube.com/watch?v=bnsgSZz1uJY | ERROR_DESCONOCIDO | None
+2026-06-11 03:50:40,300 | INFO | VALIDO: https://www.youtube.com/watch?v=c2E6E3FdK7c
+2026-06-11 03:50:42,314 | INFO | VALIDO: https://www.youtube.com/watch?v=cBpjMSEuEvU
+2026-06-11 03:50:44,047 | INFO | VALIDO: https://www.youtube.com/watch?v=cuVXBaE7O3o
+2026-06-11 03:50:46,237 | INFO | VALIDO: https://www.youtube.com/watch?v=d5WpSHr0G9k
+2026-06-11 03:50:47,432 | INFO | VALIDO: https://www.youtube.com/watch?v=dhwL6UaKExM
+2026-06-11 03:50:48,749 | INFO | VALIDO: https://www.youtube.com/watch?v=dwC6DCDCMxA
+2026-06-11 03:50:49,960 | INFO | VALIDO: https://www.youtube.com/watch?v=e5roEk60w_k
+2026-06-11 03:50:51,219 | INFO | VALIDO: https://www.youtube.com/watch?v=eO93223c3cU
+2026-06-11 03:50:52,587 | INFO | VALIDO: https://www.youtube.com/watch?v=ef_eT1DWLsA
+2026-06-11 03:50:53,803 | INFO | VALIDO: https://www.youtube.com/watch?v=enFvefj1gkc
+2026-06-11 03:50:55,112 | INFO | VALIDO: https://www.youtube.com/watch?v=ep22ENIdq3U
+2026-06-11 03:50:56,448 | INFO | VALIDO: https://www.youtube.com/watch?v=eqAaMKPzBek
+2026-06-11 03:50:57,711 | ERROR | euGWuQPp1t0 | https://www.youtube.com/watch?v=euGWuQPp1t0 | ERROR_DESCONOCIDO | None
+2026-06-11 03:50:58,998 | INFO | VALIDO: https://www.youtube.com/watch?v=f1m1-FplGmY
+2026-06-11 03:51:00,183 | ERROR | fBBFCQ5TULE | https://www.youtube.com/watch?v=fBBFCQ5TULE | ERROR_DESCONOCIDO | None
+2026-06-11 03:51:01,341 | ERROR | fhNi4L5xScI | https://www.youtube.com/watch?v=fhNi4L5xScI | ERROR_DESCONOCIDO | None
+2026-06-11 03:51:02,497 | INFO | VALIDO: https://www.youtube.com/watch?v=fhqAxgxOP1A
+2026-06-11 03:51:03,926 | INFO | VALIDO: https://www.youtube.com/watch?v=gFKGHmUo-f4
+2026-06-11 03:51:05,077 | INFO | VALIDO: https://www.youtube.com/watch?v=g_sn520GhJA
+2026-06-11 03:51:06,206 | INFO | VALIDO: https://www.youtube.com/watch?v=gc_vxBw40OE
+2026-06-11 03:51:07,550 | INFO | VALIDO: https://www.youtube.com/watch?v=gk_w-vx1Zw8
+2026-06-11 03:51:08,928 | ERROR | griM-FRhgU8 | https://www.youtube.com/watch?v=griM-FRhgU8 | ERROR_DESCONOCIDO | None
+2026-06-11 03:51:10,308 | INFO | VALIDO: https://www.youtube.com/watch?v=hAp8A4glaRM
+2026-06-11 03:51:11,665 | INFO | VALIDO: https://www.youtube.com/watch?v=hxXc5EZx1zk
+2026-06-11 03:51:12,882 | INFO | VALIDO: https://www.youtube.com/watch?v=iWm5GLoCKaQ
+2026-06-11 03:51:14,074 | INFO | VALIDO: https://www.youtube.com/watch?v=ijeqwN4zQlk
+2026-06-11 03:51:15,348 | INFO | VALIDO: https://www.youtube.com/watch?v=ixlezjYgNJQ
+2026-06-11 03:51:16,439 | INFO | VALIDO: https://www.youtube.com/watch?v=j1f4lmQtq0U
+2026-06-11 03:51:17,602 | INFO | VALIDO: https://www.youtube.com/watch?v=jTzcJll_fv4
+2026-06-11 03:51:18,805 | INFO | VALIDO: https://www.youtube.com/watch?v=jju8p56xyFc
+2026-06-11 03:51:20,053 | INFO | VALIDO: https://www.youtube.com/watch?v=kTrAU5dg0Dg
+2026-06-11 03:51:21,264 | INFO | VALIDO: https://www.youtube.com/watch?v=l3OwzpclmLQ
+2026-06-11 03:51:22,390 | INFO | VALIDO: https://www.youtube.com/watch?v=l7gXXQLl4Zk
+2026-06-11 03:51:23,525 | INFO | VALIDO: https://www.youtube.com/watch?v=l_Ir24ZbJZo
+2026-06-11 03:51:24,828 | INFO | VALIDO: https://www.youtube.com/watch?v=m00c59UT77s
+2026-06-11 03:51:26,134 | INFO | VALIDO: https://www.youtube.com/watch?v=mJZbu4vxeK0
+2026-06-11 03:51:27,464 | INFO | VALIDO: https://www.youtube.com/watch?v=mUIceCtpcpc
+2026-06-11 03:51:28,678 | INFO | VALIDO: https://www.youtube.com/watch?v=mkr6Sn2rKww
+2026-06-11 03:51:29,953 | INFO | VALIDO: https://www.youtube.com/watch?v=mpAyOrFyWWg
+2026-06-11 03:51:31,083 | INFO | VALIDO: https://www.youtube.com/watch?v=n2hCF-JP90c
+2026-06-11 03:51:32,260 | INFO | VALIDO: https://www.youtube.com/watch?v=nCrMai6HxtI
+2026-06-11 03:51:33,512 | INFO | VALIDO: https://www.youtube.com/watch?v=nGVFe7CXPSI
+2026-06-11 03:51:34,828 | INFO | VALIDO: https://www.youtube.com/watch?v=nUb23841xNY
+2026-06-11 03:51:36,179 | INFO | VALIDO: https://www.youtube.com/watch?v=nZ8sgtFKAuk
+2026-06-11 03:51:37,474 | INFO | VALIDO: https://www.youtube.com/watch?v=nk7NtXMVK4Q
+2026-06-11 03:51:38,722 | INFO | VALIDO: https://www.youtube.com/watch?v=nmoXOQ0_Uxc
+2026-06-11 03:51:39,915 | INFO | VALIDO: https://www.youtube.com/watch?v=nxuJfPJoo4I
+2026-06-11 03:51:41,084 | INFO | VALIDO: https://www.youtube.com/watch?v=o8K_fTVG1EU
+2026-06-11 03:51:42,470 | INFO | VALIDO: https://www.youtube.com/watch?v=oK3rsN8ZhOQ
+2026-06-11 03:51:43,693 | INFO | VALIDO: https://www.youtube.com/watch?v=oSaLibDTBFw
+2026-06-11 03:51:44,972 | ERROR | oYo3eBbW4h8 | https://www.youtube.com/watch?v=oYo3eBbW4h8 | ERROR_DESCONOCIDO | None
+2026-06-11 03:51:46,178 | INFO | VALIDO: https://www.youtube.com/watch?v=obIJwwAkP28
+2026-06-11 03:51:47,401 | INFO | VALIDO: https://www.youtube.com/watch?v=ohDTAGQDM_Y
+2026-06-11 03:51:48,492 | INFO | VALIDO: https://www.youtube.com/watch?v=okAJfy1cMHE
+2026-06-11 03:51:49,872 | INFO | VALIDO: https://www.youtube.com/watch?v=ozrQRJtZ6eU
+2026-06-11 03:51:51,001 | ERROR | p0OzBcn_yYM | https://www.youtube.com/watch?v=p0OzBcn_yYM | ERROR_DESCONOCIDO | None
+2026-06-11 03:51:52,282 | INFO | VALIDO: https://www.youtube.com/watch?v=p5vtQCzhbzI
+2026-06-11 03:51:53,510 | INFO | VALIDO: https://www.youtube.com/watch?v=pJlQPVYTi1U
+2026-06-11 03:51:54,658 | ERROR | pQylCYoDq0k | https://www.youtube.com/watch?v=pQylCYoDq0k | ERROR_DESCONOCIDO | None
+2026-06-11 03:51:55,937 | INFO | VALIDO: https://www.youtube.com/watch?v=pkwMRzkuyFY
+2026-06-11 03:51:57,131 | INFO | VALIDO: https://www.youtube.com/watch?v=ps9jrUaGpKM
+2026-06-11 03:51:58,419 | INFO | VALIDO: https://www.youtube.com/watch?v=q3OpmJCJjCk
+2026-06-11 03:51:59,761 | INFO | VALIDO: https://www.youtube.com/watch?v=qdVWvQemM9U
+2026-06-11 03:52:01,137 | INFO | VALIDO: https://www.youtube.com/watch?v=qh_JFGknjwM
+2026-06-11 03:52:02,411 | ERROR | qoQSOb5gwqk | https://www.youtube.com/watch?v=qoQSOb5gwqk | ERROR_DESCONOCIDO | None
+2026-06-11 03:52:03,632 | ERROR | r-5IaFCqXZs | https://www.youtube.com/watch?v=r-5IaFCqXZs | ERROR_DESCONOCIDO | None
+2026-06-11 03:52:04,819 | INFO | VALIDO: https://www.youtube.com/watch?v=rJykN_sWaF4
+2026-06-11 03:52:06,094 | INFO | VALIDO: https://www.youtube.com/watch?v=rN4VRgz3BgE
+2026-06-11 03:52:07,279 | INFO | VALIDO: https://www.youtube.com/watch?v=s-4_1sm3Cvg
+2026-06-11 03:52:08,578 | INFO | VALIDO: https://www.youtube.com/watch?v=s9sXsDKqPoo
+2026-06-11 03:52:09,819 | INFO | VALIDO: https://www.youtube.com/watch?v=sWWqj1ke3ww
+2026-06-11 03:52:11,062 | INFO | VALIDO: https://www.youtube.com/watch?v=shLoMuuBTXs
+2026-06-11 03:52:12,238 | INFO | VALIDO: https://www.youtube.com/watch?v=snk99C7u590
+2026-06-11 03:52:13,557 | INFO | VALIDO: https://www.youtube.com/watch?v=t9Fe9oDl0-0
+2026-06-11 03:52:14,927 | INFO | VALIDO: https://www.youtube.com/watch?v=tB51TQeqhMo
+2026-06-11 03:52:16,155 | ERROR | tKdPjAwLmzs | https://www.youtube.com/watch?v=tKdPjAwLmzs | ERROR_DESCONOCIDO | None
+2026-06-11 03:52:17,295 | ERROR | taahX4z3XNo | https://www.youtube.com/watch?v=taahX4z3XNo | ERROR_DESCONOCIDO | None
+2026-06-11 03:52:18,494 | INFO | VALIDO: https://www.youtube.com/watch?v=u2GBIy51lDc
+2026-06-11 03:52:19,688 | INFO | VALIDO: https://www.youtube.com/watch?v=uOoLH6vUHHw
+2026-06-11 03:52:20,897 | INFO | VALIDO: https://www.youtube.com/watch?v=uRS-tvDmJjs
+2026-06-11 03:52:22,021 | ERROR | ulEpv3Usm5w | https://www.youtube.com/watch?v=ulEpv3Usm5w | ERROR_DESCONOCIDO | None
+2026-06-11 03:52:23,356 | INFO | VALIDO: https://www.youtube.com/watch?v=vBC0by0HieI
+2026-06-11 03:52:24,688 | INFO | VALIDO: https://www.youtube.com/watch?v=vNubV2dY9dE
+2026-06-11 03:52:25,750 | INFO | VALIDO: https://www.youtube.com/watch?v=vjl3YuUHw40
+2026-06-11 03:52:26,905 | INFO | VALIDO: https://www.youtube.com/watch?v=wLXl623zvGQ
+2026-06-11 03:52:28,144 | INFO | VALIDO: https://www.youtube.com/watch?v=woRlKzr29CA
+2026-06-11 03:52:29,384 | INFO | VALIDO: https://www.youtube.com/watch?v=x2uEtuazglQ
+2026-06-11 03:52:30,679 | INFO | VALIDO: https://www.youtube.com/watch?v=xD5ZLNF-tho
+2026-06-11 03:52:31,966 | INFO | VALIDO: https://www.youtube.com/watch?v=xQrwM-2aKgM
+2026-06-11 03:52:33,223 | INFO | VALIDO: https://www.youtube.com/watch?v=xTmcwOkfj4I
+2026-06-11 03:52:34,560 | INFO | VALIDO: https://www.youtube.com/watch?v=y3M3kzBlzUk
+2026-06-11 03:52:35,738 | INFO | VALIDO: https://www.youtube.com/watch?v=yctZZfwyBiY
+2026-06-11 03:52:36,975 | INFO | VALIDO: https://www.youtube.com/watch?v=ymT8F9Zw-Tg
+2026-06-11 03:52:38,284 | INFO | VALIDO: https://www.youtube.com/watch?v=yqvdtuIkacg
+2026-06-11 03:52:39,521 | INFO | VALIDO: https://www.youtube.com/watch?v=yrqcW7S3JGQ
+2026-06-11 03:52:40,764 | INFO | VALIDO: https://www.youtube.com/watch?v=yzqodlsNg0g
+2026-06-11 03:52:41,912 | INFO | VALIDO: https://www.youtube.com/watch?v=zA2ySeGjlPc
+2026-06-11 03:52:43,095 | INFO | VALIDO: https://www.youtube.com/watch?v=zBNi-qfKxl0
+2026-06-11 03:52:44,319 | INFO | VALIDO: https://www.youtube.com/watch?v=zMJHw_rqU7k
+2026-06-11 03:52:45,430 | INFO | VALIDO: https://www.youtube.com/watch?v=zr1RYN7kvAw
+2026-06-11 03:52:46,809 | INFO | VALIDO: https://www.youtube.com/watch?v=zyACDwpl9lU
+2026-06-11 03:52:46,811 | INFO | Validación completada.
+2026-06-11 04:06:15,070 | INFO | Iniciando descarga de comentarios...
+2026-06-11 04:06:16,728 | INFO | -3oQizWTm6g -> 3 comentarios
+2026-06-11 04:06:21,756 | INFO | -LQTFRLGaXU -> 5 comentarios
+2026-06-11 04:06:26,081 | INFO | -hljuZOSQRY -> 13 comentarios
+2026-06-11 04:06:32,978 | INFO | -jhkvYe3DIE -> 37 comentarios
+2026-06-11 04:06:36,940 | INFO | -n8sDCY06HA -> 4 comentarios
+2026-06-11 04:06:40,966 | INFO | 0-endP9mRys -> 11 comentarios
+2026-06-11 04:06:46,366 | INFO | 04AZYn3MTsg -> 2 comentarios
+2026-06-11 04:06:51,029 | INFO | 0F8NYrFRcvo -> 3 comentarios
+2026-06-11 04:06:54,573 | INFO | 0FNF-06fUf8 -> 0 comentarios
+2026-06-11 04:06:59,292 | INFO | 0f2IeO2D0E8 -> 3 comentarios
+2026-06-11 04:07:04,899 | INFO | 0glJRf0gPgk -> 6 comentarios
+2026-06-11 04:07:09,520 | INFO | 0kbgGe32VJ8 -> 7 comentarios
+2026-06-11 04:07:12,529 | INFO | 1LFvEg4rCyk -> 0 comentarios
+2026-06-11 04:07:17,684 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=1XloJUfEbfE: Failed to set sorting
+2026-06-11 04:07:18,483 | INFO | 1aIuVPHeIts -> 1 comentarios
+2026-06-11 04:07:23,110 | INFO | 1oro-Dbv610 -> 4 comentarios
+2026-06-11 04:07:28,753 | INFO | 1p0LGIqR_k0 -> 4 comentarios
+2026-06-11 04:07:34,454 | INFO | 1r_ugCtCgnM -> 3 comentarios
+2026-06-11 04:07:39,977 | INFO | 1riA11y67vc -> 10 comentarios
+2026-06-11 04:07:44,395 | INFO | 1upUST-r3iw -> 0 comentarios
+2026-06-11 04:07:49,955 | INFO | 1wzRCIzmX_o -> 11 comentarios
+2026-06-11 04:07:53,857 | INFO | 22ovpK3pZmI -> 6 comentarios
+2026-06-11 04:07:56,806 | INFO | 2BZD7yM9aLE -> 1 comentarios
+2026-06-11 04:08:00,620 | INFO | 3CcpQFkQ1X8 -> 3 comentarios
+2026-06-11 04:08:04,585 | INFO | 3FJDrFFu6QI -> 0 comentarios
+2026-06-11 04:08:08,286 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=3MI4P2GRTYc: Failed to set sorting
+2026-06-11 04:08:09,096 | INFO | 3WvYkTHM3wc -> 1 comentarios
+2026-06-11 04:08:12,925 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=3hOAt-vrX1Q: Failed to set sorting
+2026-06-11 04:08:13,894 | INFO | 3jHHuemHwR0 -> 4 comentarios
+2026-06-11 04:08:17,902 | INFO | 4XUwEGDkGNk -> 3 comentarios
+2026-06-11 04:08:21,488 | INFO | 59Hf8BK_qh8 -> 7 comentarios
+2026-06-11 04:08:25,338 | INFO | 5HQir7vo8Sw -> 9 comentarios
+2026-06-11 04:08:30,377 | INFO | 5KawEz-So30 -> 0 comentarios
+2026-06-11 04:08:35,321 | INFO | 5akqZrtaLG8 -> 2 comentarios
+2026-06-11 04:08:38,452 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=5gmLu_TJNyY: Failed to set sorting
+2026-06-11 04:08:39,107 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=5zLDT2-ju9Y: Failed to set sorting
+2026-06-11 04:08:48,014 | INFO | 6R77muguBXw -> 87 comentarios
+2026-06-11 04:08:54,694 | INFO | 6cQ-SXLZ2AE -> 21 comentarios
+2026-06-11 04:08:59,987 | INFO | 6l5J4N5SY24 -> 0 comentarios
+2026-06-11 04:09:05,099 | INFO | 7OgAAwjamwM -> 1 comentarios
+2026-06-11 04:09:09,103 | INFO | 7RvOAiztpLI -> 10 comentarios
+2026-06-11 04:09:13,487 | INFO | 7aMY-MtOuVs -> 5 comentarios
+2026-06-11 04:09:19,958 | INFO | 7fymnVkNxkg -> 32 comentarios
+2026-06-11 04:09:23,881 | INFO | 84m6vZc7WDc -> 1 comentarios
+2026-06-11 04:09:27,590 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=8Yx8sInm5FI: Failed to set sorting
+2026-06-11 04:09:28,356 | INFO | 8Z85LoQxl0A -> 1 comentarios
+2026-06-11 04:09:31,183 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=9C_jmgzHngo: Failed to set sorting
+2026-06-11 04:09:31,815 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=9SdpGOltwyc: Failed to set sorting
+2026-06-11 04:09:32,586 | INFO | 9uqr6UvcKzg -> 0 comentarios
+2026-06-11 04:09:37,526 | INFO | AMX9ncLJK9A -> 0 comentarios
+2026-06-11 04:09:41,779 | INFO | AVqtIy6eCb8 -> 0 comentarios
+2026-06-11 04:09:45,514 | INFO | AuKs97cqHuE -> 3 comentarios
+2026-06-11 04:09:51,099 | INFO | B7kqwXxPnf0 -> 16 comentarios
+2026-06-11 04:09:56,852 | INFO | BM46L7sFbLQ -> 2 comentarios
+2026-06-11 04:10:54,717 | INFO | BQJu4EuZIFI -> 968 comentarios
+2026-06-11 04:10:59,018 | INFO | BgV-cBRzh90 -> 0 comentarios
+2026-06-11 04:11:04,284 | INFO | BjYvrg-6nUw -> 0 comentarios
+2026-06-11 04:11:10,421 | INFO | C67ZfSeWb6w -> 4 comentarios
+2026-06-11 04:11:15,567 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=C9yV_TFoJ4s: Failed to set sorting
+2026-06-11 04:11:16,198 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=CNysSlPeKII: Failed to set sorting
+2026-06-11 04:11:17,067 | INFO | CNz0mgrtQik -> 3 comentarios
+2026-06-11 04:11:21,071 | INFO | CPfxqLmAnl8 -> 4 comentarios
+2026-06-11 04:11:24,613 | INFO | CdtHBPQRVus -> 2 comentarios
+2026-06-11 04:11:28,078 | INFO | CoxXR-mtQbk -> 0 comentarios
+2026-06-11 04:11:32,043 | INFO | CxsOZg6bbOY -> 8 comentarios
+2026-06-11 04:11:37,025 | INFO | D6i1wrd0b-E -> 5 comentarios
+2026-06-11 04:11:42,957 | INFO | E1XNCAXQY0A -> 2 comentarios
+2026-06-11 04:11:48,713 | INFO | E7QaC5gM4zg -> 2 comentarios
+2026-06-11 04:11:52,895 | INFO | E7QooRLFmXU -> 6 comentarios
+2026-06-11 04:11:57,960 | INFO | EqPegNWaPu4 -> 13 comentarios
+2026-06-11 04:12:02,866 | INFO | F6Agm-JWB1U -> 11 comentarios
+2026-06-11 04:12:07,032 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=F7BkyQJVBXE: Failed to set sorting
+2026-06-11 04:12:08,018 | INFO | FooZJ9xaaCk -> 2 comentarios
+2026-06-11 04:12:11,636 | INFO | G0NVuip0Z4I -> 0 comentarios
+2026-06-11 04:12:17,189 | INFO | G3rJGyYui04 -> 6 comentarios
+2026-06-11 04:12:22,576 | INFO | GaM_fq3VCKg -> 1 comentarios
+2026-06-11 04:12:26,012 | INFO | GcBL3D85qTU -> 2 comentarios
+2026-06-11 04:12:32,697 | INFO | GeXCeoLd92s -> 39 comentarios
+2026-06-11 04:12:35,591 | INFO | GkvdeEatu3g -> 4 comentarios
+2026-06-11 04:12:45,044 | INFO | GqF9BoFoS8E -> 78 comentarios
+2026-06-11 04:12:51,011 | INFO | H51wiM_v8AY -> 2 comentarios
+2026-06-11 04:12:56,139 | INFO | HHmfaLGfx-E -> 5 comentarios
+2026-06-11 04:13:01,670 | INFO | HP__kCuwCtg -> 2 comentarios
+2026-06-11 04:13:06,717 | INFO | Hg3tTOTMWFk -> 4 comentarios
+2026-06-11 04:13:12,387 | INFO | Hggn8BOGkSY -> 1 comentarios
+2026-06-11 04:13:18,212 | INFO | HhnturaQMJQ -> 14 comentarios
+2026-06-11 04:13:21,755 | INFO | Hni6THrR1IE -> 0 comentarios
+2026-06-11 04:13:26,153 | INFO | I2l2MVsR3h4 -> 0 comentarios
+2026-06-11 04:13:31,791 | INFO | IVjjFq2X8ZE -> 5 comentarios
+2026-06-11 04:13:37,469 | INFO | IX3ivwk_WfQ -> 2 comentarios
+2026-06-11 04:13:43,226 | INFO | J8DUqlPN75c -> 3 comentarios
+2026-06-11 04:13:48,450 | INFO | JRk-JdaUWu4 -> 2 comentarios
+2026-06-11 04:13:52,587 | INFO | JSVMUbrUHOU -> 16 comentarios
+2026-06-11 04:13:56,507 | INFO | JSrcKsbVz98 -> 2 comentarios
+2026-06-11 04:14:01,415 | INFO | JV9cee3lE8A -> 0 comentarios
+2026-06-11 04:14:06,793 | INFO | JdMyoyVU68A -> 3 comentarios
+2026-06-11 04:14:12,412 | INFO | K1_y63sjysA -> 0 comentarios
+2026-06-11 04:14:18,005 | INFO | KGFNe5sHwhU -> 0 comentarios
+2026-06-11 04:14:23,621 | INFO | KR8J_0142q8 -> 3 comentarios
+2026-06-11 04:14:29,957 | INFO | LflXQeFIQZE -> 19 comentarios
+2026-06-11 04:14:35,311 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=M4NG31TOx_U: Failed to set sorting
+2026-06-11 04:14:35,811 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=M7klZsAX_nk: Failed to set sorting
+2026-06-11 04:14:36,515 | INFO | MMXllWfBo40 -> 0 comentarios
+2026-06-11 04:14:40,963 | INFO | MWIeYdmgS3o -> 0 comentarios
+2026-06-11 04:14:45,475 | INFO | NNGPWK8Ok4o -> 9 comentarios
+2026-06-11 04:14:50,432 | INFO | NYNys_5MtMw -> 4 comentarios
+2026-06-11 04:14:56,130 | INFO | NaKuyEJkv1g -> 0 comentarios
+2026-06-11 04:15:01,553 | INFO | NhjvWBnJc8s -> 0 comentarios
+2026-06-11 04:15:07,237 | INFO | Nk8YK1nDbqg -> 4 comentarios
+2026-06-11 04:15:11,829 | INFO | NoN-bd9mB_o -> 5 comentarios
+2026-06-11 04:15:15,394 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=OL28v9sl7yQ: Failed to set sorting
+2026-06-11 04:15:16,185 | INFO | OT_Rn-8vaoU -> 2 comentarios
+2026-06-11 04:15:22,035 | INFO | Olr3cwtKnH8 -> 16 comentarios
+2026-06-11 04:15:25,279 | INFO | Oqzm8bX9Kys -> 0 comentarios
+2026-06-11 04:15:31,377 | INFO | PHkGaC38z78 -> 74 comentarios
+2026-06-11 04:15:34,849 | INFO | PIztKfEYLHw -> 6 comentarios
+2026-06-11 04:15:40,335 | INFO | PJweRnCvcwM -> 7 comentarios
+2026-06-11 04:15:43,940 | INFO | PLGNTmb0gAk -> 2 comentarios
+2026-06-11 04:15:48,499 | INFO | PMM0rT7BMtA -> 2 comentarios
+2026-06-11 04:15:53,314 | INFO | PhF9IUaai9k -> 6 comentarios
+2026-06-11 04:15:59,259 | INFO | PmOTKxbyWjs -> 67 comentarios
+2026-06-11 04:16:02,702 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=Psbx4LXe1VY: Failed to set sorting
+2026-06-11 04:16:03,793 | INFO | PwxVT96Qmn8 -> 14 comentarios
+2026-06-11 04:16:07,925 | INFO | Q523rOh66ig -> 9 comentarios
+2026-06-11 04:16:12,345 | INFO | QBP5p1_b1fQ -> 26 comentarios
+2026-06-11 04:16:18,388 | INFO | QYTm4c0DIq4 -> 8 comentarios
+2026-06-11 04:16:21,507 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=Qh948YgYYS0: Failed to set sorting
+2026-06-11 04:16:22,507 | INFO | QmSDhHdN0ac -> 3 comentarios
+2026-06-11 04:16:25,349 | INFO | QmYn3PZnmNM -> 0 comentarios
+2026-06-11 04:16:29,953 | INFO | QrrAujgpfHg -> 0 comentarios
+2026-06-11 04:16:33,382 | INFO | Rh0cHqQMo8A -> 2 comentarios
+2026-06-11 04:16:35,917 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=RvmxHQmEl0g: Failed to set sorting
+2026-06-11 04:16:37,319 | INFO | S8YieJuP-dg -> 7 comentarios
+2026-06-11 04:16:41,229 | INFO | SEi6RCa-t10 -> 5 comentarios
+2026-06-11 04:16:44,999 | INFO | SIHIEpPaYGE -> 0 comentarios
+2026-06-11 04:16:49,593 | INFO | SyfrDmAJjCQ -> 0 comentarios
+2026-06-11 04:16:53,422 | INFO | TqfZf0KwI4Y -> 2 comentarios
+2026-06-11 04:16:58,702 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=Twllhnx7G6c: Failed to set sorting
+2026-06-11 04:16:59,436 | INFO | URYWzPVHiAs -> 1 comentarios
+2026-06-11 04:17:02,181 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=V2gM0K_h5Es: Failed to set sorting
+2026-06-11 04:17:03,660 | INFO | VLhgtujGvBM -> 9 comentarios
+2026-06-11 04:17:08,575 | INFO | VS-L0uqa-sQ -> 0 comentarios
+2026-06-11 04:17:13,357 | INFO | VYTn5rDxWnE -> 7 comentarios
+2026-06-11 04:17:17,601 | INFO | VZWVG8Pqxtg -> 0 comentarios
+2026-06-11 04:17:21,856 | INFO | Vw069dT12wU -> 20 comentarios
+2026-06-11 04:17:27,488 | INFO | W14Ed-y7JvM -> 6 comentarios
+2026-06-11 04:17:33,263 | INFO | W20juAtwfMw -> 0 comentarios
+2026-06-11 04:17:36,938 | INFO | WMjRauxRE_I -> 6 comentarios
+2026-06-11 04:17:40,289 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=WObX-w_w22M: Failed to set sorting
+2026-06-11 04:17:41,316 | INFO | WUhYj3qEyZY -> 5 comentarios
+2026-06-11 04:17:45,544 | INFO | XPyeIOqI6qY -> 8 comentarios
+2026-06-11 04:17:50,047 | INFO | XeDsbrESR0o -> 2 comentarios
+2026-06-11 04:17:53,710 | INFO | XjrdiXhgRVQ -> 1 comentarios
+2026-06-11 04:17:56,824 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=XqdsoTNfzec: Failed to set sorting
+2026-06-11 04:17:58,911 | INFO | XyvshGf7OKs -> 18 comentarios
+2026-06-11 04:18:03,053 | INFO | Y3LF4Xgr_uw -> 7 comentarios
+2026-06-11 04:18:08,660 | INFO | YBOLTzGfJqk -> 2 comentarios
+2026-06-11 04:18:14,898 | INFO | YCzxBR6HYfs -> 10 comentarios
+2026-06-11 04:18:19,874 | INFO | YY1qYw_DX4U -> 9 comentarios
+2026-06-11 04:18:25,313 | INFO | Ymka-9FijTI -> 10 comentarios
+2026-06-11 04:18:30,944 | INFO | YvGUVyHwcIE -> 0 comentarios
+2026-06-11 04:18:34,427 | INFO | YvutGY8TgVM -> 1 comentarios
+2026-06-11 04:18:40,510 | INFO | Z3eRzYVka9c -> 2 comentarios
+2026-06-11 04:18:43,259 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=ZSSlYjiGrVs: Failed to set sorting
+2026-06-11 04:18:44,063 | INFO | ZumsWsbpGeI -> 1 comentarios
+2026-06-11 04:18:50,054 | INFO | _3oi7YTcSSw -> 3 comentarios
+2026-06-11 04:18:54,900 | INFO | _NOQ5fyqhY0 -> 4 comentarios
+2026-06-11 04:18:59,204 | INFO | _jdud6kKZKg -> 13 comentarios
+2026-06-11 04:19:02,618 | INFO | _m7orjmVPWo -> 0 comentarios
+2026-06-11 04:19:05,953 | INFO | _rBMa3I7s1U -> 2 comentarios
+2026-06-11 04:19:10,843 | INFO | a-xufr8Lfgg -> 2 comentarios
+2026-06-11 04:19:17,729 | INFO | a5y9ja6WxWA -> 10 comentarios
+2026-06-11 04:19:21,595 | INFO | abSCEhqOzEY -> 1 comentarios
+2026-06-11 04:19:26,210 | INFO | ahsZ3M8C4g0 -> 1 comentarios
+2026-06-11 04:19:31,582 | INFO | asbHs4A3ykQ -> 2 comentarios
+2026-06-11 04:19:35,139 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=axAMaFP_q1g: Failed to set sorting
+2026-06-11 04:19:36,608 | INFO | bPqYUKrU_2A -> 7 comentarios
+2026-06-11 04:19:39,981 | INFO | bWVHc032IPs -> 2 comentarios
+2026-06-11 04:19:44,072 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=c2E6E3FdK7c: Failed to set sorting
+2026-06-11 04:19:46,400 | INFO | cBpjMSEuEvU -> 26 comentarios
+2026-06-11 04:19:50,851 | INFO | cuVXBaE7O3o -> 0 comentarios
+2026-06-11 04:19:55,191 | INFO | d5WpSHr0G9k -> 0 comentarios
+2026-06-11 04:20:28,838 | INFO | dhwL6UaKExM -> 607 comentarios
+2026-06-11 04:20:33,521 | INFO | dwC6DCDCMxA -> 3 comentarios
+2026-06-11 04:20:37,108 | INFO | e5roEk60w_k -> 2 comentarios
+2026-06-11 04:20:42,095 | INFO | eO93223c3cU -> 0 comentarios
+2026-06-11 04:20:47,703 | INFO | ef_eT1DWLsA -> 9 comentarios
+2026-06-11 04:20:55,733 | INFO | enFvefj1gkc -> 46 comentarios
+2026-06-11 04:20:59,400 | INFO | ep22ENIdq3U -> 0 comentarios
+2026-06-11 04:21:04,270 | INFO | eqAaMKPzBek -> 9 comentarios
+2026-06-11 04:21:07,945 | INFO | f1m1-FplGmY -> 20 comentarios
+2026-06-11 04:21:15,223 | INFO | fhqAxgxOP1A -> 29 comentarios
+2026-06-11 04:21:21,041 | INFO | gFKGHmUo-f4 -> 9 comentarios
+2026-06-11 04:21:28,820 | INFO | g_sn520GhJA -> 24 comentarios
+2026-06-11 04:21:33,839 | INFO | gc_vxBw40OE -> 0 comentarios
+2026-06-11 04:21:38,495 | INFO | gk_w-vx1Zw8 -> 1 comentarios
+2026-06-11 04:21:41,692 | INFO | hAp8A4glaRM -> 3 comentarios
+2026-06-11 04:21:47,829 | INFO | hxXc5EZx1zk -> 5 comentarios
+2026-06-11 04:21:52,393 | INFO | iWm5GLoCKaQ -> 3 comentarios
+2026-06-11 04:21:56,859 | INFO | ijeqwN4zQlk -> 2 comentarios
+2026-06-11 04:22:01,063 | INFO | ixlezjYgNJQ -> 19 comentarios
+2026-06-11 04:22:05,337 | INFO | j1f4lmQtq0U -> 2 comentarios
+2026-06-11 04:22:10,415 | INFO | jTzcJll_fv4 -> 4 comentarios
+2026-06-11 04:22:13,882 | INFO | jju8p56xyFc -> 4 comentarios
+2026-06-11 04:22:18,579 | INFO | kTrAU5dg0Dg -> 4 comentarios
+2026-06-11 04:22:22,265 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=l3OwzpclmLQ: Failed to set sorting
+2026-06-11 04:22:25,902 | INFO | l7gXXQLl4Zk -> 38 comentarios
+2026-06-11 04:22:31,292 | INFO | l_Ir24ZbJZo -> 11 comentarios
+2026-06-11 04:22:35,914 | INFO | m00c59UT77s -> 15 comentarios
+2026-06-11 04:22:41,845 | INFO | mJZbu4vxeK0 -> 4 comentarios
+2026-06-11 04:22:46,820 | INFO | mUIceCtpcpc -> 8 comentarios
+2026-06-11 04:22:50,614 | INFO | mkr6Sn2rKww -> 1 comentarios
+2026-06-11 04:22:58,257 | INFO | mpAyOrFyWWg -> 80 comentarios
+2026-06-11 04:23:04,018 | INFO | n2hCF-JP90c -> 2 comentarios
+2026-06-11 04:23:10,195 | INFO | nCrMai6HxtI -> 8 comentarios
+2026-06-11 04:23:16,194 | INFO | nGVFe7CXPSI -> 9 comentarios
+2026-06-11 04:23:19,624 | INFO | nUb23841xNY -> 3 comentarios
+2026-06-11 04:23:24,712 | INFO | nZ8sgtFKAuk -> 19 comentarios
+2026-06-11 04:23:30,356 | INFO | nk7NtXMVK4Q -> 0 comentarios
+2026-06-11 04:23:35,106 | INFO | nmoXOQ0_Uxc -> 1 comentarios
+2026-06-11 04:23:38,879 | INFO | nxuJfPJoo4I -> 0 comentarios
+2026-06-11 04:23:42,058 | INFO | o8K_fTVG1EU -> 7 comentarios
+2026-06-11 04:23:45,499 | INFO | oK3rsN8ZhOQ -> 0 comentarios
+2026-06-11 04:23:51,188 | INFO | oSaLibDTBFw -> 6 comentarios
+2026-06-11 04:23:56,195 | INFO | obIJwwAkP28 -> 2 comentarios
+2026-06-11 04:24:03,273 | INFO | ohDTAGQDM_Y -> 15 comentarios
+2026-06-11 04:24:06,799 | INFO | okAJfy1cMHE -> 0 comentarios
+2026-06-11 04:24:12,042 | INFO | ozrQRJtZ6eU -> 0 comentarios
+2026-06-11 04:24:16,971 | INFO | p5vtQCzhbzI -> 2 comentarios
+2026-06-11 04:24:22,573 | INFO | pJlQPVYTi1U -> 1 comentarios
+2026-06-11 04:24:26,714 | INFO | pkwMRzkuyFY -> 2 comentarios
+2026-06-11 04:24:33,841 | INFO | ps9jrUaGpKM -> 23 comentarios
+2026-06-11 04:24:38,363 | INFO | q3OpmJCJjCk -> 9 comentarios
+2026-06-11 04:24:43,842 | INFO | qdVWvQemM9U -> 5 comentarios
+2026-06-11 04:24:49,928 | INFO | qh_JFGknjwM -> 8 comentarios
+2026-06-11 04:24:55,152 | INFO | rJykN_sWaF4 -> 1 comentarios
+2026-06-11 04:24:58,931 | INFO | rN4VRgz3BgE -> 1 comentarios
+2026-06-11 04:25:03,026 | INFO | s-4_1sm3Cvg -> 8 comentarios
+2026-06-11 04:25:13,416 | INFO | s9sXsDKqPoo -> 76 comentarios
+2026-06-11 04:25:19,948 | INFO | sWWqj1ke3ww -> 35 comentarios
+2026-06-11 04:25:24,832 | INFO | shLoMuuBTXs -> 0 comentarios
+2026-06-11 04:25:29,922 | INFO | snk99C7u590 -> 4 comentarios
+2026-06-11 04:25:32,869 | INFO | t9Fe9oDl0-0 -> 0 comentarios
+2026-06-11 04:25:42,040 | INFO | tB51TQeqhMo -> 56 comentarios
+2026-06-11 04:25:47,397 | INFO | u2GBIy51lDc -> 0 comentarios
+2026-06-11 04:25:52,125 | INFO | uOoLH6vUHHw -> 0 comentarios
+2026-06-11 04:25:58,317 | INFO | uRS-tvDmJjs -> 10 comentarios
+2026-06-11 04:26:01,528 | INFO | vBC0by0HieI -> 0 comentarios
+2026-06-11 04:26:06,498 | INFO | vNubV2dY9dE -> 10 comentarios
+2026-06-11 04:26:10,029 | INFO | vjl3YuUHw40 -> 1 comentarios
+2026-06-11 04:26:13,076 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=wLXl623zvGQ: Failed to set sorting
+2026-06-11 04:26:13,823 | INFO | woRlKzr29CA -> 0 comentarios
+2026-06-11 04:26:22,286 | INFO | x2uEtuazglQ -> 29 comentarios
+2026-06-11 04:26:25,262 | INFO | xD5ZLNF-tho -> 8 comentarios
+2026-06-11 04:26:30,727 | INFO | xQrwM-2aKgM -> 0 comentarios
+2026-06-11 04:26:36,121 | INFO | xTmcwOkfj4I -> 6 comentarios
+2026-06-11 04:26:39,172 | INFO | y3M3kzBlzUk -> 2 comentarios
+2026-06-11 04:26:44,972 | INFO | yctZZfwyBiY -> 7 comentarios
+2026-06-11 04:26:50,640 | INFO | ymT8F9Zw-Tg -> 2 comentarios
+2026-06-11 04:26:54,710 | INFO | yqvdtuIkacg -> 0 comentarios
+2026-06-11 04:26:58,507 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=yrqcW7S3JGQ: Failed to set sorting
+2026-06-11 04:26:59,031 | ERROR | Error descargando comentarios https://www.youtube.com/watch?v=yzqodlsNg0g: Failed to set sorting
+2026-06-11 04:27:00,602 | INFO | zA2ySeGjlPc -> 10 comentarios
+2026-06-11 04:27:03,517 | INFO | zBNi-qfKxl0 -> 0 comentarios
+2026-06-11 04:27:09,488 | INFO | zMJHw_rqU7k -> 5 comentarios
+2026-06-11 04:27:12,543 | INFO | zr1RYN7kvAw -> 0 comentarios
+2026-06-11 04:27:17,445 | INFO | zyACDwpl9lU -> 6 comentarios
+2026-06-11 04:27:20,664 | INFO | Comentarios descargados: 3424
+2026-06-11 04:32:46,753 | INFO | Iniciando limpieza de comentarios...
+2026-06-11 04:34:19,178 | INFO | Comentarios limpios: 16843
+2026-06-11 04:34:19,178 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\out_clean.txt
+2026-06-11 04:35:20,620 | INFO | Iniciando limpieza de comentarios...
+2026-06-11 04:35:37,937 | INFO | Comentarios limpios: 3313
+2026-06-11 04:35:37,937 | INFO | Archivo generado: C:\Users\ledez\OneDrive\Desktop\ppers\LESCO-Project\LESCOV2\output\out_clean.txt

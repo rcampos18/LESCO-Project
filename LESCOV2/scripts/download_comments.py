@@ -13,6 +13,30 @@ from utils import (
 
 downloader = YoutubeCommentDownloader()
 
+import re
+
+def clean_comment_text(text: str) -> str:
+    """
+    Limpia comentarios para guardarlos en una sola línea.
+    """
+
+    if not text:
+        return ""
+
+    # Saltos de línea
+    text = re.sub(r'[\r\n]+', ' ', text)
+
+    # Tabs
+    text = re.sub(r'\t+', ' ', text)
+
+    # Espacios múltiples
+    text = re.sub(r'\s+', ' ', text)
+
+    # Caracteres invisibles frecuentes
+    text = text.replace('\u200b', '')
+    text = text.replace('\ufeff', '')
+
+    return text.strip()
 
 def save_header_if_needed():
     """
@@ -41,7 +65,6 @@ def save_header_if_needed():
                 "Likes",
                 "Hace cuanto tiempo"
             ])
-
 
 def download_comments():
 
@@ -79,11 +102,20 @@ def download_comments():
 
                 for comment in comments:
 
+                    comment_text = clean_comment_text(
+                        comment.get("text", "")
+                    )
+
+                    if not comment_text:
+                        continue
+
                     writer.writerow([
                         url,
                         video_id,
-                        comment.get("author", ""),
-                        comment.get("text", ""),
+                        clean_comment_text(
+                            comment.get("author", "")
+                        ),
+                        comment_text,
                         comment.get("votes", 0),
                         comment.get("time", "")
                     ])
