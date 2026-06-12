@@ -4,7 +4,7 @@ from pysentimiento import create_analyzer
 from tqdm import tqdm
 
 # 1. File Configuration
-TXT_FILE = "output/out.txt"  # Change this to your file name
+TXT_FILE = "output/out_clean.txt"  # Change this to your file name
 OUTPUT_EXCEL = "output/sentiment_results.xlsx"
 
 def analyze_local_comments():
